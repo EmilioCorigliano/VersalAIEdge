@@ -1,0 +1,1 @@
+set(DRIVER_LIST aiebaremetal;aiefal;aienginev2;axidma;bram;cframe;cfupmc;common;coresightps_dcc;csudma;emacps;gpiops;iicps;ipipsu;mm2s;ospipsv;rtcpsu;s2mm;scugic;sdps;sysmonpsv;tmrctr;trngpsv;ttcps;uartlite;uartpsv;usbpsu;xilsem;zdma)

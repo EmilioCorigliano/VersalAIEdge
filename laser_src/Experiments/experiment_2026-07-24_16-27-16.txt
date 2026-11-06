@@ -1,0 +1,89 @@
+0.017 [400.000 MHz] curr: 42.094	max:43.219
+0.017 [400.000 MHz] curr: 42.938	max:43.219
+0.017 [400.000 MHz] curr: 42.234	max:43.219
+0.017 [400.000 MHz] curr: 42.586	max:43.219
+0.017 [400.000 MHz] curr: 42.297	max:43.219
+0.017 [400.000 MHz] curr: 42.234	max:43.219
+0.017 [400.000 MHz] curr: 42.469	max:43.234
+0.017 [400.000 MHz] curr: 42.234	max:43.266
+0.017 [400.000 MHz] curr: 42.539	max:43.266
+0.017 [400.000 MHz] curr: 42.266	max:43.266
+0.017 [400.000 MHz] curr: 42.328	max:43.266
+0.017 [400.000 MHz] curr: 42.344	max:43.266
+0.017 [400.000 MHz] curr: 42.430	max:43.266
+0.017 [400.000 MHz] curr: 42.422	max:43.266
+0.017 [400.000 MHz] curr: 42.578	max:43.266
+0.017 [400.000 MHz] curr: 42.617	max:43.289
+0.017 [400.000 MHz] curr: 42.781	max:43.289
+[0.015]****************************************
+[0.061]Xilinx Versal Platform Loader and Manager
+[0.109]Release 2025.2   Jul 24 2026  -  13:02:44
+[0.159]Platform Version: v2.0 PMC: v2.0, PS: v2.0
+[0.218]BOOTMODE: 0x0, MULTIBOOT: 0x0
+[0.259]****************************************
+[0.536]Non Secure Boot
+[4.349]PLM Initialization Time
+[4.388]***********Boot PDI Load: Started***********
+[4.465]Loading PDI from SBI
+[4.501]Monolithic/Master Device
+[4.816]0.369 ms: PDI initialization time
+[4.866]+++Loading Image#: 0x1, Name: lpd, Id: 0x04210002
+[4.930]---Loading Partition#: 0x1, Id: 0xC
+ERROR! MBIST failed for LPD, RegValue = 0x60
+SKIPPING MBIST FAILURE
+[65.069] 60.079 ms for Partition#: 0x1, Size: 9584 Bytes
+[69.791]---Loading Partition#: 0x2, Id: 0xB
+[93.024] 19.500 ms for Partition#: 0x2, Size: 35216 Bytes
+[95.424]+++Loading Image#: 0x2, Name: fpd, Id: 0x0420C003
+[100.067]---Loading Partition#: 0x3, Id: 0x8
+[104.843] 0.961 ms for Partition#: 0x3, Size: 4544 Bytes
+[108.696]+++Loading Image#: 0x3, Name: pl_cfi, Id: 0x18700000
+[113.898]---Loading Partition#: 0x4, Id: 0x3
+[227.820] 110.102 ms for Partition#: 0x4, Size: 190656 Bytes
+[230.229]---Loading Partition#: 0x5, Id: 0x5
+[485.327] 251.281 ms for Partition#: 0x5, Size: 420224 Bytes
+[488.103]+++Loading Image#: 0x4, Name: rpu_subsystem, Id: 0x1C000000
+[493.533]---Loading Partition#: 0x6, Id: 0x0
+[497.473] 0.127 ms for Partition#: 0x6, Size: 2320 Bytes
+[502.148]---Loading Partition#: 0x7, Id: 0x0
+[505.975] 0.013 ms for Partition#: 0x7, Size: 384 Bytes
+[510.680]---Loading Partition#: 0x8, Id: 0x0
+[603.264] 88.765 ms for Partition#: 0x8, Size: 157312 Bytes
+[605.658]***********Boot PDI Load: Done***********
+[609.907]4158.604 ms: ROM Time
+[612.547]Total PLM Boot Time
+Cortex-R5
+Starting self-test...
+Pattern: 0x00000000
+Pattern: 0xFFFFFFFF
+Pattern: 0xAAAAAAAA
+Pattern: 0x55555555
+Self-test completed with 0 errors.
+Memory initialized
+0.017 [400.000 MHz] curr: 41.086	max:41.516
+0.017 [400.000 MHz] curr: 41.531	max:42.000
+0.017 [400.000 MHz] curr: 41.406	max:42.203
+0.017 [400.000 MHz] curr: 41.805	max:42.336
+0.017 [400.000 MHz] curr: 41.891	max:42.656
+0.017 [400.000 MHz] curr: 42.195	max:42.672
+0.017 [400.000 MHz] curr: 41.469	max:42.672
+0.017 [400.000 MHz] curr: 42.234	max:42.734
+0.017 [400.000 MHz] curr: 42.312	max:42.891
+0.017 [400.000 MHz] curr: 41.930	max:42.891
+0.017 [400.000 MHz] curr: 42.391	max:42.969
+0.017 [400.000 MHz] curr: 42.359	max:42.969
+0.017 [400.000 MHz] curr: 42.258	max:43.000
+0.017 [400.000 MHz] curr: 41.750	max:43.000
+0.017 [400.000 MHz] curr: 42.305	max:43.000
+0.017 [400.000 MHz] curr: 42.180	max:43.000
+0.017 [400.000 MHz] curr: 42.125	max:43.180
+0.017 [400.000 MHz] curr: 42.000	max:43.266
+0.017 [400.000 MHz] curr: 42.164	max:43.266
+0.017 [400.000 MHz] curr: 42.547	max:43.266
+0.017 [400.000 MHz] curr: 42.164	max:43.266
+0.017 [400.000 MHz] curr: 41.930	max:43.266
+0.017 [400.000 MHz] curr: 42.258	max:43.266
+0.017 [400.000 MHz] curr: 42.164	max:43.266
+0.017 [400.000 MHz] curr: 42.094	max:43.266
+0.017 [400.000 MHz] curr: 42.188	max:43.266
+0.017 [400.000 MHz] curr: 42.211	max:43.266

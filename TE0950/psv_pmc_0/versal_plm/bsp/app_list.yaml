@@ -1,0 +1,20 @@
+psv_pmc_0:
+  standalone:
+    versal_plm:
+      description: Platform Loader and Manager for versal.
+      depends_libs:
+      - xiltimer
+      - xilffs
+      - xilpdi
+      - xilplmi
+      - xilloader
+      - xilpm
+      - xilsecure
+      - xilsem
+      - xilpuf
+      - xilnvm
+      - xilocp
+      - xilcert
+      - xilpm_ng
+      - xiltpm
+  freertos: {}

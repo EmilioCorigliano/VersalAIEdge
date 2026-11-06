@@ -1,0 +1,1 @@
+set(DRIVER_LIST cframe;cfupmc;common;csudma;emacps;gpiops;iicps;iomodule;ipipsu;qspipsu;sdps;sysmonpsv;trngpsv;uartlite;uartpsv;usbpsu;zdma)

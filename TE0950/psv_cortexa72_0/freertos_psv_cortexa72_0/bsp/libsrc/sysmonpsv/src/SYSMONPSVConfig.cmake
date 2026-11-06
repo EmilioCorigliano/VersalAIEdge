@@ -1,0 +1,4 @@
+set(DRIVER_INSTANCES "sysmon@f1270000")
+set(DRIVER_PROP_0_LIST "xlnx,versal-sysmon;0xf1270000;0xffff;0xffff;0;1")
+set(DRIVER_OPTPROP_0_LIST "vaux_ch0;vaux_ch1")
+list(APPEND TOTAL_DRIVER_PROP_LIST DRIVER_PROP_0_LIST)

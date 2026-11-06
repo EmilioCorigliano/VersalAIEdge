@@ -1,0 +1,300 @@
+psv_pmc_0:
+  standalone:
+    libmetal:
+      description: Provide runtime primitives APIs across heterogenous processors.
+      depends_libs:
+      - xiltimer
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/ThirdParty/sw_services/libmetal_v2_9
+      examples: {}
+    xilcert:
+      description: 'Xilinx X.509 certificate generation library. Supported only for Versal Net.
+
+        '
+      depends_libs:
+      - xilplmi
+      - xilsecure
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilcert_v1_5
+      examples: {}
+    xilffs:
+      description: Generic Fat File System Library.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilffs_v5_5
+      examples:
+        xilffs_polled_example.c: []
+    xilloader:
+      description: Xilinx Versal Platform Loader Library.
+      depends_libs:
+      - xilplmi
+      - xilpdi
+      - xilffs
+      - xilsecure
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilloader_v2_3
+      examples:
+        xilloader_image_store_pdi_client_example.c: []
+        xilloader_extract_metaheader_client_example.c: []
+        xilloader_get_atf_handoff_params_client_example.c: []
+        xilloader_get_image_info_client_example.c: []
+        xilloader_get_image_info_list_client_example.c: []
+        xilloader_load_image_client_example.c: []
+        xilloader_load_pdi_client_example.c: []
+        xilloader_update_multiboot_client_example.c: []
+        xilloader_cfi_selective_readback_example.c: []
+        xilloader_add_pdi_to_image_store_client_example.c: []
+        xilloader_remove_pdi_from_image_store_client_example.c: []
+    xilmailbox:
+      description: Xilinx IPI Mailbox Library.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilmailbox_v1_12
+      examples:
+        xilmailbox_example.c: []
+    xilnvm:
+      description: Xilinx NVM Library provides interface to accessing eFUSE and BBRAM.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilnvm_v3_6
+      examples: {}
+    xilocp:
+      description: Xilinx Open Compute Platform(OCP) support Library. Supported for Versal Net, Versal_2VE_2VM.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilocp_v1_6
+      examples: {}
+    xilpdi:
+      description: Xilinx Programmable Device Image (PDI) Library.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilpdi_v1_12
+      examples: {}
+    xilplmi:
+      description: Xilinx Versal Platform Loader and Manager Interface Library.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilplmi_v2_3
+      examples:
+        xplmi_event_logging_client_example.c: []
+        xplmi_get_board_client_example.c: []
+        xplmi_get_device_id_client_example.c: []
+        xplmi_tamper_trigger_client_example.c: []
+        xplmi_glitch_detector_example.c: []
+        xplmi_usermodule_example.c: []
+        xplmi_configure_secure_comm_example.c: []
+    xilpm:
+      description: Platform Management API Library for ZynqMP and Versal.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilpm_v6_1
+      examples:
+        xilpm_selfsuspend_example.c:
+        - timer.c
+        - timer.h
+        - gic_setup.c
+        - gic_setup.h
+    xilpuf:
+      description: Xilinx PUF Library provides interface for registration and regeneration.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilpuf_v2_6
+      examples: {}
+    xilsecure:
+      description: Xilinx Secure Library provides interface to AES, RSA and SHA hardware engines on ZynqMP Soc and Versal.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilsecure_v5_6
+      examples: {}
+    xilsem:
+      description: Xilinx Versal Soft Error Mitigation Library.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilsem_v1_12
+      examples:
+        xsem_cram_example.c:
+        - xsem_gic_setup.c
+        - xsem_gic_setup.h
+        - xsem_ipi.c
+        - xsem_ipi.h
+        xsem_cram_ssit_example.c:
+        - xsem_gic_setup.c
+        - xsem_gic_setup.h
+        - xsem_ipi.c
+        - xsem_ipi.h
+        xsem_npi_example.c:
+        - xsem_gic_setup.c
+        - xsem_gic_setup.h
+        - xsem_ipi.c
+        - xsem_ipi.h
+        xsem_npi_ssit_example.c:
+        - xsem_gic_setup.c
+        - xsem_gic_setup.h
+        - xsem_ipi.c
+        - xsem_ipi.h
+        xsem_cram_example_pl_mb.c: []
+        xsem_npi_example_pl_mb.c: []
+        xsem_ebd_example.c:
+        - xsem_ebd_search.c
+        - xsem_ebd_search.h
+        - xsem_ebdgoldendata.c
+        xsem_ebd_ssit_example.c:
+        - xsem_ebd_search.c
+        - xsem_ebd_search.h
+        - xsem_ebdgoldendata0.c
+        - xsem_ebdgoldendata1.c
+    xilsfl:
+      description: Serial NOR Flash Library.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilsfl_v1_2
+      examples:
+        xilsfl_ospi_flash_readwrite_example.c: []
+    xiltimer:
+      description: Xiltimer library provides generic timer interface for the timer IP's.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xiltimer_v2_3
+      examples: {}
+    xiltpm:
+      description: Xilinx TPM Library provides interface to external TPM module.
+      depends_libs:
+      - xilsecure
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xiltpm_v1_1
+      examples: {}
+  freertos:
+    libmetal:
+      description: Provide runtime primitives APIs across heterogenous processors.
+      depends_libs:
+      - xiltimer
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/ThirdParty/sw_services/libmetal_v2_9
+      examples: {}
+    xilffs:
+      description: Generic Fat File System Library.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilffs_v5_5
+      examples:
+        xilffs_polled_example.c: []
+    xilloader:
+      description: Xilinx Versal Platform Loader Library.
+      depends_libs:
+      - xilplmi
+      - xilpdi
+      - xilffs
+      - xilsecure
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilloader_v2_3
+      examples:
+        xilloader_image_store_pdi_client_example.c: []
+        xilloader_extract_metaheader_client_example.c: []
+        xilloader_get_atf_handoff_params_client_example.c: []
+        xilloader_get_image_info_client_example.c: []
+        xilloader_get_image_info_list_client_example.c: []
+        xilloader_load_image_client_example.c: []
+        xilloader_load_pdi_client_example.c: []
+        xilloader_update_multiboot_client_example.c: []
+        xilloader_cfi_selective_readback_example.c: []
+        xilloader_add_pdi_to_image_store_client_example.c: []
+        xilloader_remove_pdi_from_image_store_client_example.c: []
+    xilmailbox:
+      description: Xilinx IPI Mailbox Library.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilmailbox_v1_12
+      examples:
+        xilmailbox_example.c: []
+    xilocp:
+      description: Xilinx Open Compute Platform(OCP) support Library. Supported for Versal Net, Versal_2VE_2VM.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilocp_v1_6
+      examples: {}
+    xilpdi:
+      description: Xilinx Programmable Device Image (PDI) Library.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilpdi_v1_12
+      examples: {}
+    xilplmi:
+      description: Xilinx Versal Platform Loader and Manager Interface Library.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilplmi_v2_3
+      examples:
+        xplmi_event_logging_client_example.c: []
+        xplmi_get_board_client_example.c: []
+        xplmi_get_device_id_client_example.c: []
+        xplmi_tamper_trigger_client_example.c: []
+        xplmi_glitch_detector_example.c: []
+        xplmi_usermodule_example.c: []
+        xplmi_configure_secure_comm_example.c: []
+    xilpm:
+      description: Platform Management API Library for ZynqMP and Versal.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilpm_v6_1
+      examples:
+        xilpm_selfsuspend_example.c:
+        - timer.c
+        - timer.h
+        - gic_setup.c
+        - gic_setup.h
+    xilsecure:
+      description: Xilinx Secure Library provides interface to AES, RSA and SHA hardware engines on ZynqMP Soc and Versal.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilsecure_v5_6
+      examples: {}
+    xilsem:
+      description: Xilinx Versal Soft Error Mitigation Library.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilsem_v1_12
+      examples:
+        xsem_cram_example.c:
+        - xsem_gic_setup.c
+        - xsem_gic_setup.h
+        - xsem_ipi.c
+        - xsem_ipi.h
+        xsem_cram_ssit_example.c:
+        - xsem_gic_setup.c
+        - xsem_gic_setup.h
+        - xsem_ipi.c
+        - xsem_ipi.h
+        xsem_npi_example.c:
+        - xsem_gic_setup.c
+        - xsem_gic_setup.h
+        - xsem_ipi.c
+        - xsem_ipi.h
+        xsem_npi_ssit_example.c:
+        - xsem_gic_setup.c
+        - xsem_gic_setup.h
+        - xsem_ipi.c
+        - xsem_ipi.h
+        xsem_cram_example_pl_mb.c: []
+        xsem_npi_example_pl_mb.c: []
+        xsem_ebd_example.c:
+        - xsem_ebd_search.c
+        - xsem_ebd_search.h
+        - xsem_ebdgoldendata.c
+        xsem_ebd_ssit_example.c:
+        - xsem_ebd_search.c
+        - xsem_ebd_search.h
+        - xsem_ebdgoldendata0.c
+        - xsem_ebdgoldendata1.c
+    xilsfl:
+      description: Serial NOR Flash Library.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilsfl_v1_2
+      examples:
+        xilsfl_ospi_flash_readwrite_example.c: []
+    xiltimer:
+      description: Xiltimer library provides generic timer interface for the timer IP's.
+      depends_libs: []
+      path:
+      - /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xiltimer_v2_3
+      examples: {}

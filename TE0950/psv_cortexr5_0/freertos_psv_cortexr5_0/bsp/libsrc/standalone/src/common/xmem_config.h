@@ -1,0 +1,9 @@
+#ifndef XMEM_CONFIG_H_
+#define XMEM_CONFIG_H_
+
+#define XPAR_AXI_NOC_DDR_LOW_0_BASEADDR 0x40000
+#define XPAR_AXI_NOC_DDR_LOW_0_HIGHADDR 0x7fffffff
+#define XPAR_PSV_OCM_0_BASEADDRESS 0xfffc0000
+#define XPAR_PSV_OCM_0_HIGHADDRESS 0xffffffff
+
+#endif

@@ -1,0 +1,2044 @@
+0.015 [400.000 MHz] curr: 43.836	max:44.914
+0.015 [400.000 MHz] curr: 43.953	max:44.914
+0.015 [400.000 MHz] curr: 44.094	max:44.914
+0.015 [400.000 MHz] curr: 43.773	max:44.914
+0.015 [400.000 MHz] curr: 43.656	max:44.914
+0.015 [400.000 MHz] curr: 44.055	max:44.914
+0.015 [400.000 MHz] curr: 43.789	max:44.914
+0.015 [400.000 MHz] curr: 43.797	max:44.914
+0.015 [400.000 MHz] curr: 43.609	max:44.914
+0.015 [400.000 MHz] curr: 43.875	max:44.914
+0.015 [400.000 MHz] curr: 44.031	max:44.914
+0.015 [400.000 MHz] curr: 43.875	max:44.914
+0.015 [400.000 MHz] curr: 43.906	max:44.914
+0.015 [400.000 MHz] curr: 43.711	max:44.914
+0.015 [400.000 MHz] curr: 43.367	max:44.914
+0.015 [400.000 MHz] curr: 43.594	max:44.914
+0.015 [400.000 MHz] curr: 43.891	max:44.914
+0.015 [400.000 MHz] curr: 44.219	max:44.914
+0.015 [400.000 MHz] curr: 43.430	max:44.914
+0.015 [400.000 MHz] curr: 44.062	max:44.914
+0.015 [400.000 MHz] curr: 43.484	max:44.914
+0.015 [400.000 MHz] curr: 43.938	max:44.914
+0.015 [400.000 MHz] curr: 43.414	max:44.914
+0.015 [400.000 MHz] curr: 43.898	max:44.914
+0.015 [400.000 MHz] curr: 43.828	max:44.914
+0.015 [400.000 MHz] curr: 43.805	max:44.914
+0.015 [400.000 MHz] curr: 44.148	max:44.914
+0.015 [400.000 MHz] curr: 44.086	max:44.914
+0.015 [400.000 MHz] curr: 43.805	max:44.914
+0.015 [400.000 MHz] curr: 43.672	max:44.914
+0.015 [400.000 MHz] curr: 43.617	max:44.914
+0.015 [400.000 MHz] curr: 43.992	max:44.914
+0.015 [400.000 MHz] curr: 43.500	max:44.914
+0.015 [400.000 MHz] curr: 43.664	max:44.914
+0.015 [400.000 MHz] curr: 43.539	max:44.914
+0.015 [400.000 MHz] curr: 44.047	max:44.914
+0.015 [400.000 MHz] curr: 44.156	max:44.914
+0.015 [400.000 MHz] curr: 43.570	max:44.914
+0.015 [400.000 MHz] curr: 43.672	max:44.914
+0.015 [400.000 MHz] curr: 44.102	max:44.914
+0.015 [400.000 MHz] curr: 43.742	max:44.914
+0.015 [400.000 MHz] curr: 43.547	max:44.914
+0.015 [400.000 MHz] curr: 43.828	max:44.914
+0.015 [400.000 MHz] curr: 43.812	max:44.914
+0.015 [400.000 MHz] curr: 43.828	max:44.914
+0.015 [400.000 MHz] curr: 43.820	max:44.914
+0.015 [400.000 MHz] curr: 44.156	max:44.914
+0.015 [400.000 MHz] curr: 43.672	max:44.914
+0.015 [400.000 MHz] curr: 44.086	max:44.914
+0.015 [400.000 MHz] curr: 44.086	max:44.914
+0.015 [400.000 MHz] curr: 43.742	max:44.914
+0.015 [400.000 MHz] curr: 43.844	max:44.914
+0.015 [400.000 MHz] curr: 43.750	max:44.914
+0.015 [400.000 MHz] curr: 43.781	max:44.914
+0.015 [400.000 MHz] curr: 44.359	max:44.914
+0.015 [400.000 MHz] curr: 43.336	max:44.914
+0.015 [400.000 MHz] curr: 44.203	max:44.914
+0.015 [400.000 MHz] curr: 44.016	max:44.914
+0.015 [400.000 MHz] curr: 43.961	max:44.914
+0.015 [400.000 MHz] curr: 43.789	max:44.914
+0.015 [400.000 MHz] curr: 43.664	max:44.914
+0.015 [400.000 MHz] curr: 43.945	max:44.914
+0.015 [400.000 MHz] curr: 44.172	max:44.914
+0.015 [400.000 MHz] curr: 44.172	max:44.914
+0.015 [400.000 MHz] curr: 43.812	max:44.914
+0.015 [400.000 MHz] curr: 44.203	max:45.070
+0.015 [400.000 MHz] curr: 43.898	max:45.070
+0.015 [400.000 MHz] curr: 43.859	max:45.070
+0.015 [400.000 MHz] curr: 43.992	max:45.070
+0.015 [400.000 MHz] curr: 43.938	max:45.070
+0.015 [400.000 MHz] curr: 44.062	max:45.070
+0.015 [400.000 MHz] curr: 43.758	max:45.070
+0.015 [400.000 MHz] curr: 44.102	max:45.070
+0.015 [400.000 MHz] curr: 43.875	max:45.070
+0.015 [400.000 MHz] curr: 44.359	max:45.070
+0.015 [400.000 MHz] curr: 43.539	max:45.070
+0.015 [400.000 MHz] curr: 44.039	max:45.070
+0.015 [400.000 MHz] curr: 43.898	max:45.070
+0.015 [400.000 MHz] curr: 43.914	max:45.070
+0.015 [400.000 MHz] curr: 43.711	max:45.070
+0.015 [400.000 MHz] curr: 43.742	max:45.070
+0.015 [400.000 MHz] curr: 44.383	max:45.070
+0.015 [400.000 MHz] curr: 43.852	max:45.070
+0.015 [400.000 MHz] curr: 44.008	max:45.070
+0.015 [400.000 MHz] curr: 43.586	max:45.070
+0.015 [400.000 MHz] curr: 43.828	max:45.070
+0.015 [400.000 MHz] curr: 43.859	max:45.070
+0.015 [400.000 MHz] curr: 43.352	max:45.070
+0.015 [400.000 MHz] curr: 43.742	max:45.070
+0.015 [400.000 MHz] curr: 43.242	max:45.070
+0.015 [400.000 MHz] curr: 43.820	max:45.070
+0.015 [400.000 MHz] curr: 43.742	max:45.070
+0.015 [400.000 MHz] curr: 43.617	max:45.070
+0.015 [400.000 MHz] curr: 43.930	max:45.070
+0.015 [400.000 MHz] curr: 43.812	max:45.070
+0.015 [400.000 MHz] curr: 43.961	max:45.070
+0.015 [400.000 MHz] curr: 43.984	max:45.070
+0.015 [400.000 MHz] curr: 43.930	max:45.070
+0.015 [400.000 MHz] curr: 43.914	max:45.070
+0.015 [400.000 MHz] curr: 44.148	max:45.070
+0.015 [400.000 MHz] curr: 43.781	max:45.070
+0.015 [400.000 MHz] curr: 43.914	max:45.070
+0.015 [400.000 MHz] curr: 44.258	max:45.141
+0.015 [400.000 MHz] curr: 43.969	max:45.141
+0.015 [400.000 MHz] curr: 44.469	max:45.141
+0.015 [400.000 MHz] curr: 44.172	max:45.141
+0.015 [400.000 MHz] curr: 43.961	max:45.141
+0.015 [400.000 MHz] curr: 43.875	max:45.141
+0.015 [400.000 MHz] curr: 43.859	max:45.141
+0.015 [400.000 MHz] curr: 44.211	max:45.141
+0.015 [400.000 MHz] curr: 43.781	max:45.141
+0.015 [400.000 MHz] curr: 43.961	max:45.141
+0.015 [400.000 MHz] curr: 44.000	max:45.141
+0.015 [400.000 MHz] curr: 43.945	max:45.141
+0.015 [400.000 MHz] curr: 44.406	max:45.141
+0.015 [400.000 MHz] curr: 44.016	max:45.141
+0.015 [400.000 MHz] curr: 43.750	max:45.141
+0.015 [400.000 MHz] curr: 43.906	max:45.141
+0.015 [400.000 MHz] curr: 43.930	max:45.141
+0.015 [400.000 MHz] curr: 43.633	max:45.141
+0.015 [400.000 MHz] curr: 44.055	max:45.141
+0.015 [400.000 MHz] curr: 44.141	max:45.141
+0.015 [400.000 MHz] curr: 44.062	max:45.141
+0.015 [400.000 MHz] curr: 43.820	max:45.141
+0.015 [400.000 MHz] curr: 43.750	max:45.141
+0.015 [400.000 MHz] curr: 43.664	max:45.141
+0.015 [400.000 MHz] curr: 43.773	max:45.141
+0.015 [400.000 MHz] curr: 43.711	max:45.141
+0.015 [400.000 MHz] curr: 44.109	max:45.141
+0.015 [400.000 MHz] curr: 44.273	max:45.141
+0.015 [400.000 MHz] curr: 43.820	max:45.141
+0.015 [400.000 MHz] curr: 43.992	max:45.141
+0.015 [400.000 MHz] curr: 44.031	max:45.141
+0.015 [400.000 MHz] curr: 43.828	max:45.141
+0.015 [400.000 MHz] curr: 44.117	max:45.141
+0.015 [400.000 MHz] curr: 44.047	max:45.141
+0.015 [400.000 MHz] curr: 43.914	max:45.141
+0.015 [400.000 MHz] curr: 44.055	max:45.141
+0.015 [400.000 MHz] curr: 43.945	max:45.141
+0.015 [400.000 MHz] curr: 44.031	max:45.141
+0.015 [400.000 MHz] curr: 44.008	max:45.141
+0.015 [400.000 MHz] curr: 43.805	max:45.141
+0.015 [400.000 MHz] curr: 43.852	max:45.141
+0.015 [400.000 MHz] curr: 43.688	max:45.141
+0.015 [400.000 MHz] curr: 43.750	max:45.141
+0.015 [400.000 MHz] curr: 43.984	max:45.141
+0.015 [400.000 MHz] curr: 43.578	max:45.141
+0.015 [400.000 MHz] curr: 43.914	max:45.141
+0.015 [400.000 MHz] curr: 43.789	max:45.141
+0.015 [400.000 MHz] curr: 44.219	max:45.141
+0.015 [400.000 MHz] curr: 44.461	max:45.141
+0.015 [400.000 MHz] curr: 43.773	max:45.141
+0.015 [400.000 MHz] curr: 43.641	max:45.141
+0.015 [400.000 MHz] curr: 44.070	max:45.141
+0.015 [400.000 MHz] curr: 43.875	max:45.141
+0.015 [400.000 MHz] curr: 44.016	max:45.141
+0.015 [400.000 MHz] curr: 44.023	max:45.141
+0.015 [400.000 MHz] curr: 44.469	max:45.141
+0.015 [400.000 MHz] curr: 43.836	max:45.141
+0.015 [400.000 MHz] curr: 43.781	max:45.141
+0.015 [400.000 MHz] curr: 44.438	max:45.141
+0.015 [400.000 MHz] curr: 44.273	max:45.141
+0.015 [400.000 MHz] curr: 43.930	max:45.141
+0.015 [400.000 MHz] curr: 43.828	max:45.141
+0.015 [400.000 MHz] curr: 43.922	max:45.141
+0.015 [400.000 MHz] curr: 44.070	max:45.141
+0.015 [400.000 MHz] curr: 43.773	max:45.141
+0.015 [400.000 MHz] curr: 43.555	max:45.141
+0.015 [400.000 MHz] curr: 44.016	max:45.141
+0.015 [400.000 MHz] curr: 44.008	max:45.141
+0.015 [400.000 MHz] curr: 44.438	max:45.141
+0.015 [400.000 MHz] curr: 44.086	max:45.141
+0.015 [400.000 MHz] curr: 43.844	max:45.141
+0.015 [400.000 MHz] curr: 43.688	max:45.141
+0.015 [400.000 MHz] curr: 43.844	max:45.141
+0.015 [400.000 MHz] curr: 44.102	max:45.141
+0.015 [400.000 MHz] curr: 43.766	max:45.141
+0.015 [400.000 MHz] curr: 44.047	max:45.141
+0.015 [400.000 MHz] curr: 43.719	max:45.141
+0.015 [400.000 MHz] curr: 43.938	max:45.141
+0.015 [400.000 MHz] curr: 44.109	max:45.141
+0.015 [400.000 MHz] curr: 44.039	max:45.141
+0.015 [400.000 MHz] curr: 43.562	max:45.141
+0.015 [400.000 MHz] curr: 44.180	max:45.141
+0.015 [400.000 MHz] curr: 43.516	max:45.141
+0.015 [400.000 MHz] curr: 44.141	max:45.141
+0.015 [400.000 MHz] curr: 43.695	max:45.141
+0.015 [400.000 MHz] curr: 43.922	max:45.141
+0.015 [400.000 MHz] curr: 43.820	max:45.141
+0.015 [400.000 MHz] curr: 43.742	max:45.141
+0.015 [400.000 MHz] curr: 44.016	max:45.141
+0.015 [400.000 MHz] curr: 43.484	max:45.141
+0.015 [400.000 MHz] curr: 43.820	max:45.141
+0.015 [400.000 MHz] curr: 43.617	max:45.141
+0.015 [400.000 MHz] curr: 43.820	max:45.141
+0.015 [400.000 MHz] curr: 43.367	max:45.141
+0.015 [400.000 MHz] curr: 44.148	max:45.141
+0.015 [400.000 MHz] curr: 43.711	max:45.141
+0.015 [400.000 MHz] curr: 43.906	max:45.141
+0.015 [400.000 MHz] curr: 44.094	max:45.141
+0.015 [400.000 MHz] curr: 43.648	max:45.141
+0.015 [400.000 MHz] curr: 43.969	max:45.141
+0.015 [400.000 MHz] curr: 44.039	max:45.141
+0.015 [400.000 MHz] curr: 43.617	max:45.141
+0.015 [400.000 MHz] curr: 44.133	max:45.141
+0.015 [400.000 MHz] curr: 44.117	max:45.141
+0.015 [400.000 MHz] curr: 44.016	max:45.141
+0.015 [400.000 MHz] curr: 43.641	max:45.141
+0.015 [400.000 MHz] curr: 43.734	max:45.141
+0.015 [400.000 MHz] curr: 44.336	max:45.141
+0.015 [400.000 MHz] curr: 43.672	max:45.141
+0.015 [400.000 MHz] curr: 43.992	max:45.141
+0.015 [400.000 MHz] curr: 43.883	max:45.141
+0.015 [400.000 MHz] curr: 43.766	max:45.141
+0.015 [400.000 MHz] curr: 43.836	max:45.141
+0.015 [400.000 MHz] curr: 44.148	max:45.141
+0.015 [400.000 MHz] curr: 44.062	max:45.141
+0.015 [400.000 MHz] curr: 43.711	max:45.141
+0.015 [400.000 MHz] curr: 43.812	max:45.141
+0.015 [400.000 MHz] curr: 43.602	max:45.141
+0.015 [400.000 MHz] curr: 43.977	max:45.141
+0.015 [400.000 MHz] curr: 44.055	max:45.141
+0.015 [400.000 MHz] curr: 43.977	max:45.141
+0.015 [400.000 MHz] curr: 43.859	max:45.141
+0.015 [400.000 MHz] curr: 44.102	max:45.141
+0.015 [400.000 MHz] curr: 43.500	max:45.141
+0.015 [400.000 MHz] curr: 43.539	max:45.141
+0.015 [400.000 MHz] curr: 43.984	max:45.141
+0.015 [400.000 MHz] curr: 43.891	max:45.141
+0.015 [400.000 MHz] curr: 43.711	max:45.141
+0.015 [400.000 MHz] curr: 43.531	max:45.141
+0.015 [400.000 MHz] curr: 43.555	max:45.141
+0.015 [400.000 MHz] curr: 43.781	max:45.141
+0.015 [400.000 MHz] curr: 44.148	max:45.141
+0.015 [400.000 MHz] curr: 44.383	max:45.141
+0.015 [400.000 MHz] curr: 43.516	max:45.141
+0.015 [400.000 MHz] curr: 43.953	max:45.141
+0.015 [400.000 MHz] curr: 43.812	max:45.141
+0.015 [400.000 MHz] curr: 44.195	max:45.141
+0.015 [400.000 MHz] curr: 43.656	max:45.141
+0.015 [400.000 MHz] curr: 43.844	max:45.141
+0.015 [400.000 MHz] curr: 43.586	max:45.141
+0.015 [400.000 MHz] curr: 43.938	max:45.141
+0.015 [400.000 MHz] curr: 43.766	max:45.141
+0.015 [400.000 MHz] curr: 43.828	max:45.141
+0.015 [400.000 MHz] curr: 43.781	max:45.141
+0.015 [400.000 MHz] curr: 44.000	max:45.141
+0.015 [400.000 MHz] curr: 43.703	max:45.141
+0.015 [400.000 MHz] curr: 43.711	max:45.141
+0.015 [400.000 MHz] curr: 44.242	max:45.141
+0.015 [400.000 MHz] curr: 43.820	max:45.141
+0.015 [400.000 MHz] curr: 43.555	max:45.141
+0.015 [400.000 MHz] curr: 43.703	max:45.141
+0.015 [400.000 MHz] curr: 44.070	max:45.141
+0.015 [400.000 MHz] curr: 43.688	max:45.141
+0.015 [400.000 MHz] curr: 43.992	max:45.141
+0.015 [400.000 MHz] curr: 43.594	max:45.141
+0.015 [400.000 MHz] curr: 43.828	max:45.141
+0.015 [400.000 MHz] curr: 44.164	max:45.141
+0.015 [400.000 MHz] curr: 43.711	max:45.141
+0.015 [400.000 MHz] curr: 43.727	max:45.141
+0.015 [400.000 MHz] curr: 43.828	max:45.141
+0.015 [400.000 MHz] curr: 43.617	max:45.141
+0.015 [400.000 MHz] curr: 43.727	max:45.141
+0.015 [400.000 MHz] curr: 43.961	max:45.141
+0.015 [400.000 MHz] curr: 44.125	max:45.141
+0.015 [400.000 MHz] curr: 43.891	max:45.141
+0.015 [400.000 MHz] curr: 43.711	max:45.141
+0.015 [400.000 MHz] curr: 44.164	max:45.141
+0.015 [400.000 MHz] curr: 44.047	max:45.141
+0.015 [400.000 MHz] curr: 44.125	max:45.141
+0.015 [400.000 MHz] curr: 44.219	max:45.141
+0.015 [400.000 MHz] curr: 43.883	max:45.141
+0.015 [400.000 MHz] curr: 44.047	max:45.141
+0.015 [400.000 MHz] curr: 44.258	max:45.141
+0.015 [400.000 MHz] curr: 43.914	max:45.141
+0.015 [400.000 MHz] curr: 43.992	max:45.141
+0.015 [400.000 MHz] curr: 44.148	max:45.141
+0.015 [400.000 MHz] curr: 43.711	max:45.141
+0.015 [400.000 MHz] curr: 43.977	max:45.141
+0.015 [400.000 MHz] curr: 43.602	max:45.141
+0.015 [400.000 MHz] curr: 43.828	max:45.141
+0.015 [400.000 MHz] curr: 43.453	max:45.141
+0.015 [400.000 MHz] curr: 43.438	max:45.141
+0.015 [400.000 MHz] curr: 44.297	max:45.141
+0.015 [400.000 MHz] curr: 43.812	max:45.141
+0.015 [400.000 MHz] curr: 43.930	max:45.141
+0.015 [400.000 MHz] curr: 43.844	max:45.141
+0.015 [400.000 MHz] curr: 43.781	max:45.141
+0.015 [400.000 MHz] curr: 44.336	max:45.141
+0.015 [400.000 MHz] curr: 44.031	max:45.141
+0.015 [400.000 MHz] curr: 43.797	max:45.141
+0.015 [400.000 MHz] curr: 44.062	max:45.141
+0.015 [400.000 MHz] curr: 43.875	max:45.141
+0.015 [400.000 MHz] curr: 43.820	max:45.141
+0.015 [400.000 MHz] curr: 43.805	max:45.141
+0.015 [400.000 MHz] curr: 43.430	max:45.141
+0.015 [400.000 MHz] curr: 43.820	max:45.141
+0.015 [400.000 MHz] curr: 44.047	max:45.141
+0.015 [400.000 MHz] curr: 43.883	max:45.141
+0.015 [400.000 MHz] curr: 44.008	max:45.141
+0.015 [400.000 MHz] curr: 43.953	max:45.141
+0.015 [400.000 MHz] curr: 43.555	max:45.141
+0.015 [400.000 MHz] curr: 43.648	max:45.141
+0.015 [400.000 MHz] curr: 43.812	max:45.141
+0.015 [400.000 MHz] curr: 43.336	max:45.141
+0.015 [400.000 MHz] curr: 43.812	max:45.141
+0.015 [400.000 MHz] curr: 43.773	max:45.141
+0.015 [400.000 MHz] curr: 43.773	max:45.141
+0.015 [400.000 MHz] curr: 43.516	max:45.141
+0.015 [400.000 MHz] curr: 43.789	max:45.141
+0.015 [400.000 MHz] curr: 43.938	max:45.141
+0.015 [400.000 MHz] curr: 43.773	max:45.141
+0.015 [400.000 MHz] curr: 44.078	max:45.141
+0.015 [400.000 MHz] curr: 44.250	max:45.141
+0.015 [400.000 MHz] curr: 44.203	max:45.141
+0.015 [400.000 MHz] curr: 43.859	max:45.141
+0.015 [400.000 MHz] curr: 43.820	max:45.141
+0.015 [400.000 MHz] curr: 43.891	max:45.141
+0.015 [400.000 MHz] curr: 44.172	max:45.141
+0.015 [400.000 MHz] curr: 43.805	max:45.141
+0.015 [400.000 MHz] curr: 43.734	max:45.141
+0.015 [400.000 MHz] curr: 43.859	max:45.141
+0.015 [400.000 MHz] curr: 43.797	max:45.141
+0.015 [400.000 MHz] curr: 43.820	max:45.141
+0.015 [400.000 MHz] curr: 43.906	max:45.141
+0.015 [400.000 MHz] curr: 43.945	max:45.141
+0.015 [400.000 MHz] curr: 43.781	max:45.141
+0.015 [400.000 MHz] curr: 43.883	max:45.141
+0.015 [400.000 MHz] curr: 43.898	max:45.141
+0.015 [400.000 MHz] curr: 43.906	max:45.141
+0.015 [400.000 MHz] curr: 43.234	max:45.141
+0.015 [400.000 MHz] curr: 43.711	max:45.141
+0.015 [400.000 MHz] curr: 43.680	max:45.141
+0.015 [400.000 MHz] curr: 44.188	max:45.141
+0.015 [400.000 MHz] curr: 44.086	max:45.141
+0.015 [400.000 MHz] curr: 43.711	max:45.141
+0.015 [400.000 MHz] curr: 43.242	max:45.141
+0.015 [400.000 MHz] curr: 43.414	max:45.141
+0.015 [400.000 MHz] curr: 43.664	max:45.141
+0.015 [400.000 MHz] curr: 44.203	max:45.141
+0.015 [400.000 MHz] curr: 43.438	max:45.141
+0.015 [400.000 MHz] curr: 43.422	max:45.141
+0.015 [400.000 MHz] curr: 43.938	max:45.141
+0.015 [400.000 MHz] curr: 43.461	max:45.141
+0.015 [400.000 MHz] curr: 43.828	max:45.141
+0.015 [400.000 MHz] curr: 43.617	max:45.141
+0.015 [400.000 MHz] curr: 44.078	max:45.141
+0.015 [400.000 MHz] curr: 44.266	max:45.141
+0.015 [400.000 MHz] curr: 43.766	max:45.141
+0.015 [400.000 MHz] curr: 43.711	max:45.141
+0.015 [400.000 MHz] curr: 43.633	max:45.141
+0.015 [400.000 MHz] curr: 43.773	max:45.141
+0.015 [400.000 MHz] curr: 44.164	max:45.141
+0.015 [400.000 MHz] curr: 43.492	max:45.141
+0.015 [400.000 MHz] curr: 43.641	max:45.141
+0.015 [400.000 MHz] curr: 43.781	max:45.141
+0.015 [400.000 MHz] curr: 44.336	max:45.141
+0.015 [400.000 MHz] curr: 43.531	max:45.141
+0.015 [400.000 MHz] curr: 43.703	max:45.141
+0.015 [400.000 MHz] curr: 43.852	max:45.141
+0.015 [400.000 MHz] curr: 43.625	max:45.141
+0.015 [400.000 MHz] curr: 43.742	max:45.141
+0.015 [400.000 MHz] curr: 43.477	max:45.141
+0.015 [400.000 MHz] curr: 43.383	max:45.141
+0.015 [400.000 MHz] curr: 43.656	max:45.141
+0.015 [400.000 MHz] curr: 43.883	max:45.141
+0.015 [400.000 MHz] curr: 44.055	max:45.141
+0.015 [400.000 MHz] curr: 44.086	max:45.141
+0.015 [400.000 MHz] curr: 43.438	max:45.141
+0.015 [400.000 MHz] curr: 43.648	max:45.141
+0.015 [400.000 MHz] curr: 43.672	max:45.141
+0.015 [400.000 MHz] curr: 43.633	max:45.141
+0.015 [400.000 MHz] curr: 44.039	max:45.141
+0.015 [400.000 MHz] curr: 43.688	max:45.141
+0.015 [400.000 MHz] curr: 43.844	max:45.141
+0.015 [400.000 MHz] curr: 43.734	max:45.141
+0.015 [400.000 MHz] curr: 44.062	max:45.141
+0.015 [400.000 MHz] curr: 43.445	max:45.141
+0.015 [400.000 MHz] curr: 44.039	max:45.141
+0.015 [400.000 MHz] curr: 43.844	max:45.141
+0.015 [400.000 MHz] curr: 43.609	max:45.141
+0.015 [400.000 MHz] curr: 43.297	max:45.141
+0.015 [400.000 MHz] curr: 43.820	max:45.141
+0.015 [400.000 MHz] curr: 43.906	max:45.141
+0.015 [400.000 MHz] curr: 43.578	max:45.141
+0.015 [400.000 MHz] curr: 43.578	max:45.141
+0.015 [400.000 MHz] curr: 43.766	max:45.141
+0.015 [400.000 MHz] curr: 44.320	max:45.141
+0.015 [400.000 MHz] curr: 44.016	max:45.141
+0.015 [400.000 MHz] curr: 43.680	max:45.141
+0.015 [400.000 MHz] curr: 43.633	max:45.141
+0.015 [400.000 MHz] curr: 43.789	max:45.141
+0.015 [400.000 MHz] curr: 43.594	max:45.141
+0.015 [400.000 MHz] curr: 43.664	max:45.141
+0.015 [400.000 MHz] curr: 43.867	max:45.141
+0.015 [400.000 MHz] curr: 43.992	max:45.141
+0.015 [400.000 MHz] curr: 43.875	max:45.141
+0.015 [400.000 MHz] curr: 43.578	max:45.141
+0.015 [400.000 MHz] curr: 43.867	max:45.141
+0.015 [400.000 MHz] curr: 43.984	max:45.141
+0.015 [400.000 MHz] curr: 43.508	max:45.141
+0.015 [400.000 MHz] curr: 43.680	max:45.141
+0.015 [400.000 MHz] curr: 43.656	max:45.141
+0.015 [400.000 MHz] curr: 44.023	max:45.141
+0.015 [400.000 MHz] curr: 43.953	max:45.141
+0.015 [400.000 MHz] curr: 43.578	max:45.141
+0.015 [400.000 MHz] curr: 43.703	max:45.141
+0.015 [400.000 MHz] curr: 44.172	max:45.141
+0.015 [400.000 MHz] curr: 44.156	max:45.141
+0.015 [400.000 MHz] curr: 43.734	max:45.141
+0.015 [400.000 MHz] curr: 43.516	max:45.141
+0.015 [400.000 MHz] curr: 43.531	max:45.141
+0.015 [400.000 MHz] curr: 44.391	max:45.141
+0.015 [400.000 MHz] curr: 43.703	max:45.141
+[__atcm0] Flip at 0x00006610: 0x00000800
+[__atcm_global0] Flip at 0xffe066d8: 0x00000200
+0.015 [400.000 MHz] curr: 43.680	max:45.141
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm_global0] Flip at 0xffe066d8: 0x00000200
+[__atcm_global0] Flip at 0xffe066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm_global0] Flip at 0xffe066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+0.015 [400.000 MHz] curr: 43.508	max:45.141
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm_global0] Flip at 0xffe066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm_global0] Flip at 0xffe066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+0.015 [400.000 MHz] curr: 43.586	max:45.141
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm_global0] Flip at 0xffe066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+0.015 [400.000 MHz] curr: 44.227	max:45.141
+[__atcm_global0] Flip at 0xffe066d8: 0x00000200
+[__atcm_global0] Flip at 0xffe066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+0.016 [400.000 MHz] curr: 43.688	max:45.141
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm_global0] Flip at 0xffe066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm_global0] Flip at 0xffe066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm_global0] Flip at 0xffe066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x00006758: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x00006758: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm_global0] Flip at 0xffe066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm_global0] Flip at 0xffe066d8: 0x00000200
+[__atcm_global0] Flip at 0xffe066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x00006758: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm_global0] Flip at 0xffe066d8: 0x00000200
+[__atcm_global0] Flip at 0xffe06758: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+0.015 [400.000 MHz] curr: 44.211	max:45.141
+0.015 [400.000 MHz] curr: 44.203	max:45.141
+0.015 [400.000 MHz] curr: 43.906	max:45.141
+0.015 [400.000 MHz] curr: 43.641	max:45.141
+0.015 [400.000 MHz] curr: 43.469	max:45.141
+0.015 [400.000 MHz] curr: 43.625	max:45.141
+0.015 [400.000 MHz] curr: 44.039	max:45.141
+0.015 [400.000 MHz] curr: 44.477	max:45.141
+0.015 [400.000 MHz] curr: 44.070	max:45.141
+0.015 [400.000 MHz] curr: 43.797	max:45.141
+0.015 [400.000 MHz] curr: 43.781	max:45.141
+0.015 [400.000 MHz] curr: 43.547	max:45.141
+0.015 [400.000 MHz] curr: 44.320	max:45.141
+0.015 [400.000 MHz] curr: 43.688	max:45.141
+0.015 [400.000 MHz] curr: 43.867	max:45.141
+0.015 [400.000 MHz] curr: 43.625	max:45.141
+0.015 [400.000 MHz] curr: 43.703	max:45.141
+0.015 [400.000 MHz] curr: 43.805	max:45.141
+0.015 [400.000 MHz] curr: 43.484	max:45.141
+0.015 [400.000 MHz] curr: 43.992	max:45.141
+0.015 [400.000 MHz] curr: 43.781	max:45.141
+0.015 [400.000 MHz] curr: 43.570	max:45.141
+0.015 [400.000 MHz] curr: 43.484	max:45.141
+0.015 [400.000 MHz] curr: 43.922	max:45.141
+0.015 [400.000 MHz] curr: 44.242	max:45.141
+0.015 [400.000 MHz] curr: 43.695	max:45.141
+0.015 [400.000 MHz] curr: 43.367	max:45.141
+0.015 [400.000 MHz] curr: 43.766	max:45.141
+0.015 [400.000 MHz] curr: 44.055	max:45.141
+0.015 [400.000 MHz] curr: 43.820	max:45.141
+0.015 [400.000 MHz] curr: 43.969	max:45.141
+0.015 [400.000 MHz] curr: 43.609	max:45.141
+0.015 [400.000 MHz] curr: 44.000	max:45.141
+0.015 [400.000 MHz] curr: 43.898	max:45.141
+0.015 [400.000 MHz] curr: 44.094	max:45.141
+0.015 [400.000 MHz] curr: 43.711	max:45.141
+0.015 [400.000 MHz] curr: 43.695	max:45.141
+0.015 [400.000 MHz] curr: 43.992	max:45.141
+0.015 [400.000 MHz] curr: 43.859	max:45.141
+0.015 [400.000 MHz] curr: 43.609	max:45.141
+0.015 [400.000 MHz] curr: 43.914	max:45.141
+0.015 [400.000 MHz] curr: 43.898	max:45.141
+0.015 [400.000 MHz] curr: 43.867	max:45.141
+0.015 [400.000 MHz] curr: 44.180	max:45.141
+0.015 [400.000 MHz] curr: 43.406	max:45.141
+0.015 [400.000 MHz] curr: 43.148	max:45.141
+0.015 [400.000 MHz] curr: 43.656	max:45.141
+0.015 [400.000 MHz] curr: 44.211	max:45.141
+0.015 [400.000 MHz] curr: 43.969	max:45.141
+0.015 [400.000 MHz] curr: 43.664	max:45.141
+0.015 [400.000 MHz] curr: 43.656	max:45.141
+0.015 [400.000 MHz] curr: 43.383	max:45.141
+0.015 [400.000 MHz] curr: 43.367	max:45.141
+0.015 [400.000 MHz] curr: 43.719	max:45.141
+0.015 [400.000 MHz] curr: 43.352	max:45.141
+0.015 [400.000 MHz] curr: 43.547	max:45.141
+0.015 [400.000 MHz] curr: 43.352	max:45.141
+0.015 [400.000 MHz] curr: 43.883	max:45.141
+0.015 [400.000 MHz] curr: 44.086	max:45.141
+0.015 [400.000 MHz] curr: 44.211	max:45.141
+0.015 [400.000 MHz] curr: 44.188	max:45.141
+0.015 [400.000 MHz] curr: 44.203	max:45.141
+0.015 [400.000 MHz] curr: 43.586	max:45.141
+0.015 [400.000 MHz] curr: 43.883	max:45.141
+0.015 [400.000 MHz] curr: 43.570	max:45.141
+0.015 [400.000 MHz] curr: 43.703	max:45.141
+0.015 [400.000 MHz] curr: 44.211	max:45.141
+0.015 [400.000 MHz] curr: 43.641	max:45.141
+0.015 [400.000 MHz] curr: 43.781	max:45.141
+[__atcm0] Flip at 0x000066d8: 0x00000200
+[__atcm0] Flip at 0x000066d8: 0x00000200
+0.015 [400.000 MHz] curr: 43.633	max:45.141
+0.015 [400.000 MHz] curr: 44.016	max:45.141
+0.015 [400.000 MHz] curr: 43.844	max:45.141
+0.015 [400.000 MHz] curr: 43.648	max:45.141
+0.015 [400.000 MHz] curr: 44.031	max:45.141
+0.015 [400.000 MHz] curr: 43.398	max:45.141
+0.015 [400.000 MHz] curr: 43.641	max:45.141
+0.015 [400.000 MHz] curr: 43.859	max:45.141
+0.015 [400.000 MHz] curr: 43.898	max:45.141
+0.015 [400.000 MHz] curr: 43.578	max:45.141
+[0.015]****************************************
+[0.061]Xilinx Versal Platform Loader and Manager
+[0.109]Release 2025.2   Jun  8 2026  -  17:25:30
+[0.159]Platform Version: v2.0 PMC: v2.0, PS: v2.0
+[0.218]BOOTMODE: 0x0, MULTIBOOT: 0x0
+[0.259]****************************************
+[0.536]Non Secure Boot
+[4.349]PLM Initialization Time
+[4.388]***********Boot PDI Load: Started***********
+[4.465]Loading PDI from SBI
+[4.502]Monolithic/Master Device
+[4.813]0.366 ms: PDI initialization time
+[4.864]+++Loading Image#: 0x1, Name: lpd, Id: 0x04210002
+[4.927]---Loading Partition#: 0x1, Id: 0xC
+[59.134] 54.147 ms for Partition#: 0x1, Size: 9584 Bytes
+[63.854]---Loading Partition#: 0x2, Id: 0xB
+[87.345] 19.756 ms for Partition#: 0x2, Size: 35216 Bytes
+[89.744]+++Loading Image#: 0x2, Name: fpd, Id: 0x0420C003
+[94.388]---Loading Partition#: 0x3, Id: 0x8
+[99.080] 0.961 ms for Partition#: 0x3, Size: 4544 Bytes
+[102.848]+++Loading Image#: 0x3, Name: pl_cfi, Id: 0x18700000
+[108.050]---Loading Partition#: 0x4, Id: 0x3
+[221.157] 109.287 ms for Partition#: 0x4, Size: 190656 Bytes
+[223.568]---Loading Partition#: 0x5, Id: 0x5
+[485.107] 257.716 ms for Partition#: 0x5, Size: 420224 Bytes
+[487.886]+++Loading Image#: 0x4, Name: rpu_subsystem, Id: 0x1C000000
+[493.322]---Loading Partition#: 0x6, Id: 0x0
+[497.266] 0.128 ms for Partition#: 0x6, Size: 2704 Bytes
+[501.944]---Loading Partition#: 0x7, Id: 0x0
+[594.869] 89.105 ms for Partition#: 0x7, Size: 156528 Bytes
+[597.266]***********Boot PDI Load: Done***********
+[601.518]2580.530 ms: ROM Time
+[604.160]Total PLM Boot Time
+Cortex-R5
+Writing to memory from 0x00000000 to 0x00010000
+Done
+Writing to memory from 0x00020000 to 0x00030000
+Done
+Writing to memory from 0xffe00000 to 0xffe10000
+Done
+Writing to memory from 0xffe90000 to 0xffea0000
+Done
+Writing to memory from 0xffe20000 to 0xffe30000
+Done
+Writing to memory from 0xffeb0000 to 0xffec0000
+Done
+Writing to memory from 0xfffc0000 to 0x00000000
+Done
+Memory initialized
+0.015 [400.000 MHz] curr: 42.273	max:43.156
+0.015 [400.000 MHz] curr: 42.766	max:43.578
+0.015 [400.000 MHz] curr: 42.609	max:43.781
+0.015 [400.000 MHz] curr: 43.055	max:43.898
+0.015 [400.000 MHz] curr: 43.422	max:44.016
+0.015 [400.000 MHz] curr: 43.320	max:44.039
+0.015 [400.000 MHz] curr: 43.320	max:44.148
+0.015 [400.000 MHz] curr: 43.539	max:44.148
+0.015 [400.000 MHz] curr: 43.320	max:44.148
+0.015 [400.000 MHz] curr: 43.602	max:44.281
+0.015 [400.000 MHz] curr: 43.562	max:44.281
+0.015 [400.000 MHz] curr: 43.211	max:44.352
+0.015 [400.000 MHz] curr: 43.594	max:44.352
+0.015 [400.000 MHz] curr: 43.961	max:44.352
+0.015 [400.000 MHz] curr: 43.781	max:44.352
+0.015 [400.000 MHz] curr: 43.680	max:44.352
+0.015 [400.000 MHz] curr: 43.406	max:44.352
+0.015 [400.000 MHz] curr: 43.836	max:44.352
+0.015 [400.000 MHz] curr: 43.609	max:44.352
+0.015 [400.000 MHz] curr: 43.664	max:44.352
+0.015 [400.000 MHz] curr: 43.555	max:44.359
+0.015 [400.000 MHz] curr: 43.438	max:44.453
+0.015 [400.000 MHz] curr: 43.336	max:44.453
+0.015 [400.000 MHz] curr: 43.742	max:44.453
+0.015 [400.000 MHz] curr: 43.359	max:44.453
+0.015 [400.000 MHz] curr: 43.984	max:44.453
+0.015 [400.000 MHz] curr: 43.641	max:44.453
+0.015 [400.000 MHz] curr: 43.477	max:44.453
+0.015 [400.000 MHz] curr: 43.461	max:44.453
+0.015 [400.000 MHz] curr: 43.188	max:44.562
+0.015 [400.000 MHz] curr: 43.844	max:44.562
+0.015 [400.000 MHz] curr: 44.164	max:44.562
+0.015 [400.000 MHz] curr: 43.336	max:44.562
+0.015 [400.000 MHz] curr: 43.711	max:44.562
+0.015 [400.000 MHz] curr: 43.695	max:44.562
+0.015 [400.000 MHz] curr: 43.578	max:44.562
+0.015 [400.000 MHz] curr: 43.227	max:44.562
+0.015 [400.000 MHz] curr: 43.242	max:44.562
+0.015 [400.000 MHz] curr: 43.680	max:44.562
+0.015 [400.000 MHz] curr: 43.633	max:44.562
+0.015 [400.000 MHz] curr: 43.914	max:44.562
+0.015 [400.000 MHz] curr: 43.219	max:44.562
+0.015 [400.000 MHz] curr: 43.859	max:44.562
+0.015 [400.000 MHz] curr: 43.531	max:44.562
+0.015 [400.000 MHz] curr: 43.625	max:44.562
+0.015 [400.000 MHz] curr: 43.477	max:44.562
+0.015 [400.000 MHz] curr: 43.945	max:44.562
+0.015 [400.000 MHz] curr: 43.336	max:44.562
+0.015 [400.000 MHz] curr: 43.586	max:44.562
+0.015 [400.000 MHz] curr: 43.195	max:44.562
+0.015 [400.000 MHz] curr: 43.180	max:44.562
+0.015 [400.000 MHz] curr: 43.625	max:44.562
+0.015 [400.000 MHz] curr: 43.719	max:44.562
+0.015 [400.000 MHz] curr: 43.531	max:44.562
+0.015 [400.000 MHz] curr: 43.570	max:44.562
+0.015 [400.000 MHz] curr: 43.664	max:44.562
+0.015 [400.000 MHz] curr: 43.234	max:44.562
+0.015 [400.000 MHz] curr: 43.914	max:44.562
+0.015 [400.000 MHz] curr: 43.453	max:44.562
+0.015 [400.000 MHz] curr: 43.789	max:44.562
+0.015 [400.000 MHz] curr: 43.414	max:44.617
+0.015 [400.000 MHz] curr: 43.766	max:44.617
+0.015 [400.000 MHz] curr: 43.609	max:44.617
+[0.015]****************************************
+[0.061]Xilinx Versal Platform Loader and Manager
+[0.109]Release 2025.2   Jun  8 2026  -  17:25:30
+[0.159]Platform Version: v2.0 PMC: v2.0, PS: v2.0
+[0.218]BOOTMODE: 0x0, MULTIBOOT: 0x0
+[0.259]****************************************
+[0.537]Non Secure Boot
+[4.349]PLM Initialization Time
+[4.388]***********Boot PDI Load: Started***********
+[4.465]Loading PDI from SBI
+[4.501]Monolithic/Master Device
+[4.813]0.367 ms: PDI initialization time
+[4.864]+++Loading Image#: 0x1, Name: lpd, Id: 0x04210002
+[4.927]---Loading Partition#: 0x1, Id: 0xC
+[59.104] 54.116 ms for Partition#: 0x1, Size: 9584 Bytes
+[63.823]---Loading Partition#: 0x2, Id: 0xB
+[87.202] 19.645 ms for Partition#: 0x2, Size: 35216 Bytes
+[89.600]+++Loading Image#: 0x2, Name: fpd, Id: 0x0420C003
+[94.241]---Loading Partition#: 0x3, Id: 0x8
+[98.932] 0.961 ms for Partition#: 0x3, Size: 4544 Bytes
+[102.701]+++Loading Image#: 0x3, Name: pl_cfi, Id: 0x18700000
+[107.900]---Loading Partition#: 0x4, Id: 0x3
+[219.520] 107.804 ms for Partition#: 0x4, Size: 190656 Bytes
+[221.930]---Loading Partition#: 0x5, Id: 0x5
+[483.687] 257.938 ms for Partition#: 0x5, Size: 420224 Bytes
+[486.464]+++Loading Image#: 0x4, Name: rpu_subsystem, Id: 0x1C000000
+[491.896]---Loading Partition#: 0x6, Id: 0x0
+[495.838] 0.127 ms for Partition#: 0x6, Size: 2704 Bytes
+[500.513]---Loading Partition#: 0x7, Id: 0x0
+[592.343] 88.009 ms for Partition#: 0x7, Size: 156528 Bytes
+[594.739]***********Boot PDI Load: Done***********
+[598.990]2607.191 ms: ROM Time
+[601.633]Total PLM Boot Time
+Cortex-R5
+Writing to memory from 0x00000000 to 0x00010000
+Done
+Writing to memory from 0x00020000 to 0x00030000
+Done
+Writing to memory from 0xffe00000 to 0xffe10000
+Done
+Writing to memory from 0xffe90000 to 0xffea0000
+Done
+Writing to memory from 0xffe20000 to 0xffe30000
+Done
+Writing to memory from 0xffeb0000 to 0xffec0000
+Done
+Writing to memory from 0xfffc0000 to 0x00000000
+Done
+Memory initialized
+0.015 [400.000 MHz] curr: 42.469	max:43.219
+0.015 [400.000 MHz] curr: 42.805	max:43.633
+0.015 [400.000 MHz] curr: 42.703	max:43.703
+0.015 [400.000 MHz] curr: 43.258	max:43.789
+0.015 [400.000 MHz] curr: 43.188	max:43.789
+0.015 [400.000 MHz] curr: 42.891	max:43.891
+0.015 [400.000 MHz] curr: 43.070	max:43.891
+0.015 [400.000 MHz] curr: 42.844	max:44.102
+0.015 [400.000 MHz] curr: 43.664	max:44.211
+0.015 [400.000 MHz] curr: 43.406	max:44.250
+0.015 [400.000 MHz] curr: 43.461	max:44.250
+0.015 [400.000 MHz] curr: 43.492	max:44.250
+0.015 [400.000 MHz] curr: 43.461	max:44.250
+0.015 [400.000 MHz] curr: 43.758	max:44.250
+0.015 [400.000 MHz] curr: 43.391	max:44.250
+0.015 [400.000 MHz] curr: 43.523	max:44.250
+0.015 [400.000 MHz] curr: 43.773	max:44.438
+0.015 [400.000 MHz] curr: 43.602	max:44.438
+0.015 [400.000 MHz] curr: 43.883	max:44.438
+0.015 [400.000 MHz] curr: 43.609	max:44.438
+0.015 [400.000 MHz] curr: 43.297	max:44.438
+0.015 [400.000 MHz] curr: 43.164	max:44.438
+0.015 [400.000 MHz] curr: 43.523	max:44.438
+0.015 [400.000 MHz] curr: 43.484	max:44.438
+0.015 [400.000 MHz] curr: 43.375	max:44.438
+0.015 [400.000 MHz] curr: 43.922	max:44.438
+0.015 [400.000 MHz] curr: 43.211	max:44.438
+0.015 [400.000 MHz] curr: 43.867	max:44.438
+0.015 [400.000 MHz] curr: 43.188	max:44.438
+0.015 [400.000 MHz] curr: 43.594	max:44.438
+0.015 [400.000 MHz] curr: 43.719	max:44.477
+0.015 [400.000 MHz] curr: 43.234	max:44.477
+0.015 [400.000 MHz] curr: 43.016	max:44.477
+0.015 [400.000 MHz] curr: 43.922	max:44.477
+0.015 [400.000 MHz] curr: 43.562	max:44.477
+0.015 [400.000 MHz] curr: 43.812	max:44.477
+0.015 [400.000 MHz] curr: 43.641	max:44.477
+[0.015]****************************************
+[0.061]Xilinx Versal Platform Loader and Manager
+[0.109]Release 2025.2   Jun  8 2026  -  17:25:30
+[0.159]Platform Version: v2.0 PMC: v2.0, PS: v2.0
+[0.218]BOOTMODE: 0x0, MULTIBOOT: 0x0
+[0.259]****************************************
+[0.537]Non Secure Boot
+[4.349]PLM Initialization Time
+[4.388]***********Boot PDI Load: Started***********
+[4.465]Loading PDI from SBI
+[4.501]Monolithic/Master Device
+[4.813]0.367 ms: PDI initialization time
+[4.864]+++Loading Image#: 0x1, Name: lpd, Id: 0x04210002
+[4.927]---Loading Partition#: 0x1, Id: 0xC
+[59.206] 54.218 ms for Partition#: 0x1, Size: 9584 Bytes
+[63.923]---Loading Partition#: 0x2, Id: 0xB
+[87.211] 19.556 ms for Partition#: 0x2, Size: 35216 Bytes
+[89.608]+++Loading Image#: 0x2, Name: fpd, Id: 0x0420C003
+[94.249]---Loading Partition#: 0x3, Id: 0x8
+[98.936] 0.960 ms for Partition#: 0x3, Size: 4544 Bytes
+[102.702]+++Loading Image#: 0x3, Name: pl_cfi, Id: 0x18700000
+[107.899]---Loading Partition#: 0x4, Id: 0x3
+[219.441] 107.726 ms for Partition#: 0x4, Size: 190656 Bytes
+[221.849]---Loading Partition#: 0x5, Id: 0x5
+[484.111] 258.444 ms for Partition#: 0x5, Size: 420224 Bytes
+[486.889]+++Loading Image#: 0x4, Name: rpu_subsystem, Id: 0x1C000000
+[492.322]---Loading Partition#: 0x6, Id: 0x0
+[496.266] 0.128 ms for Partition#: 0x6, Size: 2704 Bytes
+[500.943]---Loading Partition#: 0x7, Id: 0x0
+[592.374] 87.609 ms for Partition#: 0x7, Size: 156528 Bytes
+[594.770]***********Boot PDI Load: Done***********
+[599.021]2590.489 ms: ROM Time
+[601.663]Total PLM Boot Time
+Cortex-R5
+Writing to memory from 0x00000000 to 0x00010000
+Done
+Writing to memory from 0x00020000 to 0x00030000
+Done
+Writing to memory from 0xffe00000 to 0xffe10000
+Done
+Writing to memory from 0xffe90000 to 0xffea0000
+Done
+Writing to memory from 0xffe20000 to 0xffe30000
+Done
+Writing to memory from 0xffeb0000 to 0xffec0000
+Done
+Writing to memory from 0xfffc0000 to 0x00000000
+Done
+Memory initialized
+0.015 [400.000 MHz] curr: 42.625	max:43.414
+0.015 [400.000 MHz] curr: 42.984	max:43.594
+[__atcm0] Flip at 0x00009ed0: 0x00010000
+0.015 [400.000 MHz] curr: 42.883	max:43.719
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm_global0] Flip at 0xffe09b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+0.015 [400.000 MHz] curr: 42.820	max:43.820
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm_global0] Flip at 0xffe09b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+0.015 [400.000 MHz] curr: 43.352	max:43.961
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+0.015 [400.000 MHz] curr: 43.055	max:43.961
+0.015 [400.000 MHz] curr: 43.484	max:43.961
+0.015 [400.000 MHz] curr: 42.906	max:44.102
+0.015 [400.000 MHz] curr: 43.367	max:44.102
+0.015 [400.000 MHz] curr: 43.508	max:44.180
+0.015 [400.000 MHz] curr: 43.320	max:44.180
+0.015 [400.000 MHz] curr: 43.602	max:44.180
+0.015 [400.000 MHz] curr: 43.414	max:44.180
+0.015 [400.000 MHz] curr: 43.375	max:44.180
+0.015 [400.000 MHz] curr: 43.430	max:44.180
+0.015 [400.000 MHz] curr: 43.258	max:44.180
+0.015 [400.000 MHz] curr: 43.578	max:44.180
+0.015 [400.000 MHz] curr: 43.211	max:44.211
+0.015 [400.000 MHz] curr: 43.500	max:44.211
+0.015 [400.000 MHz] curr: 42.906	max:44.211
+0.015 [400.000 MHz] curr: 43.445	max:44.211
+0.015 [400.000 MHz] curr: 43.352	max:44.281
+0.015 [400.000 MHz] curr: 43.398	max:44.281
+0.015 [400.000 MHz] curr: 43.609	max:44.383
+0.015 [400.000 MHz] curr: 43.352	max:44.383
+0.015 [400.000 MHz] curr: 43.773	max:44.383
+0.015 [400.000 MHz] curr: 43.258	max:44.383
+0.015 [400.000 MHz] curr: 43.797	max:44.383
+0.015 [400.000 MHz] curr: 43.516	max:44.383
+0.015 [400.000 MHz] curr: 43.789	max:44.383
+0.015 [400.000 MHz] curr: 43.039	max:44.383
+0.015 [400.000 MHz] curr: 44.008	max:44.391
+0.015 [400.000 MHz] curr: 43.391	max:44.391
+0.015 [400.000 MHz] curr: 43.742	max:44.391
+0.015 [400.000 MHz] curr: 43.133	max:44.391
+0.015 [400.000 MHz] curr: 43.594	max:44.391
+0.015 [400.000 MHz] curr: 43.719	max:44.391
+0.015 [400.000 MHz] curr: 43.578	max:44.391
+0.015 [400.000 MHz] curr: 43.344	max:44.391
+0.015 [400.000 MHz] curr: 43.609	max:44.391
+0.015 [400.000 MHz] curr: 43.422	max:44.391
+0.015 [400.000 MHz] curr: 43.195	max:44.547
+0.015 [400.000 MHz] curr: 43.734	max:44.547
+0.015 [400.000 MHz] curr: 43.375	max:44.547
+0.015 [400.000 MHz] curr: 43.812	max:44.547
+0.015 [400.000 MHz] curr: 43.609	max:44.547
+0.015 [400.000 MHz] curr: 43.672	max:44.547
+0.015 [400.000 MHz] curr: 43.672	max:44.547
+0.015 [400.000 MHz] curr: 43.617	max:44.547
+0.015 [400.000 MHz] curr: 43.242	max:44.547
+0.015 [400.000 MHz] curr: 43.422	max:44.547
+0.015 [400.000 MHz] curr: 43.562	max:44.547
+0.015 [400.000 MHz] curr: 43.648	max:44.547
+0.015 [400.000 MHz] curr: 43.711	max:44.547
+0.015 [400.000 MHz] curr: 43.023	max:44.547
+0.015 [400.000 MHz] curr: 43.531	max:44.547
+0.015 [400.000 MHz] curr: 43.602	max:44.547
+0.015 [400.000 MHz] curr: 43.805	max:44.547
+0.015 [400.000 MHz] curr: 43.508	max:44.547
+0.015 [400.000 MHz] curr: 43.383	max:44.547
+0.015 [400.000 MHz] curr: 43.828	max:44.547
+0.015 [400.000 MHz] curr: 43.375	max:44.547
+0.015 [400.000 MHz] curr: 43.922	max:44.547
+0.015 [400.000 MHz] curr: 43.383	max:44.547
+0.015 [400.000 MHz] curr: 43.758	max:44.547
+0.015 [400.000 MHz] curr: 43.484	max:44.547
+0.015 [400.000 MHz] curr: 43.312	max:44.547
+0.015 [400.000 MHz] curr: 43.523	max:44.547
+0.015 [400.000 MHz] curr: 43.625	max:44.547
+0.015 [400.000 MHz] curr: 43.688	max:44.547
+0.015 [400.000 MHz] curr: 43.352	max:44.547
+0.015 [400.000 MHz] curr: 43.516	max:44.547
+0.015 [400.000 MHz] curr: 43.602	max:44.547
+0.015 [400.000 MHz] curr: 43.664	max:44.547
+0.015 [400.000 MHz] curr: 43.281	max:44.547
+0.015 [400.000 MHz] curr: 43.297	max:44.547
+0.015 [400.000 MHz] curr: 43.195	max:44.547
+0.015 [400.000 MHz] curr: 43.039	max:44.547
+0.015 [400.000 MHz] curr: 43.109	max:44.547
+0.015 [400.000 MHz] curr: 43.547	max:44.547
+0.015 [400.000 MHz] curr: 43.898	max:44.547
+0.015 [400.000 MHz] curr: 43.711	max:44.547
+[__atcm0] Flip at 0x00009b18: 0x00010000
+0.015 [400.000 MHz] curr: 43.195	max:44.547
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+0.015 [400.000 MHz] curr: 43.203	max:44.547
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+0.015 [400.000 MHz] curr: 43.695	max:44.547
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm_global0] Flip at 0xffe09b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm_global0] Flip at 0xffe09b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+0.015 [400.000 MHz] curr: 43.461	max:44.547
+0.015 [400.000 MHz] curr: 43.711	max:44.547
+0.015 [400.000 MHz] curr: 43.719	max:44.547
+0.015 [400.000 MHz] curr: 43.555	max:44.547
+[__atcm0] Flip at 0x0000a298: 0x00010000
+[__atcm0] Flip at 0x0000a310: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009b18: 0x00010000
+[__atcm0] Flip at 0x00009ab0: 0x00010000
+[__atcm0] Flip at 0x00009b30: 0x00010000
+0.015 [400.000 MHz] curr: 43.320	max:44.547
+0.015 [400.000 MHz] curr: 43.625	max:44.547
+0.015 [400.000 MHz] curr: 43.820	max:44.547
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+[__atcm_global0] Flip at 0xffe09ea8: 0x00010000
+0.015 [400.000 MHz] curr: 44.109	max:44.547
+0.015 [400.000 MHz] curr: 43.430	max:44.547
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+0.015 [400.000 MHz] curr: 43.195	max:44.547
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+[__atcm_global0] Flip at 0xffe09ea8: 0x00010000
+[__atcm_global0] Flip at 0xffe09ea8: 0x00010000
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+0.015 [400.000 MHz] curr: 43.594	max:44.547
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+0.015 [400.000 MHz] curr: 43.672	max:44.547
+0.015 [400.000 MHz] curr: 43.430	max:44.547
+0.015 [400.000 MHz] curr: 43.656	max:44.547
+0.015 [400.000 MHz] curr: 43.867	max:44.609
+0.015 [400.000 MHz] curr: 43.820	max:44.609
+0.015 [400.000 MHz] curr: 43.258	max:44.609
+0.015 [400.000 MHz] curr: 43.586	max:44.609
+0.015 [400.000 MHz] curr: 43.781	max:44.609
+0.015 [400.000 MHz] curr: 43.562	max:44.609
+0.015 [400.000 MHz] curr: 43.305	max:44.609
+0.015 [400.000 MHz] curr: 43.297	max:44.609
+0.015 [400.000 MHz] curr: 43.867	max:44.609
+0.015 [400.000 MHz] curr: 43.430	max:44.609
+0.015 [400.000 MHz] curr: 43.367	max:44.609
+0.015 [400.000 MHz] curr: 43.148	max:44.609
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+[__atcm_global0] Flip at 0xffe09ea8: 0x00010000
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+0.015 [400.000 MHz] curr: 43.602	max:44.609
+[__atcm_global0] Flip at 0xffe09ea8: 0x00010000
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+[__atcm0] Flip at 0x00009ea8: 0x00010000
+0.015 [400.000 MHz] curr: 43.492	max:44.609
+[__atcm_global0] Flip at 0xffe0a328: 0x00010000
+[__atcm_global0] Flip at 0xffe0a3a8: 0x00010000
+[__atcm_global0] Flip at 0xffe09ed0: 0x00020000
+0.015 [400.000 MHz] curr: 43.445	max:44.609
+[__atcm0] Flip at 0x00009ed0: 0x00020000
+[__atcm0] Flip at 0x00009bd8: 0x00020000
+[__atcm0] Flip at 0x00009ed0: 0x00020000
+[__atcm0] Flip at 0x00009bd8: 0x00020000
+[__atcm0] Flip at 0x00009ed0: 0x00020000
+[__atcm0] Flip at 0x00009ed0: 0x00020000
+[__atcm0] Flip at 0x00009ed0: 0x00020000
+[__atcm0] Flip at 0x00009ed0: 0x00020000
+[__atcm0] Flip at 0x00009750: 0x00020000
+[__atcm0] Flip at 0x00009758: 0x00020000
+[__atcm0] Flip at 0x00009fc8: 0x00080000
+[__atcm0] Flip at 0x000097d8: 0x00040000
+[__atcm0] Flip at 0x00009ec0: 0x00040000
+0.015 [400.000 MHz] curr: 43.648	max:44.609
+[__atcm0] Flip at 0x00009ec0: 0x00040000
+[__atcm0] Flip at 0x00009ec0: 0x00040000
+[__atcm0] Flip at 0x00009ec0: 0x00040000
+[__atcm0] Flip at 0x00009ec0: 0x00040000
+[__atcm0] Flip at 0x00009ec0: 0x00040000
+[__atcm0] Flip at 0x00009ec0: 0x00040000
+0.016 [400.000 MHz] curr: 43.414	max:44.609
+[__atcm0] Flip at 0x00009ec0: 0x00040000
+[__atcm0] Flip at 0x00009ec0: 0x00040000
+[__atcm0] Flip at 0x00009ec0: 0x00040000
+[__atcm_global0] Flip at 0xffe09ec0: 0x00040000
+[__atcm0] Flip at 0x00009ec0: 0x00040000
+[__atcm_global0] Flip at 0xffe09ec0: 0x00040000
+0.015 [400.000 MHz] curr: 43.602	max:44.609
+[__atcm0] Flip at 0x00009ec0: 0x00040000
+0.015 [400.000 MHz] curr: 43.062	max:44.609
+[__atcm0] Flip at 0x00009e88: 0x00080000
+0.015 [400.000 MHz] curr: 43.289	max:44.609
+[__atcm0] Flip at 0x00009e88: 0x00080000
+[__atcm0] Flip at 0x00009e88: 0x00080000
+[__atcm0] Flip at 0x00009e88: 0x00080000
+0.015 [400.000 MHz] curr: 43.250	max:44.609
+[__atcm0] Flip at 0x00008be8: 0x00080000
+[__atcm0] Flip at 0x00008e68: 0x00080000
+[__atcm0] Flip at 0x00008e70: 0x00080000
+0.015 [400.000 MHz] curr: 43.594	max:44.609
+[__atcm0] Flip at 0x00009ed8: 0x00100000
+[__atcm0] Flip at 0x000096c8: 0x00200000
+[__atcm0] Flip at 0x00009740: 0x00200000
+[__atcm0] Flip at 0x00009748: 0x00200000
+[__atcm0] Flip at 0x00009b48: 0x00200000
+[__atcm0] Flip at 0x00009b98: 0x00200000
+[__atcm0] Flip at 0x00009e98: 0x00200000
+[__atcm_global0] Flip at 0xffe09b98: 0x00200000
+[__atcm_global0] Flip at 0xffe09e98: 0x00200000
+[__atcm0] Flip at 0x00009b98: 0x00200000
+0.015 [400.000 MHz] curr: 43.578	max:44.609
+[__atcm_global0] Flip at 0xffe09b98: 0x00200000
+[__atcm0] Flip at 0x00009b98: 0x00200000
+[__atcm0] Flip at 0x00009e98: 0x00200000
+[__atcm0] Flip at 0x00009e98: 0x00200000
+[__atcm_global0] Flip at 0xffe09b98: 0x00200000
+0.017 [400.000 MHz] curr: 43.258	max:44.609
+[__atcm_global0] Flip at 0xffe09b98: 0x00200000
+[__atcm_global0] Flip at 0xffe09e98: 0x00200000
+[__atcm0] Flip at 0x00009b98: 0x00200000
+[__atcm0] Flip at 0x00009e98: 0x00200000
+[__atcm_global0] Flip at 0xffe09b98: 0x00200000
+[__atcm_global0] Flip at 0xffe09e98: 0x00200000
+0.015 [400.000 MHz] curr: 43.555	max:44.609
+[__atcm0] Flip at 0x00009e98: 0x00200000
+[__atcm0] Flip at 0x00009ea8: 0x00200000
+[__atcm0] Flip at 0x00009f20: 0x00200000
+[__atcm0] Flip at 0x00009f28: 0x00200000
+0.015 [400.000 MHz] curr: 43.602	max:44.609
+[__atcm0] Flip at 0x0000a238: 0x00800000
+[__atcm_global0] Flip at 0xffe09eb8: 0x02000000
+[__atcm_global0] Flip at 0xffe09f30: 0x02000000
+[__atcm0] Flip at 0x00009eb8: 0x02000000
+[__atcm0] Flip at 0x00009eb8: 0x02000000
+[__atcm0] Flip at 0x00009f30: 0x02000000
+[__atcm0] Flip at 0x00009bb0: 0x02000000
+[__atcm0] Flip at 0x00009f30: 0x02000000
+[__atcm0] Flip at 0x00009bb0: 0x02000000
+[__atcm0] Flip at 0x00009f30: 0x02000000
+0.015 [400.000 MHz] curr: 43.539	max:44.609
+[__atcm0] Flip at 0x00009f30: 0x02000000
+[__atcm0] Flip at 0x00009eb8: 0x02000000
+[__atcm0] Flip at 0x00009f30: 0x02000000
+0.015 [400.000 MHz] curr: 43.398	max:44.609
+[__atcm0] Flip at 0x00009e60: 0x08000000
+0.015 [400.000 MHz] curr: 43.422	max:44.609
+0.015 [400.000 MHz] curr: 43.445	max:44.609
+0.015 [400.000 MHz] curr: 43.930	max:44.609
+[__atcm0] Flip at 0x00009ed8: 0x20000000
+[__atcm0] Flip at 0x00009ed0: 0x20000000
+[__atcm0] Flip at 0x00009ed8: 0x20000000
+[__atcm0] Flip at 0x00009ed0: 0x20000000
+[__atcm0] Flip at 0x00009ed8: 0x20000000
+[__atcm0] Flip at 0x00009ed8: 0x20000000
+[__atcm0] Flip at 0x00009be0: 0x20000000
+[__atcm0] Flip at 0x00009e60: 0x20000000
+[__atcm0] Flip at 0x00009be0: 0x20000000
+[__atcm0] Flip at 0x00009e60: 0x20000000
+[__atcm_global0] Flip at 0xffe09e60: 0x20000000
+[__atcm0] Flip at 0x00009e60: 0x20000000
+[__atcm_global0] Flip at 0xffe09e60: 0x20000000
+[__atcm0] Flip at 0x00009be0: 0x20000000
+[__atcm0] Flip at 0x00009e60: 0x20000000
+[__atcm0] Flip at 0x00009e60: 0x20000000
+[__atcm0] Flip at 0x00009e60: 0x20000000
+[__atcm0] Flip at 0x00009e60: 0x20000000
+[__atcm0] Flip at 0x00009e60: 0x20000000
+[__atcm0] Flip at 0x00009e60: 0x20000000
+0.015 [400.000 MHz] curr: 43.070	max:44.609
+[__atcm0] Flip at 0x00009e60: 0x20000000
+[__atcm0] Flip at 0x00009b98: 0x40000000
+[__atcm0] Flip at 0x00009b98: 0x40000000
+0.015 [400.000 MHz] curr: 43.961	max:44.609
+[__atcm0] Flip at 0x00009b98: 0x40000000
+[__atcm0] Flip at 0x00009e88: 0x80000000
+0.015 [400.000 MHz] curr: 43.219	max:44.609
+[__atcm0] Flip at 0x00009e88: 0x80000000
+[__atcm0] Flip at 0x00009e88: 0x80000000
+[__atcm0] Flip at 0x00009e88: 0x80000000
+[__atcm0] Flip at 0x00009e88: 0x80000000
+[__atcm0] Flip at 0x00009ff8: 0x80000000
+[__atcm0] Flip at 0x00009ff8: 0x80000000
+[__atcm0] Flip at 0x00009ff8: 0x80000000
+[__atcm0] Flip at 0x00009ff8: 0x80000000
+[__atcm0] Flip at 0x00009ff8: 0x80000000
+[__atcm0] Flip at 0x00009ff8: 0x80000000
+[__atcm0] Flip at 0x00009ff8: 0x80000000
+0.015 [400.000 MHz] curr: 43.039	max:44.609
+[__atcm0] Flip at 0x00009ff8: 0x80000000
+[__atcm0] Flip at 0x00009ff8: 0x80000000
+[__atcm_global0] Flip at 0xffe09ff8: 0x80000000
+[__atcm0] Flip at 0x00009ff8: 0x80000000
+0.015 [400.000 MHz] curr: 43.711	max:44.609
+[__atcm0] Flip at 0x00009ff8: 0x80000000
+[__atcm0] Flip at 0x00009ff8: 0x80000000
+[__atcm0] Flip at 0x00009ff8: 0x80000000
+[__atcm_global0] Flip at 0xffe09ff8: 0x80000000
+[__atcm0] Flip at 0x00009ff8: 0x80000000
+[__atcm0] Flip at 0x00009ff8: 0x80000000
+[__atcm_global0] Flip at 0xffe09ff8: 0x80000000
+[__atcm0] Flip at 0x00009ff8: 0x80000000
+[__atcm_global0] Flip at 0xffe09ff8: 0x80000000
+[__atcm0] Flip at 0x00009ff8: 0x80000000
+[__atcm_global0] Flip at 0xffe09ff8: 0x80000000
+[__atcm0] Flip at 0x00009ff8: 0x80000000
+0.015 [400.000 MHz] curr: 43.391	max:44.609
+0.015 [400.000 MHz] curr: 43.680	max:44.609
+0.015 [400.000 MHz] curr: 43.828	max:44.609
+0.015 [400.000 MHz] curr: 43.758	max:44.609
+0.015 [400.000 MHz] curr: 43.148	max:44.609
+0.015 [400.000 MHz] curr: 43.688	max:44.609
+0.015 [400.000 MHz] curr: 43.539	max:44.609
+0.015 [400.000 MHz] curr: 43.188	max:44.609
+0.015 [400.000 MHz] curr: 43.477	max:44.609
+0.015 [400.000 MHz] curr: 43.766	max:44.609
+0.015 [400.000 MHz] curr: 43.086	max:44.609
+0.015 [400.000 MHz] curr: 43.672	max:44.609
+0.015 [400.000 MHz] curr: 43.375	max:44.609
+0.015 [400.000 MHz] curr: 43.250	max:44.609
+0.015 [400.000 MHz] curr: 43.523	max:44.609
+0.015 [400.000 MHz] curr: 43.391	max:44.609
+0.015 [400.000 MHz] curr: 43.680	max:44.609
+0.015 [400.000 MHz] curr: 43.125	max:44.609
+0.015 [400.000 MHz] curr: 43.312	max:44.609
+0.015 [400.000 MHz] curr: 43.469	max:44.609
+0.015 [400.000 MHz] curr: 43.297	max:44.609
+0.015 [400.000 MHz] curr: 43.133	max:44.609
+0.015 [400.000 MHz] curr: 43.594	max:44.609
+0.015 [400.000 MHz] curr: 43.461	max:44.609
+0.015 [400.000 MHz] curr: 43.297	max:44.609
+0.015 [400.000 MHz] curr: 43.406	max:44.609
+0.015 [400.000 MHz] curr: 43.695	max:44.609
+0.015 [400.000 MHz] curr: 44.047	max:44.609
+0.015 [400.000 MHz] curr: 43.250	max:44.609
+0.015 [400.000 MHz] curr: 43.844	max:44.609
+0.015 [400.000 MHz] curr: 43.250	max:44.609
+0.015 [400.000 MHz] curr: 43.508	max:44.609
+0.015 [400.000 MHz] curr: 43.188	max:44.609
+0.015 [400.000 MHz] curr: 43.531	max:44.609
+0.015 [400.000 MHz] curr: 44.047	max:44.609
+0.015 [400.000 MHz] curr: 43.406	max:44.609
+0.015 [400.000 MHz] curr: 43.914	max:44.609
+0.015 [400.000 MHz] curr: 43.242	max:44.609
+0.015 [400.000 MHz] curr: 43.469	max:44.609
+0.015 [400.000 MHz] curr: 43.016	max:44.609
+0.015 [400.000 MHz] curr: 43.508	max:44.609
+0.015 [400.000 MHz] curr: 43.430	max:44.609
+0.015 [400.000 MHz] curr: 43.641	max:44.609
+0.015 [400.000 MHz] curr: 43.695	max:44.609
+0.015 [400.000 MHz] curr: 43.461	max:44.609
+0.015 [400.000 MHz] curr: 43.586	max:44.609
+0.015 [400.000 MHz] curr: 43.688	max:44.609
+0.015 [400.000 MHz] curr: 43.414	max:44.609
+0.015 [400.000 MHz] curr: 43.367	max:44.609
+0.015 [400.000 MHz] curr: 43.500	max:44.609
+0.015 [400.000 MHz] curr: 43.500	max:44.609
+0.015 [400.000 MHz] curr: 43.438	max:44.609
+0.015 [400.000 MHz] curr: 43.703	max:44.609
+0.015 [400.000 MHz] curr: 43.492	max:44.609
+0.015 [400.000 MHz] curr: 43.438	max:44.609
+0.015 [400.000 MHz] curr: 43.898	max:44.609
+0.015 [400.000 MHz] curr: 43.320	max:44.609
+0.015 [400.000 MHz] curr: 43.570	max:44.609
+0.015 [400.000 MHz] curr: 43.094	max:44.609
+0.015 [400.000 MHz] curr: 43.461	max:44.609
+0.015 [400.000 MHz] curr: 43.430	max:44.609
+0.015 [400.000 MHz] curr: 43.320	max:44.609
+0.015 [400.000 MHz] curr: 43.477	max:44.609
+0.015 [400.000 MHz] curr: 43.734	max:44.609
+0.015 [400.000 MHz] curr: 43.047	max:44.609
+0.015 [400.000 MHz] curr: 43.438	max:44.609
+0.015 [400.000 MHz] curr: 42.773	max:44.609
+0.015 [400.000 MHz] curr: 43.055	max:44.609
+0.015 [400.000 MHz] curr: 43.094	max:44.609
+0.015 [400.000 MHz] curr: 43.117	max:44.609
+0.015 [400.000 MHz] curr: 43.391	max:44.609
+0.015 [400.000 MHz] curr: 43.602	max:44.609
+0.015 [400.000 MHz] curr: 43.617	max:44.609
+0.015 [400.000 MHz] curr: 43.336	max:44.609
+0.015 [400.000 MHz] curr: 43.773	max:44.609
+0.015 [400.000 MHz] curr: 43.164	max:44.609
+0.015 [400.000 MHz] curr: 43.344	max:44.609
+0.015 [400.000 MHz] curr: 43.609	max:44.609
+0.015 [400.000 MHz] curr: 43.312	max:44.609
+0.015 [400.000 MHz] curr: 42.977	max:44.609
+0.015 [400.000 MHz] curr: 43.500	max:44.609
+0.015 [400.000 MHz] curr: 43.508	max:44.609
+0.015 [400.000 MHz] curr: 43.672	max:44.609
+0.015 [400.000 MHz] curr: 43.547	max:44.609
+0.015 [400.000 MHz] curr: 43.492	max:44.609
+0.015 [400.000 MHz] curr: 43.906	max:44.609
+0.015 [400.000 MHz] curr: 43.648	max:44.609
+0.015 [400.000 MHz] curr: 43.664	max:44.609
+0.015 [400.000 MHz] curr: 43.398	max:44.609
+0.015 [400.000 MHz] curr: 43.555	max:44.609
+0.015 [400.000 MHz] curr: 44.039	max:44.609
+0.015 [400.000 MHz] curr: 43.188	max:44.609
+0.015 [400.000 MHz] curr: 43.562	max:44.609
+0.015 [400.000 MHz] curr: 43.500	max:44.609
+0.015 [400.000 MHz] curr: 43.664	max:44.609
+0.015 [400.000 MHz] curr: 43.773	max:44.609
+0.015 [400.000 MHz] curr: 43.531	max:44.609
+0.015 [400.000 MHz] curr: 43.445	max:44.609
+0.015 [400.000 MHz] curr: 43.492	max:44.609
+0.015 [400.000 MHz] curr: 43.516	max:44.609
+0.015 [400.000 MHz] curr: 43.383	max:44.609
+0.015 [400.000 MHz] curr: 43.680	max:44.609
+0.015 [400.000 MHz] curr: 43.305	max:44.609
+0.015 [400.000 MHz] curr: 43.250	max:44.609
+0.015 [400.000 MHz] curr: 43.500	max:44.609
+0.015 [400.000 MHz] curr: 43.492	max:44.609
+0.015 [400.000 MHz] curr: 43.570	max:44.609
+0.015 [400.000 MHz] curr: 43.484	max:44.609
+0.015 [400.000 MHz] curr: 43.578	max:44.609
+0.015 [400.000 MHz] curr: 43.336	max:44.609
+0.015 [400.000 MHz] curr: 43.258	max:44.609
+0.015 [400.000 MHz] curr: 43.328	max:44.609
+0.015 [400.000 MHz] curr: 43.398	max:44.609
+0.015 [400.000 MHz] curr: 43.633	max:44.609
+0.015 [400.000 MHz] curr: 43.531	max:44.609
+0.015 [400.000 MHz] curr: 43.586	max:44.609
+0.015 [400.000 MHz] curr: 43.219	max:44.609
+0.015 [400.000 MHz] curr: 43.266	max:44.609
+0.015 [400.000 MHz] curr: 43.414	max:44.609
+0.015 [400.000 MHz] curr: 43.594	max:44.609
+0.015 [400.000 MHz] curr: 43.766	max:44.609
+0.015 [400.000 MHz] curr: 43.352	max:44.609
+0.015 [400.000 MHz] curr: 43.391	max:44.609
+0.015 [400.000 MHz] curr: 43.227	max:44.609
+0.015 [400.000 MHz] curr: 43.414	max:44.609
+0.015 [400.000 MHz] curr: 43.648	max:44.609
+0.015 [400.000 MHz] curr: 43.617	max:44.609
+0.015 [400.000 MHz] curr: 43.719	max:44.609
+0.015 [400.000 MHz] curr: 43.242	max:44.609
+0.015 [400.000 MHz] curr: 43.570	max:44.609
+0.015 [400.000 MHz] curr: 43.711	max:44.609
+0.015 [400.000 MHz] curr: 43.180	max:44.609
+0.015 [400.000 MHz] curr: 43.438	max:44.609
+0.015 [400.000 MHz] curr: 43.344	max:44.609
+0.015 [400.000 MHz] curr: 43.109	max:44.609
+0.015 [400.000 MHz] curr: 43.258	max:44.609
+0.015 [400.000 MHz] curr: 43.914	max:44.609
+0.015 [400.000 MHz] curr: 43.500	max:44.609
+0.015 [400.000 MHz] curr: 43.367	max:44.609
+0.015 [400.000 MHz] curr: 43.797	max:44.609
+0.015 [400.000 MHz] curr: 43.539	max:44.609
+0.015 [400.000 MHz] curr: 42.891	max:44.609
+0.015 [400.000 MHz] curr: 43.891	max:44.609
+0.015 [400.000 MHz] curr: 43.469	max:44.609
+0.015 [400.000 MHz] curr: 42.984	max:44.609
+0.015 [400.000 MHz] curr: 43.453	max:44.609
+0.015 [400.000 MHz] curr: 43.406	max:44.609
+0.015 [400.000 MHz] curr: 43.227	max:44.609
+0.015 [400.000 MHz] curr: 43.273	max:44.609
+0.015 [400.000 MHz] curr: 43.250	max:44.609
+0.015 [400.000 MHz] curr: 43.062	max:44.609
+0.015 [400.000 MHz] curr: 43.148	max:44.609
+0.015 [400.000 MHz] curr: 43.547	max:44.609
+0.015 [400.000 MHz] curr: 43.648	max:44.609
+0.015 [400.000 MHz] curr: 43.523	max:44.609
+0.015 [400.000 MHz] curr: 43.438	max:44.609
+0.015 [400.000 MHz] curr: 43.711	max:44.609
+[__atcm0] Flip at 0x00009eb8: 0x10000000
+[__atcm0] Flip at 0x00009f38: 0x10000000
+[__atcm0] Flip at 0x00009f38: 0x10000000
+[__atcm0] Flip at 0x00009b40: 0x08000000
+0.015 [400.000 MHz] curr: 43.305	max:44.609
+[__atcm0] Flip at 0x00009f30: 0x02000000
+[__atcm0] Flip at 0x00009f30: 0x00800000
+0.015 [400.000 MHz] curr: 43.594	max:44.609
+[__atcm0] Flip at 0x00009b90: 0x00400000
+[__atcm0] Flip at 0x00009ea0: 0x00200000
+[__atcm0] Flip at 0x00009ea8: 0x00200000
+[__atcm0] Flip at 0x00009f20: 0x00200000
+[__atcm0] Flip at 0x00009f28: 0x00200000
+[__atcm0] Flip at 0x00009f50: 0x00200000
+[__atcm0] Flip at 0x00009f78: 0x00080000
+[__atcm0] Flip at 0x000092c8: 0x00080000
+[__atcm_global0] Flip at 0xffe09f98: 0x00080000
+[__atcm0] Flip at 0x000096b0: 0x00020000
+[__atcm0] Flip at 0x00009738: 0x00020000
+[__atcm0] Flip at 0x00009e90: 0x00020000
+[__atcm0] Flip at 0x00009ad0: 0x00010000
+[__atcm0] Flip at 0x00009f30: 0x00010000
+[__atcm0] Flip at 0x00009f38: 0x00010000
+0.015 [400.000 MHz] curr: 43.391	max:44.609
+0.015 [400.000 MHz] curr: 43.406	max:44.609
+0.015 [400.000 MHz] curr: 43.305	max:44.609
+0.015 [400.000 MHz] curr: 43.375	max:44.609
+0.015 [400.000 MHz] curr: 43.242	max:44.609
+0.015 [400.000 MHz] curr: 43.414	max:44.609
+0.015 [400.000 MHz] curr: 43.859	max:44.609
+0.015 [400.000 MHz] curr: 43.383	max:44.609
+0.015 [400.000 MHz] curr: 43.914	max:44.609
+0.015 [400.000 MHz] curr: 43.492	max:44.609
+0.015 [400.000 MHz] curr: 43.688	max:44.609
+[__atcm0] Flip at 0x00009bf0: 0x00008000
+0.015 [400.000 MHz] curr: 43.555	max:44.609
+[__atcm0] Flip at 0x00009bc0: 0x00004000
+[__atcm0] Flip at 0x00009e40: 0x00004000
+[__atcm0] Flip at 0x00009bc0: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+0.016 [400.000 MHz] curr: 43.289	max:44.609
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm0] Flip at 0x00009e50: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm0] Flip at 0x00009e50: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+0.015 [400.000 MHz] curr: 43.664	max:44.609
+0.015 [400.000 MHz] curr: 43.188	max:44.609
+0.015 [400.000 MHz] curr: 43.195	max:44.609
+0.015 [400.000 MHz] curr: 43.273	max:44.609
+0.015 [400.000 MHz] curr: 43.586	max:44.609
+0.015 [400.000 MHz] curr: 43.539	max:44.609
+0.015 [400.000 MHz] curr: 43.758	max:44.609
+0.015 [400.000 MHz] curr: 43.484	max:44.609
+0.015 [400.000 MHz] curr: 43.461	max:44.609
+0.015 [400.000 MHz] curr: 43.586	max:44.609
+0.015 [400.000 MHz] curr: 43.555	max:44.609
+0.015 [400.000 MHz] curr: 43.250	max:44.609
+0.015 [400.000 MHz] curr: 43.195	max:44.609
+0.015 [400.000 MHz] curr: 43.469	max:44.609
+0.015 [400.000 MHz] curr: 43.680	max:44.609
+0.015 [400.000 MHz] curr: 43.492	max:44.609
+0.015 [400.000 MHz] curr: 43.148	max:44.609
+0.015 [400.000 MHz] curr: 43.852	max:44.609
+0.015 [400.000 MHz] curr: 43.742	max:44.609
+0.015 [400.000 MHz] curr: 43.641	max:44.609
+0.015 [400.000 MHz] curr: 43.219	max:44.609
+0.015 [400.000 MHz] curr: 43.539	max:44.609
+0.015 [400.000 MHz] curr: 43.555	max:44.609
+0.015 [400.000 MHz] curr: 43.531	max:44.609
+0.015 [400.000 MHz] curr: 43.664	max:44.609
+0.015 [400.000 MHz] curr: 43.109	max:44.609
+0.015 [400.000 MHz] curr: 43.547	max:44.609
+0.015 [400.000 MHz] curr: 43.539	max:44.609
+0.015 [400.000 MHz] curr: 43.359	max:44.609
+0.015 [400.000 MHz] curr: 42.906	max:44.609
+0.015 [400.000 MHz] curr: 43.406	max:44.609
+0.015 [400.000 MHz] curr: 43.305	max:44.609
+0.015 [400.000 MHz] curr: 43.117	max:44.609
+0.015 [400.000 MHz] curr: 42.789	max:44.609
+0.015 [400.000 MHz] curr: 42.938	max:44.609
+0.015 [400.000 MHz] curr: 43.359	max:44.609
+0.015 [400.000 MHz] curr: 43.242	max:44.609
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm_global0] Flip at 0xffe09e50: 0x00004000
+[__atcm_global0] Flip at 0xffe09ed0: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm0] Flip at 0x00009e48: 0x00004000
+[__atcm0] Flip at 0x00009e50: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm0] Flip at 0x00009e50: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm0] Flip at 0x00009e50: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm_global0] Flip at 0xffe09e50: 0x00004000
+[__atcm_global0] Flip at 0xffe09ed0: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm0] Flip at 0x00009e50: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+0.015 [400.000 MHz] curr: 43.516	max:44.609
+[__atcm_global0] Flip at 0xffe09ed0: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm_global0] Flip at 0xffe09e50: 0x00004000
+[__atcm_global0] Flip at 0xffe09ed0: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm0] Flip at 0x00009e50: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+0.015 [400.000 MHz] curr: 44.008	max:44.609
+[__atcm_global0] Flip at 0xffe09e50: 0x00004000
+[__atcm_global0] Flip at 0xffe09ed0: 0x00004000
+[__atcm0] Flip at 0x00009e50: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm_global0] Flip at 0xffe09ed0: 0x00004000
+[__atcm0] Flip at 0x00009e50: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm0] Flip at 0x00009ed0: 0x00004000
+[__atcm_global0] Flip at 0xffe09e90: 0x00002000
+[__atcm_global0] Flip at 0xffe09e98: 0x00002000
+[__atcm_global0] Flip at 0xffe09f10: 0x00002000
+[__atcm_global0] Flip at 0xffe09e38: 0x00002000
+0.015 [400.000 MHz] curr: 43.344	max:44.609
+[__atcm0] Flip at 0x00009b18: 0x00001000
+[__atcm0] Flip at 0x000096f8: 0x00001000
+[__atcm0] Flip at 0x00009770: 0x00001000
+[__atcm0] Flip at 0x000097f0: 0x00001000
+0.015 [400.000 MHz] curr: 43.445	max:44.609
+[__atcm_global0] Flip at 0xffe09780: 0x00000400
+[__atcm0] Flip at 0x00009ba0: 0x00000400
+[__atcm0] Flip at 0x00009e20: 0x00000400
+[__atcm_global0] Flip at 0xffe09ef0: 0x00000400
+0.015 [400.000 MHz] curr: 43.180	max:44.609
+[__atcm0] Flip at 0x00009b80: 0x00000080
+[__atcm0] Flip at 0x00009b80: 0x00000080
+[__atcm_global0] Flip at 0xffe09b80: 0x00000080
+[__atcm_global0] Flip at 0xffe09e80: 0x00000080
+0.015 [400.000 MHz] curr: 43.398	max:44.609
+[__atcm0] Flip at 0x00009b80: 0x00000080
+0.015 [400.000 MHz] curr: 43.422	max:44.609
+[__atcm0] Flip at 0x0000a200: 0x00000020
+[__atcm0] Flip at 0x00009fd8: 0x00000020
+[__atcm0] Flip at 0x00009ec0: 0x00000020
+[__atcm0] Flip at 0x00009aa0: 0x00000010
+0.015 [400.000 MHz] curr: 43.219	max:44.609
+0.015 [400.000 MHz] curr: 43.062	max:44.609
+0.015 [400.000 MHz] curr: 43.594	max:44.609
+[__atcm0] Flip at 0x00009e78: 0x00000008
+[__atcm_global0] Flip at 0xffe09e78: 0x00000008
+[__atcm0] Flip at 0x00009e80: 0x00000004
+[__atcm0] Flip at 0x00009e80: 0x00000004
+[__atcm0] Flip at 0x00009e80: 0x00000004
+0.015 [400.000 MHz] curr: 43.508	max:44.609
+[__atcm0] Flip at 0x00009e78: 0x00000008
+[__atcm0] Flip at 0x00009e80: 0x00000004
+[__atcm0] Flip at 0x00009e78: 0x00000008
+[__atcm0] Flip at 0x00009e80: 0x00000004
+[__atcm0] Flip at 0x00009e80: 0x00000004
+[__atcm0] Flip at 0x00009e80: 0x00000004
+[__atcm0] Flip at 0x00009bc0: 0x00000004
+[__atcm_global0] Flip at 0xffe09e70: 0x00000004
+[__atcm0] Flip at 0x00009e68: 0x00000004
+0.015 [400.000 MHz] curr: 43.625	max:44.609
+[__atcm_global0] Flip at 0xffe09be8: 0x00000004
+[__atcm_global0] Flip at 0xffe09e68: 0x00000004
+[__atcm0] Flip at 0x00009be8: 0x00000004
+[__atcm0] Flip at 0x00009e68: 0x00000004
+[__atcm_global0] Flip at 0xffe09e68: 0x00000004
+[__atcm0] Flip at 0x00009be8: 0x00000004
+[__atcm0] Flip at 0x00009e68: 0x00000004
+[__atcm0] Flip at 0x00009be8: 0x00000004
+[__atcm0] Flip at 0x00009e68: 0x00000004
+[__atcm0] Flip at 0x00009be8: 0x00000004
+[__atcm0] Flip at 0x00009e68: 0x00000004
+[__atcm_global0] Flip at 0xffe09e68: 0x00000004
+[__atcm0] Flip at 0x00009e68: 0x00000004
+[__atcm_global0] Flip at 0xffe09f18: 0x00000002
+[__atcm0] Flip at 0x00009fd0: 0x00000002
+0.015 [400.000 MHz] curr: 43.367	max:44.609
+[__atcm_global0] Flip at 0xffe09e38: 0x00000002
+[__atcm0] Flip at 0x00009bb0: 0x00000002
+[__atcm0] Flip at 0x00009bb0: 0x00000002
+[__atcm0] Flip at 0x00009bb0: 0x00000002
+[__atcm0] Flip at 0x00009748: 0x00000001
+[__atcm0] Flip at 0x00009b80: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009e88: 0x00000001
+[__atcm_global0] Flip at 0xffe09b80: 0x00000001
+[__atcm_global0] Flip at 0xffe09e08: 0x00000001
+[__atcm_global0] Flip at 0xffe09e88: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009e88: 0x00000001
+[__atcm_global0] Flip at 0xffe09e08: 0x00000001
+[__atcm_global0] Flip at 0xffe09e88: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009e88: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009e88: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009e88: 0x00000001
+[__atcm0] Flip at 0x00009b80: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009e88: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009e88: 0x00000001
+[__atcm_global0] Flip at 0xffe09e08: 0x00000001
+[__atcm_global0] Flip at 0xffe09e88: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009e88: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm_global0] Flip at 0xffe09e08: 0x00000001
+[__atcm_global0] Flip at 0xffe09e88: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009e88: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009e88: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009e88: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009e88: 0x00000001
+[__atcm_global0] Flip at 0xffe09e08: 0x00000001
+[__atcm_global0] Flip at 0xffe09e88: 0x00000001
+0.015 [400.000 MHz] curr: 43.398	max:44.609
+0.015 [400.000 MHz] curr: 43.305	max:44.609
+0.015 [400.000 MHz] curr: 43.648	max:44.609
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm_global0] Flip at 0xffe09e08: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+0.016 [400.000 MHz] curr: 43.609	max:44.609
+0.015 [400.000 MHz] curr: 43.922	max:44.609
+0.015 [400.000 MHz] curr: 43.164	max:44.609
+0.015 [400.000 MHz] curr: 43.547	max:44.609
+0.015 [400.000 MHz] curr: 43.148	max:44.609
+0.015 [400.000 MHz] curr: 43.289	max:44.609
+0.015 [400.000 MHz] curr: 43.508	max:44.609
+0.015 [400.000 MHz] curr: 43.281	max:44.609
+0.015 [400.000 MHz] curr: 43.664	max:44.609
+0.015 [400.000 MHz] curr: 43.328	max:44.609
+0.015 [400.000 MHz] curr: 43.344	max:44.609
+0.015 [400.000 MHz] curr: 43.367	max:44.609
+0.015 [400.000 MHz] curr: 43.297	max:44.609
+0.015 [400.000 MHz] curr: 43.070	max:44.609
+0.015 [400.000 MHz] curr: 43.164	max:44.609
+0.015 [400.000 MHz] curr: 43.508	max:44.609
+0.015 [400.000 MHz] curr: 43.438	max:44.609
+0.015 [400.000 MHz] curr: 43.875	max:44.609
+0.015 [400.000 MHz] curr: 43.008	max:44.609
+0.015 [400.000 MHz] curr: 43.438	max:44.609
+0.015 [400.000 MHz] curr: 43.109	max:44.609
+0.015 [400.000 MHz] curr: 43.469	max:44.609
+0.015 [400.000 MHz] curr: 43.320	max:44.609
+0.015 [400.000 MHz] curr: 43.195	max:44.609
+0.015 [400.000 MHz] curr: 43.336	max:44.609
+0.015 [400.000 MHz] curr: 43.438	max:44.609
+0.015 [400.000 MHz] curr: 43.375	max:44.609
+0.015 [400.000 MHz] curr: 42.969	max:44.609
+0.015 [400.000 MHz] curr: 43.266	max:44.609
+0.015 [400.000 MHz] curr: 43.266	max:44.609
+0.015 [400.000 MHz] curr: 43.336	max:44.609
+0.015 [400.000 MHz] curr: 43.297	max:44.609
+0.015 [400.000 MHz] curr: 42.992	max:44.609
+0.015 [400.000 MHz] curr: 43.188	max:44.609
+0.015 [400.000 MHz] curr: 43.055	max:44.609
+0.015 [400.000 MHz] curr: 43.242	max:44.609
+0.015 [400.000 MHz] curr: 43.664	max:44.609
+0.015 [400.000 MHz] curr: 43.539	max:44.609
+0.015 [400.000 MHz] curr: 43.383	max:44.609
+0.015 [400.000 MHz] curr: 43.148	max:44.609
+0.015 [400.000 MHz] curr: 43.281	max:44.609
+0.015 [400.000 MHz] curr: 42.977	max:44.609
+0.015 [400.000 MHz] curr: 43.461	max:44.609
+[__atcm0] Flip at 0x00009e08: 0x00000001
+0.015 [400.000 MHz] curr: 43.242	max:44.609
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009e88: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+0.015 [400.000 MHz] curr: 43.242	max:44.609
+[__atcm_global0] Flip at 0xffe09e08: 0x00000001
+[__atcm0] Flip at 0x00009e08: 0x00000001
+[__atcm0] Flip at 0x00009b38: 0x00000002
+[__atcm0] Flip at 0x00009bb0: 0x00000002
+[__atcm0] Flip at 0x00009e38: 0x00000002
+0.015 [400.000 MHz] curr: 43.133	max:44.609
+[__atcm0] Flip at 0x0000a7e0: 0x00000004
+[__atcm0] Flip at 0x00009ed0: 0x00000010
+[__atcm0] Flip at 0x00009ed8: 0x00000010
+[__atcm0] Flip at 0x00009a40: 0x00000020
+[__atcm0] Flip at 0x00009ac0: 0x00000020
+[__atcm0] Flip at 0x00009ac8: 0x00000020
+[__atcm0] Flip at 0x00009b40: 0x00000020
+[__atcm0] Flip at 0x00009b48: 0x00000020
+[__atcm0] Flip at 0x00009b08: 0x00000020
+0.015 [400.000 MHz] curr: 43.414	max:44.609
+[__atcm0] Flip at 0x00009b70: 0x00000100
+[__atcm0] Flip at 0x00009b78: 0x00000100
+[__atcm_global0] Flip at 0xffe09ed0: 0x00000200
+[__atcm_global0] Flip at 0xffe09f58: 0x00000200
+0.015 [400.000 MHz] curr: 42.719	max:44.609
+[__atcm0] Flip at 0x00009b18: 0x00000100
+[__atcm0] Flip at 0x0000a778: 0x00000200
+[__atcm0] Flip at 0x0000aa78: 0x00000200
+[__atcm0] Flip at 0x00009ed0: 0x00000400
+[__atcm0] Flip at 0x00009a10: 0x00000200
+0.015 [400.000 MHz] curr: 43.641	max:44.609
+[__atcm0] Flip at 0x00009a60: 0x00000400
+[__atcm0] Flip at 0x000097b0: 0x00000400
+[__atcm0] Flip at 0x00009a28: 0x00000400
+0.015 [400.000 MHz] curr: 43.523	max:44.609
+[__atcm0] Flip at 0x00009ac8: 0x00001000
+[__atcm0] Flip at 0x00009600: 0x00002000
+[__atcm0] Flip at 0x00009680: 0x00002000
+[__atcm0] Flip at 0x00009360: 0x00008000
+[__atcm_global0] Flip at 0xffe09e88: 0x00004000
+0.015 [400.000 MHz] curr: 43.305	max:44.609
+0.015 [400.000 MHz] curr: 43.484	max:44.609
+[__atcm0] Flip at 0x00009728: 0x00010000
+[__atcm0] Flip at 0x00009f38: 0x00010000
+[__atcm0] Flip at 0x00009ef8: 0x00020000
+0.015 [400.000 MHz] curr: 43.742	max:44.609
+[__atcm0] Flip at 0x00009e68: 0x00040000
+[__atcm0] Flip at 0x00009fc8: 0x00080000
+[__atcm0] Flip at 0x00009f98: 0x00080000
+0.015 [400.000 MHz] curr: 43.422	max:44.609
+[__atcm0] Flip at 0x00009bd8: 0x00400000
+0.015 [400.000 MHz] curr: 43.375	max:44.609
+[__atcm0] Flip at 0x00009bb8: 0x00800000
+[__atcm_global0] Flip at 0xffe09e98: 0x01000000
+[__atcm_global0] Flip at 0xffe09f10: 0x01000000
+[__atcm0] Flip at 0x00009f18: 0x02000000
+0.015 [400.000 MHz] curr: 43.453	max:44.609
+[__atcm0] Flip at 0x00009f80: 0x04000000
+0.015 [400.000 MHz] curr: 43.148	max:44.609
+0.015 [400.000 MHz] curr: 43.352	max:44.609
+[__atcm0] Flip at 0x00009f88: 0x40000000
+0.015 [400.000 MHz] curr: 43.359	max:44.609
+0.015 [400.000 MHz] curr: 43.383	max:44.609
+0.015 [400.000 MHz] curr: 42.820	max:44.609
+0.015 [400.000 MHz] curr: 43.727	max:44.609
+0.015 [400.000 MHz] curr: 43.977	max:44.609
+0.015 [400.000 MHz] curr: 43.258	max:44.609
+0.015 [400.000 MHz] curr: 43.156	max:44.609
+0.015 [400.000 MHz] curr: 43.266	max:44.609
+0.015 [400.000 MHz] curr: 43.227	max:44.609
+0.015 [400.000 MHz] curr: 43.281	max:44.609
+0.015 [400.000 MHz] curr: 43.805	max:44.609
+0.015 [400.000 MHz] curr: 43.031	max:44.609
+0.015 [400.000 MHz] curr: 43.547	max:44.609
+0.015 [400.000 MHz] curr: 43.320	max:44.609
+0.015 [400.000 MHz] curr: 43.289	max:44.609
+0.015 [400.000 MHz] curr: 43.625	max:44.609
+0.015 [400.000 MHz] curr: 43.367	max:44.609
+0.015 [400.000 MHz] curr: 43.711	max:44.609
+0.015 [400.000 MHz] curr: 43.586	max:44.609
+0.015 [400.000 MHz] curr: 43.445	max:44.609
+0.015 [400.000 MHz] curr: 43.297	max:44.609
+0.015 [400.000 MHz] curr: 43.180	max:44.609
+0.015 [400.000 MHz] curr: 43.273	max:44.609
+0.015 [400.000 MHz] curr: 43.812	max:44.609
+0.015 [400.000 MHz] curr: 43.336	max:44.609
+0.015 [400.000 MHz] curr: 43.469	max:44.609
+0.015 [400.000 MHz] curr: 43.234	max:44.609
+0.015 [400.000 MHz] curr: 43.641	max:44.609
+0.015 [400.000 MHz] curr: 42.938	max:44.609
+0.015 [400.000 MHz] curr: 42.727	max:44.609
+0.015 [400.000 MHz] curr: 43.453	max:44.609
+0.015 [400.000 MHz] curr: 43.602	max:44.609
+0.015 [400.000 MHz] curr: 43.523	max:44.609
+0.015 [400.000 MHz] curr: 43.375	max:44.609
+0.015 [400.000 MHz] curr: 43.477	max:44.609
+0.015 [400.000 MHz] curr: 43.523	max:44.609
+0.015 [400.000 MHz] curr: 43.859	max:44.609
+0.015 [400.000 MHz] curr: 43.062	max:44.609
+0.015 [400.000 MHz] curr: 43.664	max:44.609
+0.015 [400.000 MHz] curr: 43.609	max:44.609
+0.015 [400.000 MHz] curr: 43.289	max:44.609
+0.015 [400.000 MHz] curr: 43.062	max:44.609
+0.015 [400.000 MHz] curr: 43.117	max:44.609
+0.015 [400.000 MHz] curr: 43.188	max:44.609
+0.015 [400.000 MHz] curr: 43.164	max:44.609
+0.015 [400.000 MHz] curr: 43.422	max:44.609
+[0.015]****************************************
+[0.061]Xilinx Versal Platform Loader and Manager
+[0.109]Release 2025.2   Jun  8 2026  -  17:25:30
+[0.159]Platform Version: v2.0 PMC: v2.0, PS: v2.0
+[0.218]BOOTMODE: 0x0, MULTIBOOT: 0x0
+[0.259]****************************************
+[0.536]Non Secure Boot
+[4.349]PLM Initialization Time
+[4.388]***********Boot PDI Load: Started***********
+[4.465]Loading PDI from SBI
+[4.501]Monolithic/Master Device
+[4.813]0.367 ms: PDI initialization time
+[4.863]+++Loading Image#: 0x1, Name: lpd, Id: 0x04210002
+[4.927]---Loading Partition#: 0x1, Id: 0xC
+[59.076] 54.089 ms for Partition#: 0x1, Size: 9584 Bytes
+[63.798]---Loading Partition#: 0x2, Id: 0xB
+[87.261] 19.729 ms for Partition#: 0x2, Size: 35216 Bytes
+[89.660]+++Loading Image#: 0x2, Name: fpd, Id: 0x0420C003
+[94.303]---Loading Partition#: 0x3, Id: 0x8
+[98.994] 0.961 ms for Partition#: 0x3, Size: 4544 Bytes
+[102.763]+++Loading Image#: 0x3, Name: pl_cfi, Id: 0x18700000
+[107.962]---Loading Partition#: 0x4, Id: 0x3
+[220.040] 108.261 ms for Partition#: 0x4, Size: 190656 Bytes
+[222.449]---Loading Partition#: 0x5, Id: 0x5
+[483.316] 257.048 ms for Partition#: 0x5, Size: 420224 Bytes
+[486.092]+++Loading Image#: 0x4, Name: rpu_subsystem, Id: 0x1C000000
+[491.522]---Loading Partition#: 0x6, Id: 0x0
+[495.465] 0.127 ms for Partition#: 0x6, Size: 2704 Bytes
+[500.139]---Loading Partition#: 0x7, Id: 0x0
+[592.470] 88.511 ms for Partition#: 0x7, Size: 156528 Bytes
+[594.864]***********Boot PDI Load: Done***********
+[599.113]2604.860 ms: ROM Time
+[601.753]Total PLM Boot Time
+Cortex-R5
+Writing to memory from 0x00000000 to 0x00010000
+Done
+Writing to memory from 0x00020000 to 0x00030000
+Done
+Writing to memory from 0xffe00000 to 0xffe10000
+Done
+Writing to memory from 0xffe90000 to 0xffea0000
+Done
+Writing to memory from 0xffe20000 to 0xffe30000
+Done
+Writing to memory from 0xffeb0000 to 0xffec0000
+Done
+Writing to memory from 0xfffc0000 to 0x00000000
+Done
+Memory initialized
+0.015 [400.000 MHz] curr: 42.211	max:43.117
+0.015 [400.000 MHz] curr: 42.391	max:43.359
+0.015 [400.000 MHz] curr: 42.758	max:43.719
+0.015 [400.000 MHz] curr: 42.492	max:43.719
+0.015 [400.000 MHz] curr: 43.484	max:43.719
+0.015 [400.000 MHz] curr: 43.039	max:43.750
+0.015 [400.000 MHz] curr: 43.008	max:43.750
+0.015 [400.000 MHz] curr: 43.031	max:43.781
+0.015 [400.000 MHz] curr: 43.141	max:43.781
+0.015 [400.000 MHz] curr: 42.859	max:43.938
+0.015 [400.000 MHz] curr: 42.961	max:43.938
+0.015 [400.000 MHz] curr: 43.367	max:43.938
+0.015 [400.000 MHz] curr: 42.984	max:43.938
+0.015 [400.000 MHz] curr: 43.266	max:43.938
+0.015 [400.000 MHz] curr: 42.914	max:43.953
+0.015 [400.000 MHz] curr: 43.516	max:43.953
+0.015 [400.000 MHz] curr: 42.852	max:44.289
+0.015 [400.000 MHz] curr: 43.227	max:44.289
+0.015 [400.000 MHz] curr: 42.836	max:44.289
+0.015 [400.000 MHz] curr: 42.992	max:44.289
+0.015 [400.000 MHz] curr: 43.242	max:44.289
+0.015 [400.000 MHz] curr: 42.969	max:44.344
+0.015 [400.000 MHz] curr: 43.172	max:44.344
+0.015 [400.000 MHz] curr: 43.219	max:44.344
+0.015 [400.000 MHz] curr: 43.078	max:44.344
+0.015 [400.000 MHz] curr: 42.992	max:44.344
+0.015 [400.000 MHz] curr: 43.453	max:44.344
+0.015 [400.000 MHz] curr: 43.164	max:44.344
+0.015 [400.000 MHz] curr: 43.469	max:44.344
+0.015 [400.000 MHz] curr: 43.242	max:44.344
+0.015 [400.000 MHz] curr: 42.664	max:44.344
+0.015 [400.000 MHz] curr: 43.430	max:44.344
+0.015 [400.000 MHz] curr: 43.539	max:44.344
+0.015 [400.000 MHz] curr: 43.406	max:44.344
+0.015 [400.000 MHz] curr: 43.398	max:44.344
+0.015 [400.000 MHz] curr: 43.641	max:44.344
+0.015 [400.000 MHz] curr: 42.844	max:44.344
+0.015 [400.000 MHz] curr: 43.242	max:44.344
+0.015 [400.000 MHz] curr: 42.945	max:44.344
+0.015 [400.000 MHz] curr: 43.680	max:44.344
+0.015 [400.000 MHz] curr: 43.445	max:44.344
+0.015 [400.000 MHz] curr: 43.602	max:44.344
+0.015 [400.000 MHz] curr: 43.203	max:44.344
+0.015 [400.000 MHz] curr: 43.352	max:44.344
+0.015 [400.000 MHz] curr: 43.039	max:44.344
+0.015 [400.000 MHz] curr: 43.078	max:44.344
+0.015 [400.000 MHz] curr: 43.273	max:44.344
+0.015 [400.000 MHz] curr: 43.234	max:44.344
+0.015 [400.000 MHz] curr: 42.844	max:44.344
+0.015 [400.000 MHz] curr: 43.281	max:44.344
+0.015 [400.000 MHz] curr: 43.086	max:44.344
+0.015 [400.000 MHz] curr: 43.102	max:44.344
+0.015 [400.000 MHz] curr: 43.125	max:44.344
+0.015 [400.000 MHz] curr: 43.609	max:44.344
+0.015 [400.000 MHz] curr: 43.273	max:44.344
+0.015 [400.000 MHz] curr: 43.383	max:44.344
+0.015 [400.000 MHz] curr: 43.320	max:44.344
+0.015 [400.000 MHz] curr: 43.305	max:44.344
+0.015 [400.000 MHz] curr: 43.117	max:44.344
+0.015 [400.000 MHz] curr: 42.984	max:44.344
+0.015 [400.000 MHz] curr: 43.227	max:44.344
+0.015 [400.000 MHz] curr: 43.547	max:44.344
+0.015 [400.000 MHz] curr: 43.695	max:44.344
+0.015 [400.000 MHz] curr: 43.133	max:44.344
+0.015 [400.000 MHz] curr: 43.117	max:44.344
+0.015 [400.000 MHz] curr: 43.523	max:44.344
+0.015 [400.000 MHz] curr: 43.055	max:44.344
+0.015 [400.000 MHz] curr: 43.250	max:44.344
+0.015 [400.000 MHz] curr: 43.273	max:44.344
+0.015 [400.000 MHz] curr: 43.141	max:44.344
+[0.015]****************************************
+[0.061]Xilinx Versal Platform Loader and Manager
+[0.109]Release 2025.2   Jun  8 2026  -  17:25:30
+[0.159]Platform Version: v2.0 PMC: v2.0, PS: v2.0
+[0.218]BOOTMODE: 0x0, MULTIBOOT: 0x0
+[0.259]****************************************
+[0.536]Non Secure Boot
+[4.348]PLM Initialization Time
+[4.386]***********Boot PDI Load: Started***********
+[4.463]Loading PDI from SBI
+[4.500]Monolithic/Master Device
+[4.812]0.367 ms: PDI initialization time
+[4.862]+++Loading Image#: 0x1, Name: lpd, Id: 0x04210002
+[4.925]---Loading Partition#: 0x1, Id: 0xC
+[59.069] 54.084 ms for Partition#: 0x1, Size: 9584 Bytes
+[63.786]---Loading Partition#: 0x2, Id: 0xB
+[87.302] 19.786 ms for Partition#: 0x2, Size: 35216 Bytes
+[89.701]+++Loading Image#: 0x2, Name: fpd, Id: 0x0420C003
+[94.342]---Loading Partition#: 0x3, Id: 0x8
+[99.029] 0.960 ms for Partition#: 0x3, Size: 4544 Bytes
+[102.798]+++Loading Image#: 0x3, Name: pl_cfi, Id: 0x18700000
+[107.997]---Loading Partition#: 0x4, Id: 0x3
+[220.040] 108.226 ms for Partition#: 0x4, Size: 190656 Bytes
+[222.446]---Loading Partition#: 0x5, Id: 0x5
+[484.566] 258.306 ms for Partition#: 0x5, Size: 420224 Bytes
+[487.343]+++Loading Image#: 0x4, Name: rpu_subsystem, Id: 0x1C000000
+[492.775]---Loading Partition#: 0x6, Id: 0x0
+[496.716] 0.127 ms for Partition#: 0x6, Size: 2704 Bytes
+[501.392]---Loading Partition#: 0x7, Id: 0x0
+[593.927] 88.714 ms for Partition#: 0x7, Size: 156528 Bytes
+[596.321]***********Boot PDI Load: Done***********
+[600.569]2591.254 ms: ROM Time
+[603.209]Total PLM Boot Time
+Cortex-R5
+Writing to memory from 0x00000000 to 0x00010000
+Done
+Writing to memory from 0x00020000 to 0x00030000
+Done
+Writing to memory from 0xffe00000 to 0xffe10000
+Done
+Writing to memory from 0xffe90000 to 0xffea0000
+Done
+Writing to memory from 0xffe20000 to 0xffe30000
+Done
+Writing to memory from 0xffeb0000 to 0xffec0000
+Done
+Writing to memory from 0xfffc0000 to 0x00000000
+Done
+Memory initialized
+0.015 [400.000 MHz] curr: 42.273	max:42.617
+0.015 [400.000 MHz] curr: 42.562	max:43.094
+0.015 [400.000 MHz] curr: 42.828	max:43.359
+0.015 [400.000 MHz] curr: 42.742	max:43.430
+0.015 [400.000 MHz] curr: 43.094	max:43.445
+0.015 [400.000 MHz] curr: 42.656	max:43.617
+0.015 [400.000 MHz] curr: 43.102	max:43.617
+0.015 [400.000 MHz] curr: 42.727	max:43.719
+0.015 [400.000 MHz] curr: 42.711	max:43.773
+0.015 [400.000 MHz] curr: 42.500	max:43.773
+0.015 [400.000 MHz] curr: 42.734	max:43.773
+0.015 [400.000 MHz] curr: 42.977	max:43.773
+0.015 [400.000 MHz] curr: 43.086	max:43.773
+0.015 [400.000 MHz] curr: 42.711	max:43.773
+0.015 [400.000 MHz] curr: 43.133	max:43.859
+0.015 [400.000 MHz] curr: 43.289	max:43.883
+0.015 [400.000 MHz] curr: 42.711	max:43.883
+0.015 [400.000 MHz] curr: 42.922	max:43.883
+0.015 [400.000 MHz] curr: 43.289	max:43.922
+0.015 [400.000 MHz] curr: 43.109	max:43.922
+0.015 [400.000 MHz] curr: 43.258	max:43.984
+0.015 [400.000 MHz] curr: 43.055	max:43.984
+0.015 [400.000 MHz] curr: 43.242	max:43.984
+0.015 [400.000 MHz] curr: 43.117	max:43.984
+0.015 [400.000 MHz] curr: 43.344	max:43.984
+0.015 [400.000 MHz] curr: 42.898	max:43.984
+0.015 [400.000 MHz] curr: 43.227	max:43.984
+0.015 [400.000 MHz] curr: 42.734	max:43.984
+0.015 [400.000 MHz] curr: 43.062	max:44.164
+0.015 [400.000 MHz] curr: 43.070	max:44.164
+0.015 [400.000 MHz] curr: 43.320	max:44.164
+0.015 [400.000 MHz] curr: 43.016	max:44.164
+0.015 [400.000 MHz] curr: 42.781	max:44.164
+0.015 [400.000 MHz] curr: 43.594	max:44.164
+0.015 [400.000 MHz] curr: 43.180	max:44.164
+0.015 [400.000 MHz] curr: 43.188	max:44.164
+0.015 [400.000 MHz] curr: 42.805	max:44.164
+0.015 [400.000 MHz] curr: 43.062	max:44.164
+0.015 [400.000 MHz] curr: 43.117	max:44.164
+0.015 [400.000 MHz] curr: 43.180	max:44.164
+0.015 [400.000 MHz] curr: 43.336	max:44.164
+0.015 [400.000 MHz] curr: 43.117	max:44.164
+0.015 [400.000 MHz] curr: 43.133	max:44.164
+0.015 [400.000 MHz] curr: 43.117	max:44.164
+0.015 [400.000 MHz] curr: 43.703	max:44.164
+0.015 [400.000 MHz] curr: 42.961	max:44.164
+0.015 [400.000 MHz] curr: 43.836	max:44.164
+0.015 [400.000 MHz] curr: 42.859	max:44.164
+0.015 [400.000 MHz] curr: 43.438	max:44.195
+0.015 [400.000 MHz] curr: 43.523	max:44.195
+0.015 [400.000 MHz] curr: 43.070	max:44.195
+[117046.763]SBI PDI Load: Started
+[117046.962]Loading PDI from SBI
+[117049.757]Monolithic/Master Device
+[117052.916]Image Header Table Validation failed
+[117057.077]10.130 ms: PDI initialization time
+[117066.114]PLM Error Status: 0x03024001
+
+[0.015]****************************************
+[0.061]Xilinx Versal Platform Loader and Manager
+[0.109]Release 2025.2   Jun  8 2026  -  17:25:30
+[0.159]Platform Version: v2.0 PMC: v2.0, PS: v2.0
+[0.218]BOOTMODE: 0x0, MULTIBOOT: 0x0
+[0.259]****************************************
+[0.536]Non Secure Boot
+[4.349]PLM Initialization Time
+[4.388]***********Boot PDI Load: Started***********
+[4.465]Loading PDI from SBI
+[4.502]Monolithic/Master Device
+[4.813]0.366 ms: PDI initialization time
+[4.864]+++Loading Image#: 0x1, Name: lpd, Id: 0x04210002
+[4.927]---Loading Partition#: 0x1, Id: 0xC
+[59.164] 54.177 ms for Partition#: 0x1, Size: 9584 Bytes
+[63.887]---Loading Partition#: 0x2, Id: 0xB
+[87.044] 19.422 ms for Partition#: 0x2, Size: 35216 Bytes
+[89.443]+++Loading Image#: 0x2, Name: fpd, Id: 0x0420C003
+[94.084]---Loading Partition#: 0x3, Id: 0x8
+[98.776] 0.961 ms for Partition#: 0x3, Size: 4544 Bytes
+[102.544]+++Loading Image#: 0x3, Name: pl_cfi, Id: 0x18700000
+[107.742]---Loading Partition#: 0x4, Id: 0x3
+[219.465] 107.904 ms for Partition#: 0x4, Size: 190656 Bytes
+[221.873]---Loading Partition#: 0x5, Id: 0x5
+[487.794] 262.103 ms for Partition#: 0x5, Size: 420224 Bytes
+[490.572]+++Loading Image#: 0x4, Name: rpu_subsystem, Id: 0x1C000000
+[496.003]---Loading Partition#: 0x6, Id: 0x0
+[499.944] 0.127 ms for Partition#: 0x6, Size: 2704 Bytes
+[504.618]---Loading Partition#: 0x7, Id: 0x0
+[596.618] 88.180 ms for Partition#: 0x7, Size: 156528 Bytes
+[599.013]***********Boot PDI Load: Done***********
+[603.261]2778.804 ms: ROM Time
+[605.901]Total PLM Boot Time
+Cortex-R5
+Writing to memory from 0x00000000 to 0x00010000
+Done
+Writing to memory from 0x00020000 to 0x00030000
+Done
+Writing to memory from 0xffe00000 to 0xffe10000
+Done
+Writing to memory from 0xffe90000 to 0xffea0000
+Done
+Writing to memory from 0xffe20000 to 0xffe30000
+Done
+Writing to memory from 0xffeb0000 to 0xffec0000
+Done
+Writing to memory from 0xfffc0000 to 0x00000000
+Done
+Memory initialized
+0.015 [400.000 MHz] curr: 41.953	max:42.750
+0.015 [400.000 MHz] curr: 42.328	max:43.195
+0.015 [400.000 MHz] curr: 42.797	max:43.242
+0.015 [400.000 MHz] curr: 43.094	max:43.438
+0.015 [400.000 MHz] curr: 42.742	max:43.438
+0.015 [400.000 MHz] curr: 43.062	max:43.625
+0.015 [400.000 MHz] curr: 42.797	max:43.625
+0.015 [400.000 MHz] curr: 42.805	max:43.664
+0.015 [400.000 MHz] curr: 43.062	max:43.664
+0.015 [400.000 MHz] curr: 43.109	max:43.797
+0.015 [400.000 MHz] curr: 43.344	max:43.828
+0.015 [400.000 MHz] curr: 42.883	max:43.828
+0.015 [400.000 MHz] curr: 43.078	max:43.930
+0.015 [400.000 MHz] curr: 43.039	max:43.930
+0.015 [400.000 MHz] curr: 42.938	max:43.930
+0.015 [400.000 MHz] curr: 42.969	max:43.930
+0.015 [400.000 MHz] curr: 43.453	max:43.930
+0.015 [400.000 MHz] curr: 43.523	max:43.930
+0.015 [400.000 MHz] curr: 43.109	max:43.930
+0.015 [400.000 MHz] curr: 43.508	max:43.992
+0.015 [400.000 MHz] curr: 42.984	max:43.992
+0.015 [400.000 MHz] curr: 43.242	max:43.992
+0.015 [400.000 MHz] curr: 43.023	max:43.992
+0.015 [400.000 MHz] curr: 43.078	max:43.992
+0.015 [400.000 MHz] curr: 43.195	max:43.992
+0.015 [400.000 MHz] curr: 43.109	max:43.992
+0.015 [400.000 MHz] curr: 43.156	max:43.992
+0.015 [400.000 MHz] curr: 42.922	max:43.992
+0.015 [400.000 MHz] curr: 43.117	max:43.992
+0.015 [400.000 MHz] curr: 43.211	max:43.992
+0.015 [400.000 MHz] curr: 43.008	max:43.992
+0.015 [400.000 MHz] curr: 43.172	max:43.992
+0.015 [400.000 MHz] curr: 43.266	max:43.992
+0.015 [400.000 MHz] curr: 43.242	max:43.992
+0.015 [400.000 MHz] curr: 43.023	max:43.992
+0.015 [400.000 MHz] curr: 42.922	max:43.992
+0.015 [400.000 MHz] curr: 43.281	max:43.992
+0.015 [400.000 MHz] curr: 43.180	max:44.039
+0.015 [400.000 MHz] curr: 43.016	max:44.047
+0.015 [400.000 MHz] curr: 43.273	max:44.047
+0.015 [400.000 MHz] curr: 43.117	max:44.047
+0.015 [400.000 MHz] curr: 43.258	max:44.047
+0.015 [400.000 MHz] curr: 43.445	max:44.047
+0.015 [400.000 MHz] curr: 43.328	max:44.148
+0.015 [400.000 MHz] curr: 43.578	max:44.148
+0.015 [400.000 MHz] curr: 43.016	max:44.148
+0.015 [400.000 MHz] curr: 43.078	max:44.148
+0.015 [400.000 MHz] curr: 43.031	max:44.148
+0.015 [400.000 MHz] curr: 43.070	max:44.148
+0.015 [400.000 MHz] curr: 42.891	max:44.148
+0.015 [400.000 MHz] curr: 42.945	max:44.148
+0.015 [400.000 MHz] curr: 43.086	max:44.148
+0.015 [400.000 MHz] curr: 43.039	max:44.148
+0.015 [400.000 MHz] curr: 43.438	max:44.148
+0.015 [400.000 MHz] curr: 43.531	max:44.148
+0.015 [400.000 MHz] curr: 43.031	max:44.148
+0.015 [400.000 MHz] curr: 42.789	max:44.148
+0.015 [400.000 MHz] curr: 43.383	max:44.148
+0.015 [400.000 MHz] curr: 43.227	max:44.148
+0.015 [400.000 MHz] curr: 43.266	max:44.148
+0.015 [400.000 MHz] curr: 43.258	max:44.148
+0.015 [400.000 MHz] curr: 43.523	max:44.148
+0.015 [400.000 MHz] curr: 42.945	max:44.148
+0.015 [400.000 MHz] curr: 43.344	max:44.148
+0.015 [400.000 MHz] curr: 43.547	max:44.148
+0.015 [400.000 MHz] curr: 42.945	max:44.148
+0.015 [400.000 MHz] curr: 42.750	max:44.148
+0.015 [400.000 MHz] curr: 43.133	max:44.148
+0.015 [400.000 MHz] curr: 43.461	max:44.148
+0.015 [400.000 MHz] curr: 42.945	max:44.148
+0.015 [400.000 MHz] curr: 42.961	max:44.148
+0.015 [400.000 MHz] curr: 43.133	max:44.148
+0.015 [400.000 MHz] curr: 43.141	max:44.148
+0.015 [400.000 MHz] curr: 42.977	max:44.148
+0.015 [400.000 MHz] curr: 42.820	max:44.148
+0.015 [400.000 MHz] curr: 43.000	max:44.148
+0.015 [400.000 MHz] curr: 42.789	max:44.148
+0.015 [400.000 MHz] curr: 43.250	max:44.148
+0.015 [400.000 MHz] curr: 43.117	max:44.148
+0.015 [400.000 MHz] curr: 43.133	max:44.148
+0.015 [400.000 MHz] curr: 43.242	max:44.148
+0.015 [400.000 MHz] curr: 43.133	max:44.148
+0.015 [400.000 MHz] curr: 43.359	max:44.148
+0.015 [400.000 MHz] curr: 43.297	max:44.148
+0.015 [400.000 MHz] curr: 43.148	max:44.148
+0.015 [400.000 MHz] curr: 43.578	max:44.148
+0.015 [400.000 MHz] curr: 43.164	max:44.148
+0.015 [400.000 MHz] curr: 43.016	max:44.148

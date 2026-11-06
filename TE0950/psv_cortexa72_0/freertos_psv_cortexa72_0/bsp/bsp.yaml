@@ -1,0 +1,1021 @@
+sdt: hw_artifacts/psv_cortexa72_0_baremetal.dts
+family: Versal
+path: /home/streben/Documents/POLIMI/PhD/Projects/VersalAIEdge/TE0950/psv_cortexa72_0/freertos_psv_cortexa72_0/bsp
+config: None
+os: freertos
+os_info:
+  standalone:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/bsp/standalone_v9_4
+  freertos10_xilinx:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/ThirdParty/bsp/freertos10_xilinx_v1_18
+os_config:
+  freertos:
+    freertos_check_for_stack_overflow:
+      name: freertos_check_for_stack_overflow
+      permission: read_write
+      type: integer
+      value: '2'
+      default: '2'
+      options:
+      - '0x0'
+      - '0x1'
+      - '0x2'
+      description: Set to 0 for no overflow checking. Set to 1 to include basic run
+        time task stack checking.  Set to 2 to include more comprehensive run time
+        task stack checking.
+    freertos_generate_runtime_stats:
+      name: freertos_generate_runtime_stats
+      permission: read_write
+      type: string
+      value: '0x0'
+      default: '0x0'
+      options:
+      - '0x0'
+      - '0x1'
+      description: Set to 1 generate runtime stats for tasks.
+    freertos_hypervisor_guest:
+      name: freertos_hypervisor_guest
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enable hypervisor guest for EL1 Nonsecure. If hypervisor guest
+        is not selected, BSP will be built for EL3.
+    freertos_idle_yield:
+      name: freertos_idle_yield
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Set to true if the Idle task should yield if another idle priority
+        task is able to run, or false if the idle task should always use its entire
+        time slice unless it is preempted.
+    freertos_max_api_call_interrupt_priority:
+      name: freertos_max_api_call_interrupt_priority
+      permission: read_write
+      type: integer
+      value: '18'
+      default: '18'
+      options: []
+      description: The maximum interrupt priority from which interrupt safe FreeRTOS
+        API calls can be made.
+    freertos_max_priorities:
+      name: freertos_max_priorities
+      permission: read_write
+      type: integer
+      value: '8'
+      default: '8'
+      options: []
+      description: The number of task priorities that will be available.  Priorities
+        can be assigned from zero to (freertos_max_priorities - 1
+    freertos_max_task_name:
+      name: freertos_max_task_name
+      permission: read_write
+      type: integer
+      value: '10'
+      default: '10'
+      options: []
+      description: The maximum number of characters that can be in the name of a task.
+    freertos_message_buffer:
+      name: freertos_message_buffer
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Set to true to include message buffer functionality, or false to
+        exclude message buffer functionality.
+    freertos_minimal_stack_size:
+      name: freertos_minimal_stack_size
+      permission: read_write
+      type: integer
+      value: '200'
+      default: '200'
+      options: []
+      description: The size of the stack allocated to the Idle task. Also used by
+        standard demo and test tasks found in the main FreeRTOS download.
+    freertos_num_thread_local_storage_pointers:
+      name: freertos_num_thread_local_storage_pointers
+      permission: read_write
+      type: string
+      value: '0x0'
+      default: '0x0'
+      options: []
+      description: Sets the number of pointers each task has to store thread local
+        values.
+    freertos_queue_registry_size:
+      name: freertos_queue_registry_size
+      permission: read_write
+      type: integer
+      value: '10'
+      default: '10'
+      options: []
+      description: The maximum number of queues that can be registered at any one
+        time. Only registered queues can be viewed in the Eclipse/GDB kernel aware
+        debugger plug-in.
+    freertos_stdin:
+      name: freertos_stdin
+      permission: read_write
+      type: string
+      value: versal_cips_0_pspmc_0_psv_sbsauart_1
+      default: versal_cips_0_pspmc_0_psv_sbsauart_1
+      options:
+      - None
+      - versal_cips_0_pspmc_0_psv_pmc_ppu1_mdm_0
+      - versal_cips_0_pspmc_0_psv_sbsauart_1
+      - versal_cips_0_pspmc_0_psv_coresight_0
+      description: stdin peripheral
+    freertos_stdout:
+      name: freertos_stdout
+      permission: read_write
+      type: string
+      value: versal_cips_0_pspmc_0_psv_sbsauart_1
+      default: versal_cips_0_pspmc_0_psv_sbsauart_1
+      options:
+      - None
+      - versal_cips_0_pspmc_0_psv_pmc_ppu1_mdm_0
+      - versal_cips_0_pspmc_0_psv_sbsauart_1
+      - versal_cips_0_pspmc_0_psv_coresight_0
+      description: stdout peripheral
+    freertos_stream_buffer:
+      name: freertos_stream_buffer
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Set to true to include stream buffer functionality, or false to
+        exclude stream buffer functionality.
+    freertos_support_static_allocation:
+      name: freertos_support_static_allocation
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Set to true to allocate memory statically, or false to allocate
+        memory dynamically.
+    freertos_tick_rate:
+      name: freertos_tick_rate
+      permission: read_write
+      type: integer
+      value: '100'
+      default: '100'
+      options: []
+      description: Number of RTOS ticks per sec
+    freertos_timer_command_queue_length:
+      name: freertos_timer_command_queue_length
+      permission: read_write
+      type: integer
+      value: '10'
+      default: '10'
+      options: []
+      description: The number of commands the timer command queue can hold at any
+        one time.
+    freertos_timer_select:
+      name: freertos_timer_select
+      permission: read_write
+      type: string
+      value: psu_ttc_0
+      default: psu_ttc_0
+      options:
+      - versal_cips_0_pspmc_0_psv_ttc_0
+      - versal_cips_0_pspmc_0_psv_ttc_3
+      - versal_cips_0_pspmc_0_psv_ttc_6
+      - versal_cips_0_pspmc_0_psv_ttc_9
+      description: Applicable only for R5. Selects the ttc module from which a counter
+        will be used as the freertos tick source.
+    freertos_timer_select_counter:
+      name: freertos_timer_select_counter
+      permission: read_write
+      type: string
+      value: '0x0'
+      default: '0x0'
+      options:
+      - '0x0'
+      - '0x1'
+      - '0x2'
+      - '0x3'
+      description: Applicable only for R5. Selects the ttc counter number inside the
+        selected ttc module to be used as the freertos tick source.
+    freertos_timer_task_priority:
+      name: freertos_timer_task_priority
+      permission: read_write
+      type: string
+      value: configMAX_PRIORITIES-1
+      default: configMAX_PRIORITIES-1
+      options: []
+      description: The priority at which the software timer service/daemon task will
+        execute.
+    freertos_timer_task_stack_depth:
+      name: freertos_timer_task_stack_depth
+      permission: read_write
+      type: string
+      value: configMINIMAL_STACK_SIZE
+      default: configMINIMAL_STACK_SIZE
+      options: []
+      description: The size of the stack allocated to the timer service/daemon task.
+    freertos_total_heap_size:
+      name: freertos_total_heap_size
+      permission: read_write
+      type: integer
+      value: '0x50000'
+      default: '65536'
+      options: []
+      description: Sets the amount of RAM reserved for use by FreeRTOS - used when
+        tasks, queues, semaphores and event groups are created.
+    freertos_use_counting_semaphores:
+      name: freertos_use_counting_semaphores
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Set to true to include counting semaphore functionality, or false
+        to exclude recursive mutex functionality.
+    freertos_use_daemon_task_startup_hook:
+      name: freertos_use_daemon_task_startup_hook
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: vApplicationDaemonTaskStartupHook().
+    freertos_use_freertos_asserts:
+      name: freertos_use_freertos_asserts
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Defines configASSERT() to assist development and debugging.  The
+        application can override the default implementation of vApplicationAssert(
+        char *pcFile, uint32_t ulLine )
+    freertos_use_getmutex_holder:
+      name: freertos_use_getmutex_holder
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Set to true to use mutex xSemaphoreGetMutexHolder API, or false
+        to exclude it.
+    freertos_use_idle_hook:
+      name: freertos_use_idle_hook
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Set to true for the kernel to call vApplicationIdleHook() on each
+        iteration of the idle task.  The application must provide an implementation
+        of vApplicationIdleHook().
+    freertos_use_malloc_failed_hook:
+      name: freertos_use_malloc_failed_hook
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Only used if a FreeRTOS memory manager (heap_n.c) is included in
+        the project.  Set to true for the kernel to call vApplicationMallocFailedHookHook()
+        if there is insufficient FreeRTOS heap available for a task, queue or semaphore
+        to be created.  The application can override the default implementation of
+        vApplicationMallocFailedHook().
+    freertos_use_mutexes:
+      name: freertos_use_mutexes
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Set to true to include mutex functionality, or false to exclude
+        mutex functionality.
+    freertos_use_newlib_reent:
+      name: freertos_use_newlib_reent
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: When true each task will have its own Newlib reent structure.
+    freertos_use_port_optimized_task_selection:
+      name: freertos_use_port_optimized_task_selection
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: When true task selection will be faster at the cost of limiting
+        the maximum number of unique priorities to 32.
+    freertos_use_preemption:
+      name: freertos_use_preemption
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: The maximum interrupt priority from which interrupt safe FreeRTOS
+        API calls can be made.
+    freertos_use_queue_sets:
+      name: freertos_use_queue_sets
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Set to true to include queue set functionality.
+    freertos_use_recursive_mutexes:
+      name: freertos_use_recursive_mutexes
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Set to true to include recursive mutex functionality, or false
+        to exclude recursive mutex functionality.
+    freertos_use_stats_formatting_functions:
+      name: freertos_use_stats_formatting_functions
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Set to 1 to include the vTaskList() and vTaskGetRunTimeStats()
+        functions, which format run-time data into human readable text.
+    freertos_use_task_fpu_support:
+      name: freertos_use_task_fpu_support
+      permission: read_write
+      type: string
+      value: '0x2'
+      default: '0x1'
+      options:
+      - '0x0'
+      - '0x1'
+      - '0x2'
+      description: Set to 1 to create tasks without FPU context, set to 2 to have
+        tasks with FPU context by default.
+    freertos_use_task_notifications:
+      name: freertos_use_task_notifications
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Set to true to include direct to task notification functionality.
+    freertos_use_tick_hook:
+      name: freertos_use_tick_hook
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: The application must provide an implementation of vApplicationTickHook().
+    freertos_use_timers:
+      name: freertos_use_timers
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Set to true to include software timer functionality, or false to
+        exclude software timer functionality
+    freertos_use_timeslicing:
+      name: freertos_use_timeslicing
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: When true equal priority ready tasks will share CPU time with a
+        context switch on each tick interrupt.
+    freertos_use_trace_facility:
+      name: freertos_use_trace_facility
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Set to true to include the legacy trace functionality, and a few
+        other features.  traceMACROS are the preferred method of tracing now.
+    freertos_use_xen_pv_console:
+      name: freertos_use_xen_pv_console
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Use Xen PV console as console input/output
+    freertos_xpm_support:
+      name: freertos_xpm_support
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enable xpm support
+toolchain_file: cortexa72_toolchain.cmake
+specs_file: Xilinx.spec
+proc: psv_cortexa72_0
+proc_config:
+  psv_cortexa72_0:
+    proc_archiver:
+      name: proc_archiver
+      permission: readonly
+      type: string
+      value: llvm-ar
+      default: llvm-ar
+      options: []
+      description: Archiver used to archive libraries for both BSP generation as well
+        as applications.
+    proc_assembler:
+      name: proc_assembler
+      permission: readonly
+      type: string
+      value: clang
+      default: clang
+      options: []
+      description: Assembler used to assemble both BSP/libraries and applications.
+    proc_compiler:
+      name: proc_compiler
+      permission: readonly
+      type: string
+      value: clang
+      default: clang
+      options: []
+      description: Compiler used to compile both BSP/libraries and applications.
+    proc_compiler_flags:
+      name: proc_compiler_flags
+      permission: readonly
+      type: string
+      value: ' -DSDT --target=aarch64-none-elf -mcpu=cortex-a72 -DARMA72_EL3;-c'
+      default: ' -DSDT --target=aarch64-none-elf -mcpu=cortex-a72 -DARMA72_EL3;-c'
+      options: []
+      description: Compiler Flags used in BSP and library generation.'-c'flag stands
+        for 'compile and assemble, but do not link'.Without this flag, gcc tries to
+        link the code, which will fail because there is no application involved during
+        libgen.'-O2' can be overwritten by extra compile flags.
+    proc_extra_compiler_flags:
+      name: proc_extra_compiler_flags
+      permission: read_write
+      type: string
+      value: ' -O0 -g -Wall -Wextra'
+      default: ' -O0 -g -Wall -Wextra'
+      options: []
+      description: Extra Compiler Flags used in BSP and library generation
+template: freertos_hello_world
+compiler: gcc
+compiler_flags: ''
+include_folder: include
+lib_folder: lib
+libsrc_folder: libsrc
+drv_info:
+  VitisRegion_mm2s_1:
+    driver: mm2s
+    ip_name: mm2s
+    path: /home/streben/Documents/POLIMI/PhD/Projects/VersalAIEdge/TE0950/psv_cortexa72_0/standalone_psv_cortexa72_0/bsp/hw_artifacts/drivers/mm2s_v1_0
+  VitisRegion_s2mm_1:
+    driver: s2mm
+    ip_name: s2mm
+    path: /home/streben/Documents/POLIMI/PhD/Projects/VersalAIEdge/TE0950/psv_cortexa72_0/standalone_psv_cortexa72_0/bsp/hw_artifacts/drivers/s2mm_v1_0
+  VitisRegion_s2mm_2:
+    driver: s2mm
+    ip_name: s2mm
+    path: /home/streben/Documents/POLIMI/PhD/Projects/VersalAIEdge/TE0950/psv_cortexa72_0/standalone_psv_cortexa72_0/bsp/hw_artifacts/drivers/s2mm_v1_0
+  ai_engine_0:
+    driver: aienginev2
+    ip_name: ai_engine
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/aienginev2_v3_8
+  axi_dma_mm2s_0:
+    driver: axidma
+    ip_name: axi_dma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/axidma_v9_20
+  axi_dma_mm2s_1:
+    driver: axidma
+    ip_name: axi_dma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/axidma_v9_20
+  axi_dma_mm2s_2:
+    driver: axidma
+    ip_name: axi_dma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/axidma_v9_20
+  axi_dma_s2mm_0:
+    driver: axidma
+    ip_name: axi_dma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/axidma_v9_20
+  axi_dma_s2mm_1:
+    driver: axidma
+    ip_name: axi_dma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/axidma_v9_20
+  axi_dma_s2mm_2:
+    driver: axidma
+    ip_name: axi_dma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/axidma_v9_20
+  axi_dma_s2mm_3:
+    driver: axidma
+    ip_name: axi_dma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/axidma_v9_20
+  axi_dma_s2mm_4:
+    driver: axidma
+    ip_name: axi_dma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/axidma_v9_20
+  axi_dma_s2mm_5:
+    driver: axidma
+    ip_name: axi_dma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/axidma_v9_20
+  axi_gpio_0:
+    driver: gpio
+    ip_name: axi_gpio
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/gpio_v4_12
+  axi_timer_0:
+    driver: tmrctr
+    ip_name: axi_timer
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/tmrctr_v4_14
+  axi_uartlite_0:
+    driver: uartlite
+    ip_name: axi_uartlite
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/uartlite_v3_12
+  custom_BF_accelerator_0: None
+  custom_BF_accelerator_1: None
+  custom_BF_accelerator_2: None
+  axi_bram_ctrl_0:
+    driver: bram
+    ip_name: axi_bram_ctrl
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/bram_v4_13
+  versal_cips_0_pspmc_0_psv_acpu_gic:
+    driver: scugic
+    ip_name: psv_acpu_gic
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/scugic_v5_6
+  versal_cips_0_pspmc_0_psv_adma_0:
+    driver: zdma
+    ip_name: psv_adma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/zdma_v1_21
+  versal_cips_0_pspmc_0_psv_adma_1:
+    driver: zdma
+    ip_name: psv_adma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/zdma_v1_21
+  versal_cips_0_pspmc_0_psv_adma_2:
+    driver: zdma
+    ip_name: psv_adma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/zdma_v1_21
+  versal_cips_0_pspmc_0_psv_adma_3:
+    driver: zdma
+    ip_name: psv_adma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/zdma_v1_21
+  versal_cips_0_pspmc_0_psv_adma_4:
+    driver: zdma
+    ip_name: psv_adma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/zdma_v1_21
+  versal_cips_0_pspmc_0_psv_adma_5:
+    driver: zdma
+    ip_name: psv_adma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/zdma_v1_21
+  versal_cips_0_pspmc_0_psv_adma_6:
+    driver: zdma
+    ip_name: psv_adma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/zdma_v1_21
+  versal_cips_0_pspmc_0_psv_adma_7:
+    driver: zdma
+    ip_name: psv_adma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/zdma_v1_21
+  versal_cips_0_pspmc_0_psv_apu_0: None
+  versal_cips_0_pspmc_0_psv_coresight_0:
+    driver: coresightps_dcc
+    ip_name: psv_coresight
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/coresightps_dcc_v1_13
+  versal_cips_0_pspmc_0_psv_coresight_a720_cti: None
+  versal_cips_0_pspmc_0_psv_coresight_a720_dbg: None
+  versal_cips_0_pspmc_0_psv_coresight_a720_etm: None
+  versal_cips_0_pspmc_0_psv_coresight_a720_pmu: None
+  versal_cips_0_pspmc_0_psv_coresight_a721_cti: None
+  versal_cips_0_pspmc_0_psv_coresight_a721_dbg: None
+  versal_cips_0_pspmc_0_psv_coresight_a721_etm: None
+  versal_cips_0_pspmc_0_psv_coresight_a721_pmu: None
+  versal_cips_0_pspmc_0_psv_coresight_apu_cti: None
+  versal_cips_0_pspmc_0_psv_coresight_apu_ela: None
+  versal_cips_0_pspmc_0_psv_coresight_apu_etf: None
+  versal_cips_0_pspmc_0_psv_coresight_apu_fun: None
+  versal_cips_0_pspmc_0_psv_coresight_cpm_atm: None
+  versal_cips_0_pspmc_0_psv_coresight_cpm_cti2a: None
+  versal_cips_0_pspmc_0_psv_coresight_cpm_cti2d: None
+  versal_cips_0_pspmc_0_psv_coresight_cpm_ela2a: None
+  versal_cips_0_pspmc_0_psv_coresight_cpm_ela2b: None
+  versal_cips_0_pspmc_0_psv_coresight_cpm_ela2c: None
+  versal_cips_0_pspmc_0_psv_coresight_cpm_ela2d: None
+  versal_cips_0_pspmc_0_psv_coresight_cpm_fun: None
+  versal_cips_0_pspmc_0_psv_coresight_cpm_rom: None
+  versal_cips_0_pspmc_0_psv_coresight_fpd_atm: None
+  versal_cips_0_pspmc_0_psv_coresight_fpd_cti1b: None
+  versal_cips_0_pspmc_0_psv_coresight_fpd_cti1c: None
+  versal_cips_0_pspmc_0_psv_coresight_fpd_cti1d: None
+  versal_cips_0_pspmc_0_psv_coresight_fpd_stm: None
+  versal_cips_0_pspmc_0_psv_coresight_lpd_atm: None
+  versal_cips_0_pspmc_0_psv_coresight_lpd_cti: None
+  versal_cips_0_pspmc_0_psv_coresight_pmc_cti: None
+  versal_cips_0_pspmc_0_psv_coresight_r50_cti: None
+  versal_cips_0_pspmc_0_psv_coresight_r51_cti: None
+  versal_cips_0_pspmc_0_psv_cpm: None
+  versal_cips_0_pspmc_0_psv_crf_0: None
+  versal_cips_0_pspmc_0_psv_crl_0: None
+  versal_cips_0_pspmc_0_psv_crp_0: None
+  versal_cips_0_pspmc_0_psv_ethernet_0:
+    driver: emacps
+    ip_name: psv_ethernet
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/emacps_v3_23
+  versal_cips_0_pspmc_0_psv_fpd_afi_0: None
+  versal_cips_0_pspmc_0_psv_fpd_afi_2: None
+  versal_cips_0_pspmc_0_psv_fpd_cci_0: None
+  versal_cips_0_pspmc_0_psv_fpd_gpv_0: None
+  versal_cips_0_pspmc_0_psv_fpd_maincci_0: None
+  versal_cips_0_pspmc_0_psv_fpd_slave_xmpu_0: None
+  versal_cips_0_pspmc_0_psv_fpd_slcr_0: None
+  versal_cips_0_pspmc_0_psv_fpd_slcr_secure_0: None
+  versal_cips_0_pspmc_0_psv_fpd_smmu_0: None
+  versal_cips_0_pspmc_0_psv_fpd_smmutcu_0: None
+  versal_cips_0_pspmc_0_psv_gpio_2:
+    driver: gpiops
+    ip_name: psv_gpio
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/gpiops_v3_14
+  versal_cips_0_pspmc_0_psv_i2c_1:
+    driver: iicps
+    ip_name: psv_i2c
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/iicps_v3_22
+  versal_cips_0_pspmc_0_psv_ipi_0:
+    driver: ipipsu
+    ip_name: psv_ipi
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ipipsu_v2_18
+  versal_cips_0_pspmc_0_psv_ipi_1:
+    driver: ipipsu
+    ip_name: psv_ipi
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ipipsu_v2_18
+  versal_cips_0_pspmc_0_psv_ipi_2:
+    driver: ipipsu
+    ip_name: psv_ipi
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ipipsu_v2_18
+  versal_cips_0_pspmc_0_psv_ipi_3:
+    driver: ipipsu
+    ip_name: psv_ipi
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ipipsu_v2_18
+  versal_cips_0_pspmc_0_psv_ipi_4:
+    driver: ipipsu
+    ip_name: psv_ipi
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ipipsu_v2_18
+  versal_cips_0_pspmc_0_psv_ipi_5:
+    driver: ipipsu
+    ip_name: psv_ipi
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ipipsu_v2_18
+  versal_cips_0_pspmc_0_psv_ipi_6:
+    driver: ipipsu
+    ip_name: psv_ipi
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ipipsu_v2_18
+  versal_cips_0_pspmc_0_psv_lpd_afi_0: None
+  versal_cips_0_pspmc_0_psv_lpd_iou_secure_slcr_0: None
+  versal_cips_0_pspmc_0_psv_lpd_iou_slcr_0: None
+  versal_cips_0_pspmc_0_psv_lpd_slcr_0: None
+  versal_cips_0_pspmc_0_psv_lpd_slcr_secure_0: None
+  versal_cips_0_pspmc_0_psv_lpd_xppu_0: None
+  versal_cips_0_pspmc_0_psv_ocm_ctrl: None
+  versal_cips_0_pspmc_0_psv_ocm_xmpu_0: None
+  versal_cips_0_pspmc_0_psv_pmc_aes: None
+  versal_cips_0_pspmc_0_psv_pmc_analog_0: None
+  versal_cips_0_pspmc_0_psv_pmc_bbram_ctrl: None
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_0:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_1:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_10:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_11:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_12:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_13:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_14:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_2:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_3:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_4:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_5:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_6:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_7:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_8:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_9:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_bcast:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfu_apb_0:
+    driver: cfupmc
+    ip_name: psv_pmc_cfu_apb
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cfupmc_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_dma_0:
+    driver: csudma
+    ip_name: psv_pmc_dma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/csudma_v1_18
+  versal_cips_0_pspmc_0_psv_pmc_dma_1:
+    driver: csudma
+    ip_name: psv_pmc_dma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/csudma_v1_18
+  versal_cips_0_pspmc_0_psv_pmc_efuse_cache: None
+  versal_cips_0_pspmc_0_psv_pmc_efuse_ctrl: None
+  versal_cips_0_pspmc_0_psv_pmc_global_0: None
+  versal_cips_0_pspmc_0_psv_pmc_gpio_0:
+    driver: gpiops
+    ip_name: psv_pmc_gpio
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/gpiops_v3_14
+  versal_cips_0_pspmc_0_psv_pmc_i2c_0:
+    driver: iicps
+    ip_name: psv_pmc_i2c
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/iicps_v3_22
+  versal_cips_0_pspmc_0_psv_pmc_iou_slcr_0: None
+  versal_cips_0_pspmc_0_psv_pmc_ospi_0:
+    driver: ospipsv
+    ip_name: psv_pmc_ospi
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ospipsv_v1_13
+  versal_cips_0_pspmc_0_psv_pmc_ppu1_mdm_0:
+    driver: uartlite
+    ip_name: psv_pmc_ppu1_mdm
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/uartlite_v3_12
+  versal_cips_0_pspmc_0_psv_pmc_ram_npi: None
+  versal_cips_0_pspmc_0_psv_pmc_rsa: None
+  versal_cips_0_pspmc_0_psv_pmc_rtc_0:
+    driver: rtcpsu
+    ip_name: psv_pmc_rtc
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/rtcpsu_v1_16
+  versal_cips_0_pspmc_0_psv_pmc_sd_0:
+    driver: sdps
+    ip_name: psv_pmc_sd
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/sdps_v4_5
+  versal_cips_0_pspmc_0_psv_pmc_sd_1:
+    driver: sdps
+    ip_name: psv_pmc_sd
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/sdps_v4_5
+  versal_cips_0_pspmc_0_psv_pmc_sha: None
+  versal_cips_0_pspmc_0_psv_pmc_slave_boot: None
+  versal_cips_0_pspmc_0_psv_pmc_slave_boot_stream: None
+  versal_cips_0_pspmc_0_psv_pmc_sysmon_0:
+    driver: sysmonpsv
+    ip_name: psv_pmc_sysmon
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/sysmonpsv_v5_2
+  versal_cips_0_pspmc_0_psv_pmc_tap: None
+  versal_cips_0_pspmc_0_psv_pmc_trng:
+    driver: trngpsv
+    ip_name: psv_pmc_trng
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/trngpsv_v1_7
+  versal_cips_0_pspmc_0_psv_pmc_xmpu_0: None
+  versal_cips_0_pspmc_0_psv_pmc_xppu_0: None
+  versal_cips_0_pspmc_0_psv_pmc_xppu_npi_0: None
+  versal_cips_0_pspmc_0_psv_psm_global_reg: None
+  versal_cips_0_pspmc_0_psv_r5_0_atcm: None
+  versal_cips_0_pspmc_0_psv_r5_0_atcm_global: None
+  versal_cips_0_pspmc_0_psv_r5_0_atcm_lockstep: None
+  versal_cips_0_pspmc_0_psv_r5_0_btcm: None
+  versal_cips_0_pspmc_0_psv_r5_0_btcm_global: None
+  versal_cips_0_pspmc_0_psv_r5_0_btcm_lockstep: None
+  versal_cips_0_pspmc_0_psv_r5_1_atcm: None
+  versal_cips_0_pspmc_0_psv_r5_1_atcm_global: None
+  versal_cips_0_pspmc_0_psv_r5_1_btcm: None
+  versal_cips_0_pspmc_0_psv_r5_1_btcm_global: None
+  versal_cips_0_pspmc_0_psv_r5_tcm_ram_0: None
+  versal_cips_0_pspmc_0_psv_rpu_0: None
+  versal_cips_0_pspmc_0_psv_sbsauart_1:
+    driver: uartpsv
+    ip_name: psv_sbsauart
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/uartpsv_v1_13
+  versal_cips_0_pspmc_0_psv_scntr_0: None
+  versal_cips_0_pspmc_0_psv_scntrs_0: None
+  versal_cips_0_pspmc_0_psv_ttc_0:
+    driver: ttcps
+    ip_name: psv_ttc
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ttcps_v3_22
+  versal_cips_0_pspmc_0_psv_ttc_1:
+    driver: ttcps
+    ip_name: psv_ttc
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ttcps_v3_22
+  versal_cips_0_pspmc_0_psv_ttc_10:
+    driver: ttcps
+    ip_name: psv_ttc
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ttcps_v3_22
+  versal_cips_0_pspmc_0_psv_ttc_11:
+    driver: ttcps
+    ip_name: psv_ttc
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ttcps_v3_22
+  versal_cips_0_pspmc_0_psv_ttc_2:
+    driver: ttcps
+    ip_name: psv_ttc
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ttcps_v3_22
+  versal_cips_0_pspmc_0_psv_ttc_3:
+    driver: ttcps
+    ip_name: psv_ttc
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ttcps_v3_22
+  versal_cips_0_pspmc_0_psv_ttc_4:
+    driver: ttcps
+    ip_name: psv_ttc
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ttcps_v3_22
+  versal_cips_0_pspmc_0_psv_ttc_5:
+    driver: ttcps
+    ip_name: psv_ttc
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ttcps_v3_22
+  versal_cips_0_pspmc_0_psv_ttc_6:
+    driver: ttcps
+    ip_name: psv_ttc
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ttcps_v3_22
+  versal_cips_0_pspmc_0_psv_ttc_7:
+    driver: ttcps
+    ip_name: psv_ttc
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ttcps_v3_22
+  versal_cips_0_pspmc_0_psv_ttc_8:
+    driver: ttcps
+    ip_name: psv_ttc
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ttcps_v3_22
+  versal_cips_0_pspmc_0_psv_ttc_9:
+    driver: ttcps
+    ip_name: psv_ttc
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ttcps_v3_22
+  versal_cips_0_pspmc_0_psv_usb_0: None
+  versal_cips_0_pspmc_0_psv_usb_xhci_0:
+    driver: usbpsu
+    ip_name: psv_usb_xhci
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/usbpsu_v1_18
+  versal_cips_0_pspmc_0_psv_xram_atm: None
+  versal_cips_0_pspmc_0_psv_xram_ctrl_1: None
+  versal_cips_0_pspmc_0_psv_xram_ctrl_2: None
+  versal_cips_0_pspmc_0_psv_xram_ctrl_3: None
+  versal_cips_0_pspmc_0_psv_xram_ctrl_4: None
+  versal_cips_0_pspmc_0_psv_xram_global_ctrl: None
+  versal_cips_0_pspmc_0_psv_xram_gpv: None
+  versal_cips_0_pspmc_0_psv_xram_xmpu_bank_1: None
+  versal_cips_0_pspmc_0_psv_xram_xmpu_bank_2: None
+  versal_cips_0_pspmc_0_psv_xram_xmpu_bank_3: None
+  versal_cips_0_pspmc_0_psv_xram_xmpu_bank_4: None
+lib_info:
+  xiltimer:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xiltimer_v2_3
+    examples: {}
+  aiebaremetal:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/aiebaremetal_v1_0
+    examples: {}
+  xilsem:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilsem_v1_12
+    examples:
+      xsem_cram_example.c:
+      - xsem_gic_setup.c
+      - xsem_gic_setup.h
+      - xsem_ipi.c
+      - xsem_ipi.h
+      xsem_cram_ssit_example.c:
+      - xsem_gic_setup.c
+      - xsem_gic_setup.h
+      - xsem_ipi.c
+      - xsem_ipi.h
+      xsem_npi_example.c:
+      - xsem_gic_setup.c
+      - xsem_gic_setup.h
+      - xsem_ipi.c
+      - xsem_ipi.h
+      xsem_npi_ssit_example.c:
+      - xsem_gic_setup.c
+      - xsem_gic_setup.h
+      - xsem_ipi.c
+      - xsem_ipi.h
+      xsem_cram_example_pl_mb.c: []
+      xsem_npi_example_pl_mb.c: []
+      xsem_ebd_example.c:
+      - xsem_ebd_search.c
+      - xsem_ebd_search.h
+      - xsem_ebdgoldendata.c
+      xsem_ebd_ssit_example.c:
+      - xsem_ebd_search.c
+      - xsem_ebd_search.h
+      - xsem_ebdgoldendata0.c
+      - xsem_ebdgoldendata1.c
+lib_config:
+  xiltimer:
+    XILTIMER_en_interval_timer:
+      name: XILTIMER_en_interval_timer
+      permission: read_write
+      type: boolean
+      value: 'True'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enable Interval Timer
+    XILTIMER_sleep_timer:
+      name: XILTIMER_sleep_timer
+      permission: read_write
+      type: string
+      value: Default
+      default: Default
+      options:
+      - Default
+      - versal_cips_0_pspmc_0_psv_ttc_9
+      - versal_cips_0_pspmc_0_psv_ttc_6
+      - versal_cips_0_pspmc_0_psv_ttc_3
+      - versal_cips_0_pspmc_0_psv_ttc_0
+      description: This parameter is used to select specific timer for sleep functionality
+    XILTIMER_tick_timer:
+      name: XILTIMER_tick_timer
+      permission: read_write
+      type: string
+      value: versal_cips_0_pspmc_0_psv_ttc_6
+      default: versal_cips_0_pspmc_0_psv_ttc_6
+      options:
+      - None
+      - versal_cips_0_pspmc_0_psv_ttc_9
+      - versal_cips_0_pspmc_0_psv_ttc_6
+      - versal_cips_0_pspmc_0_psv_ttc_3
+      - versal_cips_0_pspmc_0_psv_ttc_0
+      description: This parameter is used to select specific timer for tick functionality
+  aiebaremetal: {}
+  xilsem: {}

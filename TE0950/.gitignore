@@ -1,0 +1,30 @@
+# Ignore build output directory
+/build
+/export
+/hw/sdt
+/psv_cortexr5_0/freertos_psv_cortexr5_0/bsp/libsrc/build_configs
+/psv_cortexr5_0/freertos_psv_cortexr5_0/bsp/lib
+/psv_cortexa72_0/freertos_psv_cortexa72_0/bsp/libsrc/build_configs
+/psv_cortexa72_0/freertos_psv_cortexa72_0/bsp/lib
+/psv_pmc_0/versal_plm/bsp/libsrc/build_configs
+/psv_pmc_0/versal_plm/bsp/lib
+
+# Ignore object files and dependent files
+.o
+.d
+
+#Ignore logs folder and log files
+/logs
+.log
+.ninja_log
+.ninja_deps
+
+#Ignore lock files
+.lock
+
+.bin
+.pdi
+.vitisWorkspace.json
+
+_ide/logs
+_ide/.wsdata

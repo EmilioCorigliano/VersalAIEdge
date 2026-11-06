@@ -1,0 +1,50 @@
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 42.586	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 42.617	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 42.742	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 42.812	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.016 [400.000 MHz] curr: 43.133	max:43.820
+0.015 [400.000 MHz] curr: 43.133	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 42.539	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 42.797	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 42.914	max:43.820
+0.015 [400.000 MHz] curr: 42.938	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 42.805	max:43.820
+0.015 [400.000 MHz] curr: 42.273	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 42.625	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 42.742	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 43.547	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 43.234	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 42.797	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 42.484	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 43.320	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 42.961	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 43.086	max:43.820
+0.015 [400.000 MHz] curr: 42.820	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 43.133	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 43.102	max:43.820
+0.015 [400.000 MHz] curr: 43.273	max:43.820
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 42.852	max:43.922
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010
+0.015 [400.000 MHz] curr: 43.070	max:43.922
+[__atcm_global0] Flip at 0xffe048d0: 0x00000010

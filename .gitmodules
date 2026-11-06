@@ -1,0 +1,3 @@
+[submodule "libs/SFERAv2-WSCP"]
+	path = libs/SFERAv2-WSCP
+	url = git@github.com:HEAPLab/SFERAv2-WSCP-DUT.git

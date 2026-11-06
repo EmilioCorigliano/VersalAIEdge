@@ -1,0 +1,12 @@
+set(FREERTOS_SOURCES
+    "/home/streben/Documents/POLIMI/PhD/Projects/VersalAIEdge/TE0950/psv_cortexa72_0/freertos_psv_cortexa72_0/bsp/libsrc/freertos10_xilinx/src/Source/event_groups.c"
+    "/home/streben/Documents/POLIMI/PhD/Projects/VersalAIEdge/TE0950/psv_cortexa72_0/freertos_psv_cortexa72_0/bsp/libsrc/freertos10_xilinx/src/Source/list.c"
+    "/home/streben/Documents/POLIMI/PhD/Projects/VersalAIEdge/TE0950/psv_cortexa72_0/freertos_psv_cortexa72_0/bsp/libsrc/freertos10_xilinx/src/Source/queue.c"
+    "/home/streben/Documents/POLIMI/PhD/Projects/VersalAIEdge/TE0950/psv_cortexa72_0/freertos_psv_cortexa72_0/bsp/libsrc/freertos10_xilinx/src/Source/stream_buffer.c"
+    "/home/streben/Documents/POLIMI/PhD/Projects/VersalAIEdge/TE0950/psv_cortexa72_0/freertos_psv_cortexa72_0/bsp/libsrc/freertos10_xilinx/src/Source/timers.c"
+    "/home/streben/Documents/POLIMI/PhD/Projects/VersalAIEdge/TE0950/psv_cortexa72_0/freertos_psv_cortexa72_0/bsp/libsrc/freertos10_xilinx/src/Source/croutine.c"
+    "/home/streben/Documents/POLIMI/PhD/Projects/VersalAIEdge/TE0950/psv_cortexa72_0/freertos_psv_cortexa72_0/bsp/libsrc/freertos10_xilinx/src/Source/tasks.c"
+    "/home/streben/Documents/POLIMI/PhD/Projects/VersalAIEdge/TE0950/psv_cortexa72_0/freertos_psv_cortexa72_0/bsp/libsrc/freertos10_xilinx/src/Source/portable/GCC/ARM_CA53/port.c"
+    "/home/streben/Documents/POLIMI/PhD/Projects/VersalAIEdge/TE0950/psv_cortexa72_0/freertos_psv_cortexa72_0/bsp/libsrc/freertos10_xilinx/src/Source/portable/GCC/ARM_CA53/portZynqUltrascale.c"
+    "/home/streben/Documents/POLIMI/PhD/Projects/VersalAIEdge/TE0950/psv_cortexa72_0/freertos_psv_cortexa72_0/bsp/libsrc/freertos10_xilinx/src/Source/portable/MemMang/heap_5.c"
+)

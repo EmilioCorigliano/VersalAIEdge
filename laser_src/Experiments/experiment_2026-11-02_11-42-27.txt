@@ -1,0 +1,120 @@
+
+Waiting seed
+29.555 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.359 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.602 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.500 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.602 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.664 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.406 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.461 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.461 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.469 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+30.086 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.469 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.531 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.906 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.758 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.461 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.414 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.594 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.938 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.648 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.773 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.398 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.516 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+30.102 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.977 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.750 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.648 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.922 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.422 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.891 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+30.125 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.828 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.945 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.922 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.789 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.672 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+30.055 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+30.070 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.422 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]
+
+Waiting seed
+29.383 [400.000 MHz] i:0	crcInput:0x00000000 crcBF:0x00000000 crcOutputSw:0x00000000 crcOutputFPGA:0x00000000 crcOutputAI:0x00000000 tGenAng:0.5133s tAngEstim:0.5133s tCoeff:0.5133s tMatMultAI:0.5133s tMatMultFPGA:0.5133s tTot:0.5133s angles:[(+0.00, +0.00)->(+0, +0)] [(+0.00, +0.00)->(+0, +0)]

@@ -1,0 +1,369 @@
+# GOLDEN:
+xsdb% device status jtag_status
+JTAG STATUS: 0x002ab10f09
+              RESERVED (Bits [35]): 0
+                  DONE (Bits [34]): 0
+           JRDBK ERROR (Bits [33]): 0
+         JCONFIG ERROR (Bits [32]): 0
+        PMC VERSION (Bits [31:28]): 0010
+           RESERVED (Bits [27:24]): 1010
+         JTAG SEC GATE (Bits [23]): 1
+              RESERVED (Bits [22]): 0
+   PMC SCAN CLEAR DONE (Bits [21]): 1
+   PMC SCAN CLEAR PASS (Bits [20]): 1
+           RESERVED (Bits [19:17]): 000
+              RESERVED (Bits [16]): 1
+          BOOT MODE (Bits [15:12]): 0000
+      VCC PMC DETECTED (Bits [11]): 1
+     VCC PSLP DETECTED (Bits [10]): 1
+        VCCINT DETECTED (Bits [9]): 1
+       VCC SOC DETECTED (Bits [8]): 1
+       AES KEY ZEROIZED (Bits [7]): 0
+     BBRAM KEY ZEROIZED (Bits [6]): 0
+  SELECTMAP BUS WIDTH (Bits [5:4]): 00
+       SBI JTAG ENABLED (Bits [3]): 1
+          SBI JTAG BUSY (Bits [2]): 0
+           RSVD READS 0 (Bits [1]): 0
+           RSVD READS 1 (Bits [0]): 1
+
+xsdb% device status error_status
+ERROR STATUS: 0x0000000000000000000000000000000000000000
+         RSVD READS 0 (Bits [159:155]): 00000
+             RESERVED (Bits [154:148]): 0000000
+  BOOTROM FIRST ERROR (Bits [147:136]): 000000000000
+   BOOTROM LAST ERROR (Bits [135:124]): 000000000000
+      PLM MAJOR ERROR (Bits [123:110]): 00000000000000
+       PLM MINOR ERROR (Bits [109:94]): 0000000000000000
+              GSW ERROR (Bits [93:64]): 000000000000000000000000000000
+                  RESERVED (Bits [63]): 0
+               BOOTROM NCR (Bits [62]): 0
+                    PLM CR (Bits [61]): 0
+                   PLM NCR (Bits [60]): 0
+                    GSW CR (Bits [59]): 0
+                   GSW NCR (Bits [58]): 0
+                 CFU ERROR (Bits [57]): 0
+              CFRAME ERROR (Bits [56]): 0
+                    PSM CR (Bits [55]): 0
+                   PSM NCR (Bits [54]): 0
+               DDRMC MB CR (Bits [53]): 0
+              DDRMC MB NCR (Bits [52]): 0
+                    NOC CR (Bits [51]): 0
+                   NOC NCR (Bits [50]): 0
+            NOC USER ERROR (Bits [49]): 0
+           MMCM LOCK ERROR (Bits [48]): 0
+                    AIE CR (Bits [47]): 0
+                   AIE NCR (Bits [46]): 0
+           DDRMC MC ECC CR (Bits [45]): 0
+          DDRMC MC ECC NCR (Bits [44]): 0
+                     GT CR (Bits [43]): 0
+                    GT NCR (Bits [42]): 0
+                 SYSMON CR (Bits [41]): 0
+                SYSMON NCR (Bits [40]): 0
+            USER PL0 ERROR (Bits [39]): 0
+            USER PL1 ERROR (Bits [38]): 0
+            USER PL2 ERROR (Bits [37]): 0
+            USER PL3 ERROR (Bits [36]): 0
+            NPI ROOT ERROR (Bits [35]): 0
+               SSIT ERROR3 (Bits [34]): 0
+               SSIT ERROR4 (Bits [33]): 0
+               SSIT ERROR5 (Bits [32]): 0
+             PMC APB ERROR (Bits [31]): 0
+         PMC BOOTROM ERROR (Bits [30]): 0
+        RCU HARDWARE ERROR (Bits [29]): 0
+        PPU HARDWARE ERROR (Bits [28]): 0
+             PMC PAR ERROR (Bits [27]): 0
+                    PMC CR (Bits [26]): 0
+                   PMC NCR (Bits [25]): 0
+         PMC SYSMON0 ALARM (Bits [24]): 0
+         PMC SYSMON1 ALARM (Bits [23]): 0
+         PMC SYSMON2 ALARM (Bits [22]): 0
+         PMC SYSMON3 ALARM (Bits [21]): 0
+         PMC SYSMON4 ALARM (Bits [20]): 0
+         PMC SYSMON5 ALARM (Bits [19]): 0
+         PMC SYSMON6 ALARM (Bits [18]): 0
+         PMC SYSMON7 ALARM (Bits [17]): 0
+         PMC SYSMON8 ALARM (Bits [16]): 0
+         PMC SYSMON9 ALARM (Bits [15]): 0
+                   CFI NCR (Bits [14]): 0
+             SEU CRC ERROR (Bits [13]): 0
+             SEU ECC ERROR (Bits [12]): 0
+           RSVD READS 0 (Bits [11:10]): 00
+                  RTC ALARM (Bits [9]): 0
+                 NPLL ERROR (Bits [8]): 0
+                 PPLL ERROR (Bits [7]): 0
+        CLOCK MONITOR ERROR (Bits [6]): 0
+          PMC TIMEOUT ERROR (Bits [5]): 0
+             PMC XMPU ERROR (Bits [4]): 0
+             PMC XPPU ERROR (Bits [3]): 0
+                SSIT ERROR0 (Bits [2]): 0
+                SSIT ERROR1 (Bits [1]): 0
+                SSIT ERROR2 (Bits [0]): 0
+
+
+
+
+
+# LASERED
+xsdb% device program /home/streben/Documents/POLIMI/PhD/Projects/VersalAIEdge/boot_output/boot.pdi
+aborting, 1 pending requests...  
+PLM Error Major 0x223E Minor 0x1 occurred during programming
+
+xsdb% device status jtag_status
+JTAG STATUS: 0x002ab10f09
+              RESERVED (Bits [35]): 0
+                  DONE (Bits [34]): 0
+           JRDBK ERROR (Bits [33]): 0
+         JCONFIG ERROR (Bits [32]): 0
+        PMC VERSION (Bits [31:28]): 0010
+           RESERVED (Bits [27:24]): 1010
+         JTAG SEC GATE (Bits [23]): 1
+              RESERVED (Bits [22]): 0
+   PMC SCAN CLEAR DONE (Bits [21]): 1
+   PMC SCAN CLEAR PASS (Bits [20]): 1
+           RESERVED (Bits [19:17]): 000
+              RESERVED (Bits [16]): 1
+          BOOT MODE (Bits [15:12]): 0000
+      VCC PMC DETECTED (Bits [11]): 1
+     VCC PSLP DETECTED (Bits [10]): 1
+        VCCINT DETECTED (Bits [9]): 1
+       VCC SOC DETECTED (Bits [8]): 1
+       AES KEY ZEROIZED (Bits [7]): 0
+     BBRAM KEY ZEROIZED (Bits [6]): 0
+  SELECTMAP BUS WIDTH (Bits [5:4]): 00
+       SBI JTAG ENABLED (Bits [3]): 1
+          SBI JTAG BUSY (Bits [2]): 0
+           RSVD READS 0 (Bits [1]): 0
+           RSVD READS 1 (Bits [0]): 1
+
+xsdb% device status error_status
+ERROR STATUS: 0x0000000000000000000000000000000000000000
+         RSVD READS 0 (Bits [159:155]): 00000
+             RESERVED (Bits [154:148]): 0000000
+  BOOTROM FIRST ERROR (Bits [147:136]): 000000000000
+   BOOTROM LAST ERROR (Bits [135:124]): 000000000000
+      PLM MAJOR ERROR (Bits [123:110]): 00000000000000
+       PLM MINOR ERROR (Bits [109:94]): 0000000000000000
+              GSW ERROR (Bits [93:64]): 000000000000000000000000000000
+                  RESERVED (Bits [63]): 0
+               BOOTROM NCR (Bits [62]): 0
+                    PLM CR (Bits [61]): 0
+                   PLM NCR (Bits [60]): 0
+                    GSW CR (Bits [59]): 0
+                   GSW NCR (Bits [58]): 0
+                 CFU ERROR (Bits [57]): 0
+              CFRAME ERROR (Bits [56]): 0
+                    PSM CR (Bits [55]): 0
+                   PSM NCR (Bits [54]): 0
+               DDRMC MB CR (Bits [53]): 0
+              DDRMC MB NCR (Bits [52]): 0
+                    NOC CR (Bits [51]): 0
+                   NOC NCR (Bits [50]): 0
+            NOC USER ERROR (Bits [49]): 0
+           MMCM LOCK ERROR (Bits [48]): 0
+                    AIE CR (Bits [47]): 0
+                   AIE NCR (Bits [46]): 0
+           DDRMC MC ECC CR (Bits [45]): 0
+          DDRMC MC ECC NCR (Bits [44]): 0
+                     GT CR (Bits [43]): 0
+                    GT NCR (Bits [42]): 0
+                 SYSMON CR (Bits [41]): 0
+                SYSMON NCR (Bits [40]): 0
+            USER PL0 ERROR (Bits [39]): 0
+            USER PL1 ERROR (Bits [38]): 0
+            USER PL2 ERROR (Bits [37]): 0
+            USER PL3 ERROR (Bits [36]): 0
+            NPI ROOT ERROR (Bits [35]): 0
+               SSIT ERROR3 (Bits [34]): 0
+               SSIT ERROR4 (Bits [33]): 0
+               SSIT ERROR5 (Bits [32]): 0
+             PMC APB ERROR (Bits [31]): 0
+         PMC BOOTROM ERROR (Bits [30]): 0
+        RCU HARDWARE ERROR (Bits [29]): 0
+        PPU HARDWARE ERROR (Bits [28]): 0
+             PMC PAR ERROR (Bits [27]): 0
+                    PMC CR (Bits [26]): 0
+                   PMC NCR (Bits [25]): 0
+         PMC SYSMON0 ALARM (Bits [24]): 0
+         PMC SYSMON1 ALARM (Bits [23]): 0
+         PMC SYSMON2 ALARM (Bits [22]): 0
+         PMC SYSMON3 ALARM (Bits [21]): 0
+         PMC SYSMON4 ALARM (Bits [20]): 0
+         PMC SYSMON5 ALARM (Bits [19]): 0
+         PMC SYSMON6 ALARM (Bits [18]): 0
+         PMC SYSMON7 ALARM (Bits [17]): 0
+         PMC SYSMON8 ALARM (Bits [16]): 0
+         PMC SYSMON9 ALARM (Bits [15]): 0
+                   CFI NCR (Bits [14]): 0
+             SEU CRC ERROR (Bits [13]): 0
+             SEU ECC ERROR (Bits [12]): 0
+           RSVD READS 0 (Bits [11:10]): 00
+                  RTC ALARM (Bits [9]): 0
+                 NPLL ERROR (Bits [8]): 0
+                 PPLL ERROR (Bits [7]): 0
+        CLOCK MONITOR ERROR (Bits [6]): 0
+          PMC TIMEOUT ERROR (Bits [5]): 0
+             PMC XMPU ERROR (Bits [4]): 0
+             PMC XPPU ERROR (Bits [3]): 0
+                SSIT ERROR0 (Bits [2]): 0
+                SSIT ERROR1 (Bits [1]): 0
+                SSIT ERROR2 (Bits [0]): 0
+
+
+
+# LASERED AFTER TRYING TO PROGRAM IT
+xsdb% device status jtag_status
+JTAG STATUS: 0x002eb10f09
+              RESERVED (Bits [35]): 0
+                  DONE (Bits [34]): 0
+           JRDBK ERROR (Bits [33]): 0
+         JCONFIG ERROR (Bits [32]): 0
+        PMC VERSION (Bits [31:28]): 0010
+           RESERVED (Bits [27:24]): 1110
+         JTAG SEC GATE (Bits [23]): 1
+              RESERVED (Bits [22]): 0
+   PMC SCAN CLEAR DONE (Bits [21]): 1
+   PMC SCAN CLEAR PASS (Bits [20]): 1
+           RESERVED (Bits [19:17]): 000
+              RESERVED (Bits [16]): 1
+          BOOT MODE (Bits [15:12]): 0000
+      VCC PMC DETECTED (Bits [11]): 1
+     VCC PSLP DETECTED (Bits [10]): 1
+        VCCINT DETECTED (Bits [9]): 1
+       VCC SOC DETECTED (Bits [8]): 1
+       AES KEY ZEROIZED (Bits [7]): 0
+     BBRAM KEY ZEROIZED (Bits [6]): 0
+  SELECTMAP BUS WIDTH (Bits [5:4]): 00
+       SBI JTAG ENABLED (Bits [3]): 1
+          SBI JTAG BUSY (Bits [2]): 0
+           RSVD READS 0 (Bits [1]): 0
+           RSVD READS 1 (Bits [0]): 1
+
+
+xsdb% device status error_status
+ERROR STATUS: 0x00000000088f80004001648e2000000000000000
+         RSVD READS 0 (Bits [159:155]): 00000
+             RESERVED (Bits [154:148]): 0000000
+  BOOTROM FIRST ERROR (Bits [147:136]): 000000000000
+   BOOTROM LAST ERROR (Bits [135:124]): 000000000000
+      PLM MAJOR ERROR (Bits [123:110]): 10001000111110
+       PLM MINOR ERROR (Bits [109:94]): 0000000000000001
+              GSW ERROR (Bits [93:64]): 000000000000010110010010001110
+                  RESERVED (Bits [63]): 0
+               BOOTROM NCR (Bits [62]): 0
+                    PLM CR (Bits [61]): 1
+                   PLM NCR (Bits [60]): 0
+                    GSW CR (Bits [59]): 0
+                   GSW NCR (Bits [58]): 0
+                 CFU ERROR (Bits [57]): 0
+              CFRAME ERROR (Bits [56]): 0
+                    PSM CR (Bits [55]): 0
+                   PSM NCR (Bits [54]): 0
+               DDRMC MB CR (Bits [53]): 0
+              DDRMC MB NCR (Bits [52]): 0
+                    NOC CR (Bits [51]): 0
+                   NOC NCR (Bits [50]): 0
+            NOC USER ERROR (Bits [49]): 0
+           MMCM LOCK ERROR (Bits [48]): 0
+                    AIE CR (Bits [47]): 0
+                   AIE NCR (Bits [46]): 0
+           DDRMC MC ECC CR (Bits [45]): 0
+          DDRMC MC ECC NCR (Bits [44]): 0
+                     GT CR (Bits [43]): 0
+                    GT NCR (Bits [42]): 0
+                 SYSMON CR (Bits [41]): 0
+                SYSMON NCR (Bits [40]): 0
+            USER PL0 ERROR (Bits [39]): 0
+            USER PL1 ERROR (Bits [38]): 0
+            USER PL2 ERROR (Bits [37]): 0
+            USER PL3 ERROR (Bits [36]): 0
+            NPI ROOT ERROR (Bits [35]): 0
+               SSIT ERROR3 (Bits [34]): 0
+               SSIT ERROR4 (Bits [33]): 0
+               SSIT ERROR5 (Bits [32]): 0
+             PMC APB ERROR (Bits [31]): 0
+         PMC BOOTROM ERROR (Bits [30]): 0
+        RCU HARDWARE ERROR (Bits [29]): 0
+        PPU HARDWARE ERROR (Bits [28]): 0
+             PMC PAR ERROR (Bits [27]): 0
+                    PMC CR (Bits [26]): 0
+                   PMC NCR (Bits [25]): 0
+         PMC SYSMON0 ALARM (Bits [24]): 0
+         PMC SYSMON1 ALARM (Bits [23]): 0
+         PMC SYSMON2 ALARM (Bits [22]): 0
+         PMC SYSMON3 ALARM (Bits [21]): 0
+         PMC SYSMON4 ALARM (Bits [20]): 0
+         PMC SYSMON5 ALARM (Bits [19]): 0
+         PMC SYSMON6 ALARM (Bits [18]): 0
+         PMC SYSMON7 ALARM (Bits [17]): 0
+         PMC SYSMON8 ALARM (Bits [16]): 0
+         PMC SYSMON9 ALARM (Bits [15]): 0
+                   CFI NCR (Bits [14]): 0
+             SEU CRC ERROR (Bits [13]): 0
+             SEU ECC ERROR (Bits [12]): 0
+           RSVD READS 0 (Bits [11:10]): 00
+                  RTC ALARM (Bits [9]): 0
+                 NPLL ERROR (Bits [8]): 0
+                 PPLL ERROR (Bits [7]): 0
+        CLOCK MONITOR ERROR (Bits [6]): 0
+          PMC TIMEOUT ERROR (Bits [5]): 0
+             PMC XMPU ERROR (Bits [4]): 0
+             PMC XPPU ERROR (Bits [3]): 0
+                SSIT ERROR0 (Bits [2]): 0
+                SSIT ERROR1 (Bits [1]): 0
+                SSIT ERROR2 (Bits [0]): 0
+
+mrd -force 0xF111010C
+F111010C:   000000FF
+
+xsdb% mrd -force 0xF1130000
+F1130000:   00000004
+
+xsdb% mrd -force 0xF1130004
+F1130004:   00000000
+
+xsdb% plm log
+[0.015]****************************************
+[0.061]Xilinx Versal Platform Loader and Manager 
+[0.109]Release 2025.2   Jun  8 2026  -  17:25:30
+[0.159]Platform Version: v2.0 PMC: v2.0, PS: v2.0
+[0.218]BOOTMODE: 0x0, MULTIBOOT: 0x0
+[0.259]****************************************
+[0.522]Non Secure Boot
+[4.331]PLM Initialization Time 
+[4.370]***********Boot PDI Load: Started***********
+[4.447]Loading PDI from SBI
+[4.483]Monolithic/Master Device
+[4.795]0.367 ms: PDI initialization time
+[4.845]+++Loading Image#: 0x1, Name: lpd, Id: 0x04210002
+[4.909]---Loading Partition#: 0x1, Id: 0xC
+ERR LpdMbist: 0x310C
+ERR XPmPowerDomain_InitDomain: 0x3123
+ERR PwrDomainInitNode: 0x1 in InitNode for NodeId: 0x4210002 Function: 0x6
+ERR XPm_InitNode: 0xFFFF
+ALERT XPm_ProcessCmd: Error 0x1 while processing command 0x2023E
+ALERT XPm_ProcessCmd: Err Code: 0x1
+[10.406]CMD: 0x0002023E execute failed, Processed Cdo Length 0xF8
+[10.475]CMD Payload START, Len:0x00000002
+ 0x00000000F200013C: 0x04210002 0x00000006 
+[10.570]CMD Payload END
+[10.630]PLM Error Status: 0x223E0001
+[10.676]============Register Dump============
+[10.725]PMC_TAP_IDCODE: 0x14CC8093
+[10.769]EFUSE_CACHE_IP_DISABLE_0(EXTENDED IDCODE): 0x00004000
+[10.833]PMC_TAP_VERSION: 0x00302020
+[10.877]CRP_BOOT_MODE_USER: 0x00000000
+[10.923]CRP_BOOT_MODE_POR: 0x00000000
+[10.969]CRP_RESET_REASON: 0x00000000
+[11.013]PMC_GLOBAL_PMC_MULTI_BOOT: 0x00000000
+[11.064]PMC_GLOBAL_PWR_STATUS: 0x00000300
+[11.113]PMC_GLOBAL_PMC_GSW_ERR: 0x0001648E
+[11.162]PMC_GLOBAL_PLM_ERR: 0x623E0001
+[11.209]PMC_GLOBAL_PMC_ERR1_STATUS: 0x00000004
+[11.263]PMC_GLOBAL_PMC_ERR2_STATUS: 0x00000000
+[11.317]PMC_GLOBAL_GICP0_IRQ_STATUS: 0x00000000
+[11.371]PMC_GLOBAL_GICP1_IRQ_STATUS: 0x00000000
+[11.426]PMC_GLOBAL_GICP2_IRQ_STATUS: 0x00000000
+[11.480]PMC_GLOBAL_GICP3_IRQ_STATUS: 0x00000000
+[11.535]PMC_GLOBAL_GICP4_IRQ_STATUS: 0x80000000
+[11.590]PMC_GLOBAL_GICP_PMC_IRQ_STATUS: 0x00000000
+[11.645]============Register Dump============

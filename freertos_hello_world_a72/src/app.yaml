@@ -1,0 +1,4 @@
+domain_path: /home/streben/Documents/POLIMI/PhD/Projects/VersalAIEdge/TE0950/export/TE0950/sw/freertos_psv_cortexa72_0
+app_src_dir: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_apps/freertos_hello_world
+template: freertos_hello_world
+lang: c

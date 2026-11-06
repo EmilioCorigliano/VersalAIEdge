@@ -1,0 +1,3 @@
+[submodule "submodules/cbor"]
+	path = submodules/cbor
+	url = https://github.com/libmcu/cbor.git

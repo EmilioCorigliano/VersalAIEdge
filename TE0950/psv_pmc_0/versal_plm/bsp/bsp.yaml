@@ -1,0 +1,1494 @@
+sdt: hw_artifacts/psv_pmc_0_baremetal.dts
+family: Versal
+path: /home/streben/Documents/POLIMI/PhD/Projects/VersalAIEdge/TE0950/psv_pmc_0/versal_plm/bsp
+config: None
+os: standalone
+os_info:
+  standalone:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/bsp/standalone_v9_4
+os_config:
+  standalone:
+    standalone_enable_sw_intrusive_profiling:
+      name: standalone_enable_sw_intrusive_profiling
+      permission: read_write
+      type: string
+      value: None
+      default: None
+      options:
+      - None
+      description: This option is not supported in the Unified Vitis IDE in this version.
+        Change to the classic IDE if you want to use this option
+    standalone_microblaze_exceptions:
+      name: standalone_microblaze_exceptions
+      permission: read_write
+      type: string
+      value: None
+      default: None
+      options:
+      - None
+      description: Unused option and deprecated
+    standalone_pmu_sleep_timer:
+      name: standalone_pmu_sleep_timer
+      permission: read_write
+      type: string
+      value: None
+      default: None
+      options:
+      - None
+      description: Deprecated in favor of xiltimer
+    standalone_profile_timer:
+      name: standalone_profile_timer
+      permission: read_write
+      type: string
+      value: None
+      default: None
+      options:
+      - None
+      description: This option is not supported in the Unified Vitis IDE in this version.
+        Change to the classic IDE if you want to use this option
+    standalone_sleep_timer:
+      name: standalone_sleep_timer
+      permission: read_write
+      type: string
+      value: None
+      default: None
+      options:
+      - None
+      description: Deprecated in favor of xiltimer
+    standalone_stdin:
+      name: standalone_stdin
+      permission: read_write
+      type: string
+      value: versal_cips_0_pspmc_0_psv_sbsauart_1
+      default: versal_cips_0_pspmc_0_psv_sbsauart_1
+      options:
+      - None
+      - versal_cips_0_pspmc_0_psv_pmc_ppu1_mdm_0
+      - versal_cips_0_pspmc_0_psv_sbsauart_1
+      - versal_cips_0_pspmc_0_psv_pmc_iomodule_0
+      description: stdin peripheral
+    standalone_stdout:
+      name: standalone_stdout
+      permission: read_write
+      type: string
+      value: versal_cips_0_pspmc_0_psv_sbsauart_1
+      default: versal_cips_0_pspmc_0_psv_sbsauart_1
+      options:
+      - None
+      - versal_cips_0_pspmc_0_psv_pmc_ppu1_mdm_0
+      - versal_cips_0_pspmc_0_psv_sbsauart_1
+      - versal_cips_0_pspmc_0_psv_pmc_iomodule_0
+      description: stdout peripheral
+    standalone_ttc_select_cntr:
+      name: standalone_ttc_select_cntr
+      permission: read_write
+      type: string
+      value: None
+      default: None
+      options:
+      - None
+      description: Deprecated in favor of xiltimer
+    standalone_xpm_support:
+      name: standalone_xpm_support
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enable xpm support
+toolchain_file: microblaze-plm_toolchain.cmake
+specs_file: Xilinx.spec
+proc: psv_pmc_0
+proc_config:
+  psv_pmc_0:
+    proc_archiver:
+      name: proc_archiver
+      permission: readonly
+      type: string
+      value: mb-gcc-ar
+      default: mb-gcc-ar
+      options: []
+      description: Archiver used to archive libraries for both BSP generation as well
+        as applications.
+    proc_assembler:
+      name: proc_assembler
+      permission: readonly
+      type: string
+      value: mb-gcc
+      default: mb-gcc
+      options: []
+      description: Assembler used to assemble both BSP/libraries and applications.
+    proc_compiler:
+      name: proc_compiler
+      permission: readonly
+      type: string
+      value: mb-gcc
+      default: mb-gcc
+      options: []
+      description: Compiler used to compile both BSP/libraries and applications.
+    proc_compiler_flags:
+      name: proc_compiler_flags
+      permission: readonly
+      type: string
+      value: ' -O2  -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mxl-reorder
+        -mno-xl-soft-mul -mxl-multiply-high -mno-xl-soft-div -Os -flto -ffat-lto-objects
+        -mcpu=v10.0 -DSDT;-c'
+      default: ' -O2  -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mxl-reorder
+        -mno-xl-soft-mul -mxl-multiply-high -mno-xl-soft-div -Os -flto -ffat-lto-objects
+        -mcpu=v10.0 -DSDT;-c'
+      options: []
+      description: Compiler Flags used in BSP and library generation.'-c'flag stands
+        for 'compile and assemble, but do not link'.Without this flag, gcc tries to
+        link the code, which will fail because there is no application involved during
+        libgen.'-O2' can be overwritten by extra compile flags.
+    proc_extra_compiler_flags:
+      name: proc_extra_compiler_flags
+      permission: read_write
+      type: string
+      value: ' -g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns'
+      default: ' -g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns'
+      options: []
+      description: Extra Compiler Flags used in BSP and library generation
+template: versal_plm
+compiler: gcc
+compiler_flags: ''
+include_folder: include
+lib_folder: lib
+libsrc_folder: libsrc
+drv_info:
+  versal_cips_0_pspmc_0_psv_adma_0:
+    driver: zdma
+    ip_name: psv_adma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/zdma_v1_21
+    examples:
+      xzdma_linear_example.c: []
+      xzdma_linkedlist_example.c: []
+      xzdma_readonlymode_example.c: []
+      xzdma_simple_example.c: []
+      xzdma_writeonlymode_example.c: []
+      xzdma_selftest_example.c: []
+  versal_cips_0_pspmc_0_psv_adma_1:
+    driver: zdma
+    ip_name: psv_adma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/zdma_v1_21
+    examples:
+      xzdma_linear_example.c: []
+      xzdma_linkedlist_example.c: []
+      xzdma_readonlymode_example.c: []
+      xzdma_simple_example.c: []
+      xzdma_writeonlymode_example.c: []
+      xzdma_selftest_example.c: []
+  versal_cips_0_pspmc_0_psv_adma_2:
+    driver: zdma
+    ip_name: psv_adma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/zdma_v1_21
+    examples:
+      xzdma_linear_example.c: []
+      xzdma_linkedlist_example.c: []
+      xzdma_readonlymode_example.c: []
+      xzdma_simple_example.c: []
+      xzdma_writeonlymode_example.c: []
+      xzdma_selftest_example.c: []
+  versal_cips_0_pspmc_0_psv_adma_3:
+    driver: zdma
+    ip_name: psv_adma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/zdma_v1_21
+    examples:
+      xzdma_linear_example.c: []
+      xzdma_linkedlist_example.c: []
+      xzdma_readonlymode_example.c: []
+      xzdma_simple_example.c: []
+      xzdma_writeonlymode_example.c: []
+      xzdma_selftest_example.c: []
+  versal_cips_0_pspmc_0_psv_adma_4:
+    driver: zdma
+    ip_name: psv_adma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/zdma_v1_21
+    examples:
+      xzdma_linear_example.c: []
+      xzdma_linkedlist_example.c: []
+      xzdma_readonlymode_example.c: []
+      xzdma_simple_example.c: []
+      xzdma_writeonlymode_example.c: []
+      xzdma_selftest_example.c: []
+  versal_cips_0_pspmc_0_psv_adma_5:
+    driver: zdma
+    ip_name: psv_adma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/zdma_v1_21
+    examples:
+      xzdma_linear_example.c: []
+      xzdma_linkedlist_example.c: []
+      xzdma_readonlymode_example.c: []
+      xzdma_simple_example.c: []
+      xzdma_writeonlymode_example.c: []
+      xzdma_selftest_example.c: []
+  versal_cips_0_pspmc_0_psv_adma_6:
+    driver: zdma
+    ip_name: psv_adma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/zdma_v1_21
+    examples:
+      xzdma_linear_example.c: []
+      xzdma_linkedlist_example.c: []
+      xzdma_readonlymode_example.c: []
+      xzdma_simple_example.c: []
+      xzdma_writeonlymode_example.c: []
+      xzdma_selftest_example.c: []
+  versal_cips_0_pspmc_0_psv_adma_7:
+    driver: zdma
+    ip_name: psv_adma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/zdma_v1_21
+    examples:
+      xzdma_linear_example.c: []
+      xzdma_linkedlist_example.c: []
+      xzdma_readonlymode_example.c: []
+      xzdma_simple_example.c: []
+      xzdma_writeonlymode_example.c: []
+      xzdma_selftest_example.c: []
+  versal_cips_0_pspmc_0_psv_ethernet_0:
+    driver: emacps
+    ip_name: psv_ethernet
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/emacps_v3_23
+    examples:
+      xemacps_example_intr_dma.c:
+      - xemacps_example_util.c
+      - xemacps_example.h
+  versal_cips_0_pspmc_0_psv_gpio_2:
+    driver: gpiops
+    ip_name: psv_gpio
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/gpiops_v3_14
+    examples:
+      xgpiops_intr_example.c: []
+      xgpiops_polled_example.c: []
+  versal_cips_0_pspmc_0_psv_i2c_1:
+    driver: iicps
+    ip_name: psv_i2c
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/iicps_v3_22
+    examples:
+      xiicps_eeprom_intr_example.c: []
+      xiicps_eeprom_polled_example.c: []
+      xiicps_intr_master_example.c: []
+      xiicps_intr_multi_master_example.c: []
+      xiicps_intr_slave_example.c: []
+      xiicps_polled_master_example.c: []
+      xiicps_polled_multi_master_example.c: []
+      xiicps_polled_slave_example.c: []
+      xiicps_repeated_start_example.c: []
+      xiicps_selftest_example.c: []
+      xiicps_slave_monitor_example.c: []
+      xiicps_smbus_intr_master_example.c: []
+      xiicps_smbus_intr_slave_example.c: []
+      xiicps_smbus_polled_master_example.c: []
+      xiicps_smbus_polled_slave_example.c: []
+  versal_cips_0_pspmc_0_psv_ipi_pmc:
+    driver: ipipsu
+    ip_name: psv_ipi
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ipipsu_v2_18
+    examples:
+      xipipsu_self_test_example.c: []
+  versal_cips_0_pspmc_0_psv_ipi_pmc_nobuf:
+    driver: ipipsu
+    ip_name: psv_ipi
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/ipipsu_v2_18
+    examples:
+      xipipsu_self_test_example.c: []
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_0:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_1:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_10:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_11:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_12:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_13:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_14:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_2:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_3:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_4:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_5:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_6:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_7:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_8:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_9:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfi_cframe_bcast:
+    driver: cframe
+    ip_name: psv_pmc_cfi_cframe
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cframe_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_cfu_apb_0:
+    driver: cfupmc
+    ip_name: psv_pmc_cfu_apb
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/cfupmc_v1_9
+  versal_cips_0_pspmc_0_psv_pmc_dma_0:
+    driver: csudma
+    ip_name: psv_pmc_dma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/csudma_v1_18
+    examples:
+      xcsudma_intr_example.c: []
+      xcsudma_polled_example.c: []
+      xcsudma_selftest_example.c: []
+  versal_cips_0_pspmc_0_psv_pmc_dma_1:
+    driver: csudma
+    ip_name: psv_pmc_dma
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/csudma_v1_18
+    examples:
+      xcsudma_intr_example.c: []
+      xcsudma_polled_example.c: []
+      xcsudma_selftest_example.c: []
+  versal_cips_0_pspmc_0_psv_pmc_gpio_0:
+    driver: gpiops
+    ip_name: psv_pmc_gpio
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/gpiops_v3_14
+    examples:
+      xgpiops_intr_example.c: []
+      xgpiops_polled_example.c: []
+  versal_cips_0_pspmc_0_psv_pmc_i2c_0:
+    driver: iicps
+    ip_name: psv_pmc_i2c
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/iicps_v3_22
+    examples:
+      xiicps_eeprom_intr_example.c: []
+      xiicps_eeprom_polled_example.c: []
+      xiicps_intr_master_example.c: []
+      xiicps_intr_multi_master_example.c: []
+      xiicps_intr_slave_example.c: []
+      xiicps_polled_master_example.c: []
+      xiicps_polled_multi_master_example.c: []
+      xiicps_polled_slave_example.c: []
+      xiicps_repeated_start_example.c: []
+      xiicps_selftest_example.c: []
+      xiicps_slave_monitor_example.c: []
+      xiicps_smbus_intr_master_example.c: []
+      xiicps_smbus_intr_slave_example.c: []
+      xiicps_smbus_polled_master_example.c: []
+      xiicps_smbus_polled_slave_example.c: []
+  versal_cips_0_pspmc_0_psv_pmc_iomodule_0:
+    driver: iomodule
+    ip_name: iomodule
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/iomodule_v2_19
+    examples:
+      xiomodule_low_level_example.c: []
+      xiomodule_selftest_example.c: []
+      xiomodule_intr_example.c: []
+      xiomodule_intr_setup_example.c: []
+  versal_cips_0_pspmc_0_psv_pmc_ppu1_mdm_0:
+    driver: uartlite
+    ip_name: psv_pmc_ppu1_mdm
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/uartlite_v3_12
+    examples:
+      xuartlite_low_level_example.c: []
+      xuartlite_polled_example.c: []
+      xuartlite_selftest_example.c: []
+  versal_cips_0_pspmc_0_psv_pmc_qspi_0:
+    driver: qspipsu
+    ip_name: psv_pmc_qspi
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/qspipsu_v1_22
+    examples:
+      xqspipsu_polldata_polltimeout_interrupt_example.c:
+      - xqspipsu_flash_config.h
+      xqspipsu_generic_flash_interrupt_example.c:
+      - xqspipsu_flash_config.h
+      xqspipsu_write_protect_example.c:
+      - xqspipsu_flash_config.h
+      xqspipsu_generic_flash_polled_64bit_dma_r5_example.c:
+      - xqspipsu_flash_config.h
+      xqspipsu_generic_flash_polled_example.c:
+      - xqspipsu_flash_config.h
+      xqspipsu_generic_flash_non_blocking_read_example.c:
+      - xqspipsu_flash_config.h
+      xqspipsu_generic_flash_lqspi_example.c:
+      - xqspipsu_flash_config.h
+      xqspipsu_generic_nand_flash_interrupt_example.c:
+      - xqspipsu_flash_config.h
+      xqspipsu_generic_nand_flash_polled_example.c:
+      - xqspipsu_flash_config.h
+  versal_cips_0_pspmc_0_psv_pmc_sd_0:
+    driver: sdps
+    ip_name: psv_pmc_sd
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/sdps_v4_5
+    examples:
+      xsdps_raw_example.c: []
+  versal_cips_0_pspmc_0_psv_pmc_sd_1:
+    driver: sdps
+    ip_name: psv_pmc_sd
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/sdps_v4_5
+    examples:
+      xsdps_raw_example.c: []
+  versal_cips_0_pspmc_0_psv_pmc_sysmon_0:
+    driver: sysmonpsv
+    ip_name: psv_pmc_sysmon
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/sysmonpsv_v5_2
+    examples:
+      xsysmonpsv_intr_example.c: []
+      xsysmonpsv_polled_example.c: []
+  versal_cips_0_pspmc_0_psv_pmc_trng:
+    driver: trngpsv
+    ip_name: psv_pmc_trng
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/trngpsv_v1_7
+    examples:
+      xtrngpsv_drng_df_example.c: []
+      xtrngpsv_drng_example.c: []
+      xtrngpsv_hrng_df_example.c: []
+      xtrngpsv_hrng_example.c: []
+      xtrngpsv_ptrng_df_example.c: []
+      xtrngpsv_ptrng_example.c: []
+  versal_cips_0_pspmc_0_psv_r5_0_atcm: None
+  versal_cips_0_pspmc_0_psv_r5_0_atcm_global: None
+  versal_cips_0_pspmc_0_psv_r5_0_atcm_lockstep: None
+  versal_cips_0_pspmc_0_psv_r5_0_btcm: None
+  versal_cips_0_pspmc_0_psv_r5_0_btcm_global: None
+  versal_cips_0_pspmc_0_psv_r5_0_btcm_lockstep: None
+  versal_cips_0_pspmc_0_psv_r5_1_atcm: None
+  versal_cips_0_pspmc_0_psv_r5_1_atcm_global: None
+  versal_cips_0_pspmc_0_psv_r5_1_btcm: None
+  versal_cips_0_pspmc_0_psv_r5_1_btcm_global: None
+  versal_cips_0_pspmc_0_psv_r5_tcm_ram_0: None
+  versal_cips_0_pspmc_0_psv_sbsauart_1:
+    driver: uartpsv
+    ip_name: psv_sbsauart
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/uartpsv_v1_13
+    examples:
+      xuartpsv_hello_world_example.c: []
+      xuartpsv_intr_example.c: []
+      xuartpsv_polled_example.c: []
+      xuartpsv_selftest_example.c: []
+  versal_cips_0_pspmc_0_psv_usb_0: None
+  versal_cips_0_pspmc_0_psv_usb_xhci_0:
+    driver: usbpsu
+    ip_name: psv_usb_xhci
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/XilinxProcessorIPLib/drivers/usbpsu_v1_18
+    examples:
+      xusb_intr_example.c:
+      - xusb_class_storage.c
+      - xusb_class_storage.h
+      - xusb_ch9_storage.c
+      - xusb_ch9_storage.h
+      - xusb_ch9.c
+      - xusb_ch9.h
+      - xusb_wrapper.c
+      - xusb_wrapper.h
+      xusb_composite_example.c:
+      - xusb_ch9_composite.c
+      - xusb_ch9_composite.h
+      - xusb_class_composite.c
+      - xusb_class_composite.h
+      - xusb_ch9.c
+      - xusb_ch9.h
+      - xusb_wrapper.c
+      - xusb_wrapper.h
+      xusb_dfu_example.c:
+      - xusb_class_dfu.c
+      - xusb_class_dfu.h
+      - xusb_ch9_dfu.c
+      - xusb_ch9_dfu.h
+      - xusb_ch9.c
+      - xusb_ch9.h
+      - xusb_wrapper.c
+      - xusb_wrapper.h
+      xusb_audio_dfu_example.c:
+      - xusb_ch9_audio_dfu.c
+      - xusb_ch9_audio_dfu.h
+      - xusb_class_audio_dfu.c
+      - xusb_class_audio_dfu.h
+      - xusb_ch9.c
+      - xusb_ch9.h
+      - xusb_wrapper.c
+      - xusb_wrapper.h
+      xusb_poll_example.c:
+      - xusb_class_storage.c
+      - xusb_class_storage.h
+      - xusb_ch9_storage.c
+      - xusb_ch9_storage.h
+      - xusb_ch9.c
+      - xusb_ch9.h
+      - xusb_wrapper.c
+      - xusb_wrapper.h
+      xusb_freertos_composite_example.c:
+      - xusb_freertos_class_composite.c
+      - xusb_freertos_class_composite.h
+      - xusb_freertos_ch9_composite.c
+      - xusb_freertos_ch9_composite.h
+      - xusb_ch9.c
+      - xusb_ch9.h
+      - xusb_wrapper.c
+      - xusb_wrapper.h
+      xusb_freertos_massstorage_example.c:
+      - xusb_freertos_class_storage.c
+      - xusb_freertos_class_storage.h
+      - xusb_freertos_ch9_storage.c
+      - xusb_freertos_ch9_storage.h
+      - xusb_ch9.c
+      - xusb_ch9.h
+      - xusb_wrapper.c
+      - xusb_wrapper.h
+      xusb_freertos_keyboard_example.c:
+      - xusb_freertos_ch9_keyboard.c
+      - xusb_freertos_ch9_keyboard.h
+      - xusb_freertos_class_keyboard.c
+      - xusb_freertos_class_keyboard.h
+      - xusb_ch9.c
+      - xusb_ch9.h
+      - xusb_wrapper.c
+      - xusb_wrapper.h
+      xusb_freertos_audio_example.c:
+      - xusb_freertos_ch9_audio.c
+      - xusb_freertos_ch9_audio.h
+      - xusb_freertos_class_audio.c
+      - xusb_freertos_class_audio.h
+      - xusb_ch9.c
+      - xusb_ch9.h
+      - xusb_wrapper.c
+      - xusb_wrapper.h
+      xusb_freertos_dfu_example.c:
+      - xusb_class_dfu.c
+      - xusb_class_dfu.h
+      - xusb_ch9_dfu.c
+      - xusb_ch9_dfu.h
+      - xusb_ch9.c
+      - xusb_ch9.h
+      - xusb_wrapper.c
+      - xusb_wrapper.h
+lib_info:
+  xiltimer:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xiltimer_v2_3
+    examples: {}
+  xilffs:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilffs_v5_5
+    examples:
+      xilffs_polled_example.c: []
+  xilpdi:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilpdi_v1_12
+    examples: {}
+  xilplmi:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilplmi_v2_3
+    examples:
+      xplmi_event_logging_client_example.c: []
+      xplmi_get_board_client_example.c: []
+      xplmi_get_device_id_client_example.c: []
+      xplmi_tamper_trigger_client_example.c: []
+      xplmi_glitch_detector_example.c: []
+      xplmi_usermodule_example.c: []
+      xplmi_configure_secure_comm_example.c: []
+  xilloader:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilloader_v2_3
+    examples:
+      xilloader_image_store_pdi_client_example.c: []
+      xilloader_extract_metaheader_client_example.c: []
+      xilloader_get_atf_handoff_params_client_example.c: []
+      xilloader_get_image_info_client_example.c: []
+      xilloader_get_image_info_list_client_example.c: []
+      xilloader_load_image_client_example.c: []
+      xilloader_load_pdi_client_example.c: []
+      xilloader_update_multiboot_client_example.c: []
+      xilloader_cfi_selective_readback_example.c: []
+      xilloader_add_pdi_to_image_store_client_example.c: []
+      xilloader_remove_pdi_from_image_store_client_example.c: []
+  xilpm:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilpm_v6_1
+    examples:
+      xilpm_selfsuspend_example.c:
+      - timer.c
+      - timer.h
+      - gic_setup.c
+      - gic_setup.h
+  xilsecure:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilsecure_v5_6
+    examples: {}
+  xilsem:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilsem_v1_12
+    examples:
+      xsem_cram_example.c:
+      - xsem_gic_setup.c
+      - xsem_gic_setup.h
+      - xsem_ipi.c
+      - xsem_ipi.h
+      xsem_cram_ssit_example.c:
+      - xsem_gic_setup.c
+      - xsem_gic_setup.h
+      - xsem_ipi.c
+      - xsem_ipi.h
+      xsem_npi_example.c:
+      - xsem_gic_setup.c
+      - xsem_gic_setup.h
+      - xsem_ipi.c
+      - xsem_ipi.h
+      xsem_npi_ssit_example.c:
+      - xsem_gic_setup.c
+      - xsem_gic_setup.h
+      - xsem_ipi.c
+      - xsem_ipi.h
+      xsem_cram_example_pl_mb.c: []
+      xsem_npi_example_pl_mb.c: []
+      xsem_ebd_example.c:
+      - xsem_ebd_search.c
+      - xsem_ebd_search.h
+      - xsem_ebdgoldendata.c
+      xsem_ebd_ssit_example.c:
+      - xsem_ebd_search.c
+      - xsem_ebd_search.h
+      - xsem_ebdgoldendata0.c
+      - xsem_ebdgoldendata1.c
+  xilpuf:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilpuf_v2_6
+    examples: {}
+  xilnvm:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilnvm_v3_6
+    examples: {}
+  xilocp:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilocp_v1_6
+    examples: {}
+  xilcert:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xilcert_v1_5
+    examples: {}
+  xiltpm:
+    path: /opt/Xilinx/2025.2/Vitis/data/embeddedsw/lib/sw_services/xiltpm_v1_1
+    examples: {}
+lib_config:
+  xiltimer:
+    XILTIMER_en_interval_timer:
+      name: XILTIMER_en_interval_timer
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enable Interval Timer
+    XILTIMER_sleep_timer:
+      name: XILTIMER_sleep_timer
+      permission: read_write
+      type: string
+      value: Default
+      default: Default
+      options:
+      - Default
+      description: This parameter is used to select specific timer for sleep functionality
+    XILTIMER_tick_timer:
+      name: XILTIMER_tick_timer
+      permission: read_write
+      type: string
+      value: None
+      default: None
+      options:
+      - None
+      description: This parameter is used to select specific timer for tick functionality
+  xilffs:
+    XILFFS_enable_exfat:
+      name: XILFFS_enable_exfat
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: 0:Disable exFAT, 1:Enable exFAT(Also Enables LFN)
+    XILFFS_enable_multi_partition:
+      name: XILFFS_enable_multi_partition
+      permission: read_write
+      type: boolean
+      value: 'True'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: 0:Single partition, 1:Enable multiple partition
+    XILFFS_fs_interface:
+      name: XILFFS_fs_interface
+      permission: read_write
+      type: integer
+      value: '1'
+      default: '1'
+      options:
+      - '1'
+      - '2'
+      description: Enables file system with selected interface. Enter 1 for SD. Enter
+        2 for RAM
+    XILFFS_max_sector_size:
+      name: XILFFS_max_sector_size
+      permission: read_write
+      type: integer
+      value: '4096'
+      default: '4096'
+      options: []
+      description: Maximum Sector size(valid values are 4096, 8192, 16384, 32768)
+    XILFFS_num_logical_vol:
+      name: XILFFS_num_logical_vol
+      permission: read_write
+      type: integer
+      value: '10'
+      default: '10'
+      options: []
+      description: Number of volumes (logical drives, from 1 to 175) to be used.
+    XILFFS_ramfs_size:
+      name: XILFFS_ramfs_size
+      permission: read_write
+      type: integer
+      value: '3145728'
+      default: '3145728'
+      options: []
+      description: RAM FS size
+    XILFFS_ramfs_start_addr:
+      name: XILFFS_ramfs_start_addr
+      permission: read_write
+      type: string
+      value: ''
+      default: ''
+      options: []
+      description: RAM FS start address
+    XILFFS_read_only:
+      name: XILFFS_read_only
+      permission: read_write
+      type: boolean
+      value: 'True'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables the file system in Read_Only mode if true. ZynqMP fsbl
+        will set this to true
+    XILFFS_set_fs_rpath:
+      name: XILFFS_set_fs_rpath
+      permission: read_write
+      type: integer
+      value: '0'
+      default: '0'
+      options:
+      - '0'
+      - '1'
+      - '2'
+      description: Configures relative path feature (valid values 0 to 2).
+    XILFFS_use_chmod:
+      name: XILFFS_use_chmod
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables use of CHMOD functionality for changing attributes (valid
+        only with read_only set to false)
+    XILFFS_use_lfn:
+      name: XILFFS_use_lfn
+      permission: read_write
+      type: integer
+      value: '0'
+      default: '0'
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      description: 'Enables the Long File Name(LFN) support if non-zero. Disabled
+        by default: 0, LFN with static working buffer: 1, Dynamic working buffer:
+        2 (on stack) or 3 (on heap)'
+    XILFFS_use_mkfs:
+      name: XILFFS_use_mkfs
+      permission: read_write
+      type: boolean
+      value: 'False'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Disable(0) or Enable(1) f_mkfs function. ZynqMP fsbl will set this
+        to false
+    XILFFS_use_strfunc:
+      name: XILFFS_use_strfunc
+      permission: read_write
+      type: integer
+      value: '0'
+      default: '0'
+      options:
+      - '0'
+      - '1'
+      - '2'
+      description: Enables the string functions (valid values 0 to 2).
+    XILFFS_use_trim:
+      name: XILFFS_use_trim
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Disable(0) or Enable(1) TRIM function. ZynqMP fsbl will set this
+        to false
+    XILFFS_word_access:
+      name: XILFFS_word_access
+      permission: read_write
+      type: boolean
+      value: 'False'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables word access for misaligned memory access platform
+  xilpdi: {}
+  xilplmi:
+    XILPLMI_aes_and_sha_events_queuing_en:
+      name: XILPLMI_aes_and_sha_events_queuing_en
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables or Disables queuing mechanism of AES and SHA events for
+        Versal
+    XILPLMI_cache_disable:
+      name: XILPLMI_cache_disable
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables/Disables Cache for XilPlmi client library.
+    XILPLMI_cfi_selective_read_en:
+      name: XILPLMI_cfi_selective_read_en
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables or disables CFI selective read
+    XILPLMI_plm_add_ppks_en:
+      name: XILPLMI_plm_add_ppks_en
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables or Disables additional PPKs
+    XILPLMI_plm_auth_jtag_en:
+      name: XILPLMI_plm_auth_jtag_en
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables or Disables Authenticated JTAG feature
+    XILPLMI_plm_dbg_lvl:
+      name: XILPLMI_plm_dbg_lvl
+      permission: read_write
+      type: string
+      value: level1
+      default: level1
+      options:
+      - level0
+      - level1
+      - level2
+      - level3
+      description: Selects the debug logs level
+    XILPLMI_plm_ecdsa_en:
+      name: XILPLMI_plm_ecdsa_en
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables or Disables ECDSA handlers
+    XILPLMI_plm_mode:
+      name: XILPLMI_plm_mode
+      permission: read_write
+      type: string
+      value: release
+      default: release
+      options:
+      - debug
+      - release
+      description: Selects between Release and Debug modes
+    XILPLMI_plm_nvm_en:
+      name: XILPLMI_plm_nvm_en
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables or Disables NVM handlers
+    XILPLMI_plm_ospi_en:
+      name: XILPLMI_plm_ospi_en
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables (if enabled in hardware design too) or Disables OSPI boot
+        mode
+    XILPLMI_plm_perf_en:
+      name: XILPLMI_plm_perf_en
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables or Disables Boot time measurement
+    XILPLMI_plm_puf_en:
+      name: XILPLMI_plm_puf_en
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables or Disables PUF handlers
+    XILPLMI_plm_qspi_en:
+      name: XILPLMI_plm_qspi_en
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables (if enabled in hardware design too) or Disables QSPI boot
+        mode
+    XILPLMI_plm_rsa_en:
+      name: XILPLMI_plm_rsa_en
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables or Disables RSA handlers
+    XILPLMI_plm_sd_en:
+      name: XILPLMI_plm_sd_en
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables (if enabled in hardware design too) or Disables SD boot
+        mode
+    XILPLMI_plm_secure_en:
+      name: XILPLMI_plm_secure_en
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables or Disbales Secure features
+    XILPLMI_plm_sem_en:
+      name: XILPLMI_plm_sem_en
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables (if enabled in hardware design too) or Disables SEM feature
+    XILPLMI_plm_stl_en:
+      name: XILPLMI_plm_stl_en
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables or Disables STL
+    XILPLMI_plm_tpm_en:
+      name: XILPLMI_plm_tpm_en
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables or Disables TPM
+    XILPLMI_plm_uart_dbg_en:
+      name: XILPLMI_plm_uart_dbg_en
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables (if enabled in hardware design too) or Disables Debug prints
+        from UART (log to memory done irrespectively
+    XILPLMI_plm_usb_en:
+      name: XILPLMI_plm_usb_en
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables (if enabled in hardware design too) or disables USB boot
+        mode
+    XILPLMI_plm_version_user_defined:
+      name: XILPLMI_plm_version_user_defined
+      permission: read_write
+      type: integer
+      value: '0'
+      default: '0'
+      options: []
+      description: User defined PLM version.
+    XILPLMI_pm_restore_multiboot:
+      name: XILPLMI_pm_restore_multiboot
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables or disables the restoration of the multi-boot register
+        for A/B firmware platforms.
+    XILPLMI_sem_override_dbg_lvl:
+      name: XILPLMI_sem_override_dbg_lvl
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Override debug log level to 0 if Xilsem is present
+    XILPLMI_ssit_plm_to_plm_comm_en:
+      name: XILPLMI_ssit_plm_to_plm_comm_en
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables or Disables SSIT PLM to PLM communication (valid only for
+        Versal)
+    XILPLMI_ssit_secure_plm_to_plm_comm_en:
+      name: XILPLMI_ssit_secure_plm_to_plm_comm_en
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables or Disables SSIT secure PLM to PLM communication (valid
+        only for Versal)
+    XILPLMI_timestamp_en:
+      name: XILPLMI_timestamp_en
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables or Disables Timestamp prints
+    XILPLMI_user_modules_count:
+      name: XILPLMI_user_modules_count
+      permission: read_write
+      type: integer
+      value: '0'
+      default: '0'
+      options: []
+      description: Number of User Modules.
+  xilloader:
+    XILLOADER_cache_disable:
+      name: XILLOADER_cache_disable
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables/Disables Cache for XilLoader client library.
+  xilpm:
+    XILPM_Rail_Control:
+      name: XILPM_Rail_Control
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: 'true: Include power rail control feature support, false: Exclude
+        power rail control feature support'
+    XILPM_Versal_DVS:
+      name: XILPM_Versal_DVS
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: 'true: Include Versal DVS feature support, false: Exclude Versal
+        DVS feature support'
+    XILPM_apu_as_overlay_config_master:
+      name: XILPM_apu_as_overlay_config_master
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: 'true: APU has permission to load overlay config objects, false:
+        APU doesn''t have permission to load overlay config objects'
+    XILPM_apu_as_power_management_master:
+      name: XILPM_apu_as_power_management_master
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: 'true: APU as power management master, false: Disable APU as power
+        management master.'
+    XILPM_apu_as_reset_management_master:
+      name: XILPM_apu_as_reset_management_master
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: 'true: APU as reset management master, false: Disable APU as reset
+        management master'
+    XILPM_enable_bulk_dev_release:
+      name: XILPM_enable_bulk_dev_release
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: 'true: Include bulk device release feature support, false: Exclude
+        bulk device release feature support'
+    XILPM_enable_unregister_all_notifier:
+      name: XILPM_enable_unregister_all_notifier
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: 'true: Include unregister all notifier feature support, false:
+        Exclude unregister all notifier feature support'
+    XILPM_rpu0_as_overlay_config_master:
+      name: XILPM_rpu0_as_overlay_config_master
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: 'true: RPU0 has permission to load overlay config objects, false:
+        RPU0 doesn''t have permission to load overlay config objects'
+    XILPM_rpu0_as_power_management_master:
+      name: XILPM_rpu0_as_power_management_master
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: 'true: RPU0 as power management master, false: Disable RPU0 as
+        power management master.'
+    XILPM_rpu0_as_reset_management_master:
+      name: XILPM_rpu0_as_reset_management_master
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: 'true: RPU0 as reset management master, false: Disable RPU0 as
+        reset management master'
+    XILPM_rpu1_as_overlay_config_master:
+      name: XILPM_rpu1_as_overlay_config_master
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: 'true: RPU1 has permission to load overlay config objects, false:
+        RPU1 doesn''t have permission to load overlay config objects'
+    XILPM_rpu1_as_power_management_master:
+      name: XILPM_rpu1_as_power_management_master
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: 'true: RPU1 as power management master, false: Disable RPU1 as
+        power management master.'
+    XILPM_rpu1_as_reset_management_master:
+      name: XILPM_rpu1_as_reset_management_master
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: 'true: RPU1 as reset management master, false: Disable RPU1 as
+        reset management master'
+  xilsecure:
+    XILSECURE_cache_disable:
+      name: XILSECURE_cache_disable
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables/Disables Cache for XilSecure client library.
+    XILSECURE_dlen:
+      name: XILSECURE_dlen
+      permission: read_write
+      type: integer
+      value: '7'
+      default: '7'
+      options: []
+      description: Seed length in multiples of TRNG block size i.e 16 bytes and the
+        value ranging from 7 - 31
+    XILSECURE_elliptic_endianness:
+      name: XILSECURE_elliptic_endianness
+      permission: read_write
+      type: string
+      value: littleendian
+      default: littleendian
+      options:
+      - littleendian
+      - bigendian
+      description: Data endianness selection for elliptic curve APIs of Versal and
+        Versal Net this selection is applicable only for server mode
+    XILSECURE_elliptic_p192_support:
+      name: XILSECURE_elliptic_p192_support
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables/Disables P-192 curve support
+    XILSECURE_elliptic_p224_support:
+      name: XILSECURE_elliptic_p224_support
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables/Disables P-224 curve support
+    XILSECURE_elliptic_p256_support:
+      name: XILSECURE_elliptic_p256_support
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables/Disables P-256 curve support
+    XILSECURE_elliptic_p521_support:
+      name: XILSECURE_elliptic_p521_support
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables/Disables P-521 curve support
+    XILSECURE_secure_environment:
+      name: XILSECURE_secure_environment
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables trusted execution environment to allow device key usage(post
+        boot) in ZynqMP for IPI response/Linux/U-boot calls valid only for PMUFW BSP
+    XILSECURE_seedlife:
+      name: XILSECURE_seedlife
+      permission: read_write
+      type: integer
+      value: '256'
+      default: '256'
+      options: []
+      description: Number of generates required before reseeding and the value ranging
+        from 1 - 2^19 bits
+    XILSECURE_tpm_support:
+      name: XILSECURE_tpm_support
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables decryption of bitstream to memory and then writes it to
+        PCAP, allows calculation of sha on decrypted bitstream in chunks valid only
+        for ZynqMP FSBL BSP
+  xilsem: {}
+  xilpuf:
+    XILPUF_cache_disable:
+      name: XILPUF_cache_disable
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables/Disables Cache for XilPuf client library.
+  xilnvm:
+    XILNVM_cache_disable:
+      name: XILNVM_cache_disable
+      permission: read_write
+      type: boolean
+      value: 'true'
+      default: 'true'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables/Disables Cache for XilNvm client library.
+    XILNVM_en_add_ppks:
+      name: XILNVM_en_add_ppks
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables or Disables additional PPKs
+    XILNVM_en_write_key_management_efuse:
+      name: XILNVM_en_write_key_management_efuse
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables write operation for Key Management eFuses.
+    XILNVM_en_write_sec_crit_efuse:
+      name: XILNVM_en_write_sec_crit_efuse
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables write operation for Security Critical eFuses.
+    XILNVM_en_write_user_efuse:
+      name: XILNVM_en_write_user_efuse
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables write operation for User eFuses.
+    XILNVM_use_puf_hd_as_user_efuse:
+      name: XILNVM_use_puf_hd_as_user_efuse
+      permission: read_write
+      type: boolean
+      value: 'false'
+      default: 'false'
+      options:
+      - 'true'
+      - 'false'
+      description: Enables API's to use PUF Helper data efuses as user efuses.
+  xilocp: {}
+  xilcert: {}
+  xiltpm: {}
